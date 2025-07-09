@@ -1,2 +1,2 @@
-[activism](./Activism)
+[Advocacy](./Advocacy)
 
