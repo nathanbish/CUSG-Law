@@ -78,3 +78,12 @@ The UCSU Finance Board shall not alter the programmatic priorities of budgets ad
 **Text:**
 
 (a) Joint Board approval shall be required for any “open” operations account — defined as any account, such as programming funds, that does not contain predetermined expenses.
+
+## §6.1.6 – Joint Board Leadership Ineligibility for Executive Council Members
+
+**Enacted by** 19ECB12 (1983, “Joint Board Membership Conflict Rule”)
+
+**Text:**
+
+(a) Neither the Chair nor the Vice Chair of any Joint Board shall be a member of Executive Council.
+
