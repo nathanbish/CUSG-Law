@@ -95,3 +95,12 @@ At the start of the Pro-Tempore Report, the President Pro-Tempore shall make a b
 
 (e) The Legislative Affairs Commission shall represent and advance UCSU’s interests to the Colorado State Government and the United States Government.
 
+## §1.2.7 – Committee Operations Guide Requirement
+
+**Enacted by** 38 LCB 6 (1991)
+
+**Text:**
+
+(a) The Chair of each Standing Committee shall revise their committee's operations guide at the end of each session and submit it to the Vice President Pro Tempore.
+
+(b) A copy of the guide shall be retained by the current Chair of the committee, the President Pro Tempore, and the Vice President Pro Tempore.
