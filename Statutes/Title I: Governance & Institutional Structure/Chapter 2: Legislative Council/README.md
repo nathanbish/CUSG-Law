@@ -22,3 +22,18 @@
 
 (d) Trainees shall review the folder containing copies of all legislation from the current session before their second Executive Council meeting.
 
+## §1.2.2 – Appointee Education Requirement Prior to Ratification
+
+**Enacted by** 18 ECB 23 (1983, “Appointee Education Process Before Ratification”)
+
+**Text:**
+
+(a) After a Joint Board appointment has been made, the individual appointed shall complete an education process.
+
+(b) The education process shall be administered jointly by:  
+> (i) The Chair of the Appointments Committee  
+> (ii) The Chair of the relevant Joint Board
+
+(c) The Chair of the Appointments Committee shall enforce this process by meeting with the appointee prior to ratification.
+
+(d) This education process shall be completed before the appointee is ratified by the Executive Council.
