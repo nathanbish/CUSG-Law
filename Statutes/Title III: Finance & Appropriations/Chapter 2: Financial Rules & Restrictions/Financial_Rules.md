@@ -50,3 +50,14 @@ Local Schools Council receives student fee monies directly
 from the student body or until Local Schools Council adopts a 
 provision such as this into their bylaws, whichever comes first," Neither of which has been confirmed by the codifier, though that does not mean such has not occured.
 
+## §3.2.5 – Central Reserve Travel Cap & Treasurer Reporting Duties
+
+**Enacted by** 32 LCB 1 (1989)
+
+**Text:**
+
+(a) No more than twenty percent (20%) of Legislative Council's Central Reserve shall be spent on out-of-state travel in any given fiscal year.
+
+(b) The Treasurer of Legislative Council shall be responsible for obtaining the correct figures for out-of-state travel from the Student Finance Office and including such information in each Legislative Council financial report.
+
+(c) The Treasurer shall include the percentage of the Central Reserve allocated for out-of-state travel in each financial report.
