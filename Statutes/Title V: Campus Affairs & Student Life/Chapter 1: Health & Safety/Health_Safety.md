@@ -16,3 +16,16 @@ Upon acceptance of sanctuary by guests from El Salvador, Guatemala, or any other
 >
 > As such, although the statute references INS by name, its protective intent is rooted in opposing federal actions that deny legitimate claims for political asylum by guests invited for educational purposes. This could include contemporary agencies engaged in similar practices if the factual context aligns with that critique.
 
+## §5.1.1 – Publication of Sexual Assault and Harassment Information
+
+**Enacted by** 33 LCB 3 (1990)
+
+**Text:**
+
+(a) Legislative Council, Executives, and Executive Staff shall work toward the inclusion of the following content in major university publications, including but not limited to: the CU Boulder Catalog, the Student Handbook, Standards of Student Conduct, the Guide to Residence Hall Living, and materials distributed to first-year and transfer students:
+
+> (i) A definition of sexual assault, the degrees of the crime, and its legal penalties;  
+> (ii) A definition of sexual harassment and sexual exploitation by strangers, peers, and persons of authority;  
+> (iii) Statistics on rape that include women and men and specify acquaintance rape, using sources such as the FBI, the Boulder Rape Crisis Team, and DARE;  
+> (iv) A description of the rights of victims of sexual assault and sexual harassment, and the services available to victims within the University and the surrounding community;  
+> (v) Specific student conduct codes prohibiting sexual assault, along with a clear outline of University penalties.
