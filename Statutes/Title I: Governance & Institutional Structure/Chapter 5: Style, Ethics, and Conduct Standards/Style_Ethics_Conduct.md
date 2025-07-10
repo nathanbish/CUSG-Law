@@ -23,3 +23,14 @@
 > (iii) All other words that use the root “man” shall be replaced by inclusive alternatives.
 
 (b) UCSU encourages the use of non-sexist language in all meetings of the Executive Council, Joint Boards, committees, and other official UCSU gatherings.
+
+## §1.5.2 – Removal of GPA and Age from UCSU Applications
+
+**Enacted by** 23ECB17 (1985, “Bylaws”)
+
+**Text:**
+
+(a) UCSU applications shall not include GPA.
+
+(b) UCSU applications shall not include age.
+
