@@ -38,3 +38,25 @@ The UCSU Finance Board shall not alter the programmatic priorities of budgets ad
 (d) The Finance Director shall serve as chair of the committee.
 
 (e) The committee shall operate as needed until the financial matters of the Environmental Board are deemed to be in satisfactory order by the committee itself.
+
+## §6.1.3 – Exception Appeals Process for Joint Board Policy
+
+**Enacted by** 15 ECB 25 (1981, “Joint Board Appeals Procedure”)
+
+**Text:**
+
+### Procedures
+
+(a) Parties seeking exception status from standard Joint Board policy must first appeal to the relevant Joint Board. Direct appeals to the Executive Council are not permitted without prior Joint Board consideration.
+
+(b) If the Joint Board denies the request, the petitioner may appeal to the Executive Council for final reconsideration.
+
+(c) The Joint Board must inform the petitioner of their right to appeal under subsection (b).
+
+### Discretion
+
+(d) A Joint Board may define its own criteria for granting exceptions to regular policy as it deems appropriate.
+
+(e) In considering requests, the Joint Board should exercise discretion and sensitivity toward the specific circumstances of each case.
+
+(f) In extraordinary situations, a Joint Board may elect to refer a request directly to the Executive Council for decision.
