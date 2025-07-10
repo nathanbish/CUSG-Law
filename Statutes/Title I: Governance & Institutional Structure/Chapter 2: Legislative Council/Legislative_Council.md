@@ -45,3 +45,31 @@
 **Text:**
 
 At the start of the Pro-Tempore Report, the President Pro-Tempore shall make a brief statement concerning the procedures by which Council operates, specifically including how a member of the audience may gain the floor during the meeting.
+
+# Title I – Governance & Institutional Structure  
+## Chapter 2 – Legislative Council
+
+### §1.2.5 Representative Resignation Procedure
+
+**Enacted by**: 29 ECB 37 (1988)  
+
+**Text:**
+
+**(a)** When any official of the UCSU is replaced during their term, the new official shall fill out the balance of the term, with all powers and responsibilities of the former member.
+
+**(b)** Representative Council members who wish to resign from their position shall be required to:
+
+> (i) Submit a formal letter of resignation to members of Representative Council two weeks prior to resignation.
+> 
+> > 1. The Representative Council shall interview the designated replacement.
+> > 2. If the Representative Council deems reasonable steps have not been taken, the resignation is considered invalid.
+
+> (ii) Take reasonable steps to present a designated replacement at least to Representative Council two weeks prior to resignation.
+
+> (iii) Submit a letter of resignation to the student body through the campus newspapers two weeks prior to resignation explaining the reasons for resigning and announcing the date of resignation for the purpose of inviting students to the Executive Council meeting to question the Representative and their replacement.
+
+**(c)** If the Representative fails to comply with (i), (ii), or (iii), the resignation will be considered invalid.
+
+---
+
+**Note**: The legislation references "Article VII Section C of the UCSU By-Laws," which are no longer publicly identifiable. It is assumed that this content represents the entirety of that bylaw section and thus remains in force as a codified statute.
