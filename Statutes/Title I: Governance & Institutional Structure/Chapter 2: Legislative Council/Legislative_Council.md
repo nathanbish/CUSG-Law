@@ -47,7 +47,7 @@
 At the start of the Pro-Tempore Report, the President Pro-Tempore shall make a brief statement concerning the procedures by which Council operates, specifically including how a member of the audience may gain the floor during the meeting.
 
 
-### §1.2.5 Representative Resignation Procedure
+## §1.2.5 Representative Resignation Procedure
 
 **Enacted by**: 29 ECB 37 (1988)  
 
