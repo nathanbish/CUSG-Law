@@ -37,3 +37,11 @@
 (c) The Chair of the Appointments Committee shall enforce this process by meeting with the appointee prior to ratification.
 
 (d) This education process shall be completed before the appointee is ratified by the Executive Council.
+
+## §1.2.3 – Procedural Announcements by the President Pro-Tempore
+
+**Enacted by** 26ECB22 (1987, “Executive Operations”)
+
+**Text:**
+
+At the start of the Pro-Tempore Report, the President Pro-Tempore shall make a brief statement concerning the procedures by which Council operates, specifically including how a member of the audience may gain the floor during the meeting.
