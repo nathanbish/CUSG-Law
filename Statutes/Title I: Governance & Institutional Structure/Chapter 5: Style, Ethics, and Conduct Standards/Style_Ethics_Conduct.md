@@ -34,3 +34,11 @@
 
 (b) UCSU applications shall not include age.
 
+### §1.5.2 – Conference Editorial Clause in Funding Bills
+
+**Enacted by** 26 ECB 41 (1987, “Conference Funding Follow-Up Requirements”)
+
+**Text:**  
+All bills requesting student fee funding for participation in educational or informational conferences shall include a clause requiring the funded student to submit editorials to all campus newspapers within three weeks of their return.
+
+
