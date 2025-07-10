@@ -31,3 +31,15 @@
 (a) All students who receive funding from Executive Council to attend a conference or workshop with an educational or informational emphasis shall submit editorials to all campus newspapers within three weeks of their return.
 
 (b) If Council determines that the requirement in subsection (a) was not fulfilled, the student and their affiliated group shall be denied funding for one year.
+
+## §3.2.4 – Restrictions on Dual Funding from Executive Council and Local Schools Council
+
+**Enacted by** 27 ECB 22 (1987, “Student Group Funding Restrictions”)
+
+**Text:**
+
+(a) Student groups or local service organizations requesting funds from the Executive Council shall not be referred to the Local Schools Council if the full amount of funding is not obtained.  
+
+(b) No event shall be jointly funded by both the Executive Council and the Local Schools Council.  
+
+(c) If a student group or local service organization receives additional funding from the Local Schools Council in violation of this section, the Finance Director shall withhold or stop disbursement of all funds allocated by the Executive Council for the same purpose.
