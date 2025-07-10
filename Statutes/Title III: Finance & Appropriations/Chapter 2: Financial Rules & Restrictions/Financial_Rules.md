@@ -21,3 +21,13 @@
 **Text:**
 
 (a) The Student Finance Director shall not release funds from a Joint Board account unless approval has been granted by the respective Joint Board.
+
+## §3.2.3 – Editorial Requirement for Educational Conference Funding
+
+**Enacted by** 19ECB45 (1983, “Financial Rules & Restrictions”)
+
+**Text:**
+
+(a) All students who receive funding from Executive Council to attend a conference or workshop with an educational or informational emphasis shall submit editorials to all campus newspapers within three weeks of their return.
+
+(b) If Council determines that the requirement in subsection (a) was not fulfilled, the student and their affiliated group shall be denied funding for one year.
