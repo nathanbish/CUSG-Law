@@ -16,7 +16,7 @@ Upon receiving an accusation from any member of the student body that a student 
 
 (d) If the committee finds the student group in violation of subsection (a), the group shall lose access to funding for a period of no less than three months and no more than one calendar year.
 
-### §4.2.2 – Editorial Submission Requirement for Conference Funding
+## §4.2.2 – Editorial Submission Requirement for Conference Funding
 
 **Enacted by** 26 ECB 41 (1987, “Conference Funding Follow-Up Requirements”)
 
