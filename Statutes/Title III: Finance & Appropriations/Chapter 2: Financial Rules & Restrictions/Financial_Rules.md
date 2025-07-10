@@ -43,3 +43,9 @@
 (b) No event shall be jointly funded by both the Executive Council and the Local Schools Council.  
 
 (c) If a student group or local service organization receives additional funding from the Local Schools Council in violation of this section, the Finance Director shall withhold or stop disbursement of all funds allocated by the Executive Council for the same purpose.
+
+---
+**Note:** A sunset clause was contained in the original legislation reading, "This Bill takes effect upon passage and remains in effect until 
+Local Schools Council receives student fee monies directly 
+from the student body or until Local Schools Council adopts a 
+provision such as this into their bylaws, whichever comes first," Neither of which has been confirmed by the codifier, though that does not mean such has not occured.
