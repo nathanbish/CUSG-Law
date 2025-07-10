@@ -60,3 +60,13 @@ The UCSU Finance Board shall not alter the programmatic priorities of budgets ad
 (e) In considering requests, the Joint Board should exercise discretion and sensitivity toward the specific circumstances of each case.
 
 (f) In extraordinary situations, a Joint Board may elect to refer a request directly to the Executive Council for decision.
+
+## §6.1.4 – Prohibition on Individual Gifts from Cultural Events Board to Executive Council Members
+
+**Enacted by** 19ECB43 (1983, “Cultural Events Board Ethics”)
+
+**Text:**
+
+(a) No tickets, complimentary passes, or other forms of consideration shall be individually extended by the Cultural Events Board (CEB) to any member of the Executive Council.
+
+(b) Any such consideration may only be presented to the Executive Council as a collective body, not to individual members.
