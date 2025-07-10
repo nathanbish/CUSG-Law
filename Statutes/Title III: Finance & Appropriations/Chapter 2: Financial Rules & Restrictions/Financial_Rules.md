@@ -61,3 +61,16 @@ provision such as this into their bylaws, whichever comes first," Neither of whi
 (b) The Treasurer of Legislative Council shall be responsible for obtaining the correct figures for out-of-state travel from the Student Finance Office and including such information in each Legislative Council financial report.
 
 (c) The Treasurer shall include the percentage of the Central Reserve allocated for out-of-state travel in each financial report.
+
+
+## §3.2.6 – Posting Requirements for Student-Funded Materials
+
+**Enacted by** 40 LCB 10 (1994)
+
+**Text:**
+
+(a) All copies for posting printed using student fees shall display the recycled paper logo, available from the UCSU office.
+
+(b) All copies for posting printed using student fees shall display the UCSU logo, available from the UCSU office.
+
+(c) All postings made by UCSU shall comply with CU Posting Policy Regulations.
