@@ -71,3 +71,26 @@ At the start of the Pro-Tempore Report, the President Pro-Tempore shall make a b
 ---
 
 **Note**: The legislation references "Article VII Section C of the UCSU By-Laws," which are no longer publicly identifiable. It is assumed that this content represents the entirety of that bylaw section and thus remains in force as a codified statute.
+
+## §1.2.6 – Legislative Affairs Commission
+
+**Enacted by** 32 LCB 6 (1989)
+
+**Text:**
+
+(a) A Legislative Affairs Commission shall be formed to represent the University of Colorado Student Government in state and federal student government affairs.
+
+> (i) The Commission shall be composed of the following members:  
+> > – One UCSU Executive and/or Appointment  
+> > – The UCSU Legislative Affairs Commissioner  
+> > – One representative from the Council of Colleges and Schools (CCS)  
+> > – One representative from Representative Council  
+> > – Two individuals appointed by the Legislative Council Appointments Committee  
+
+(b) The UCSU Legislative Affairs Commissioner shall serve as Chair of the Legislative Affairs Commission and shall report to Legislative Council monthly.
+
+(c) The Legislative Affairs Commission shall elect one member from among its members to serve on the CSA Board of Directors.
+
+(d) All appointments to the Legislative Affairs Commission shall not exceed a one-year term.
+
+(e) The Legislative Affairs Commission shall represent and advance UCSU’s interests to the Colorado State Government and the United States Government.
