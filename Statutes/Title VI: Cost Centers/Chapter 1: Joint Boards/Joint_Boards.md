@@ -70,3 +70,11 @@ The UCSU Finance Board shall not alter the programmatic priorities of budgets ad
 (a) No tickets, complimentary passes, or other forms of consideration shall be individually extended by the Cultural Events Board (CEB) to any member of the Executive Council.
 
 (b) Any such consideration may only be presented to the Executive Council as a collective body, not to individual members.
+
+## §6.1.5 – Approval Requirement for Open Joint Board Accounts
+
+**Enacted by** 19ECB38 (1983, “Joint Board Financial Oversight”)
+
+**Text:**
+
+(a) Joint Board approval shall be required for any “open” operations account — defined as any account, such as programming funds, that does not contain predetermined expenses.
