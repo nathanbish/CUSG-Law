@@ -14,3 +14,10 @@
 
 (c) The purpose of this report is to support responsible fiscal decision-making for the current fiscal year and to prevent deficit spending, as occurred in previous years.
 
+## §3.2.2 – Joint Board Approval Required for Fund Disbursement
+
+**Enacted by** 19ECB38 (1983, “Joint Board Financial Oversight”)
+
+**Text:**
+
+(a) The Student Finance Director shall not release funds from a Joint Board account unless approval has been granted by the respective Joint Board.
