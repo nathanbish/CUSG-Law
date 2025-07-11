@@ -45,3 +45,22 @@
 (g) The Director of the Student Organization Funding Office must submit a statement either approving or raising concerns with the completed student funding guide website within seven (7) working days of submission. This statement shall be sent to the Tri-Executives and the Legislative Council.
 
 (h) The student funding guide website must be updated as needed, and reviewed no less than once per academic year.
+
+
+## §3.5.3 – Referenda Oversight Procedures
+
+**Enacted by** 60 LCB 04 (2004, “Referenda Oversight”)
+
+**Text:**
+
+(a) The Finance Board shall, once each semester, review the budgets of all UCSU referenda groups using the PeopleSoft printout produced by the Student Organizations Finance Office.
+
+(b) The Finance Board shall also have access to the proposed budget and mission of each referenda group as provided to the Election Commissioner at the time the group originally ran the referendum in UCSU elections.
+
+(c) During the spring semester review, each referenda group must appear before the Finance Board to present their budget and respond to questions.
+
+(d) During the fall semester review, referenda groups are not required to appear before the Finance Board but may do so at their discretion.
+
+(e) If, after reviewing any referenda group's budget, the Finance Board determines that referenda money is being used in a manner that necessarily and inherently negatively affects the well-being of the students of the University of Colorado at Boulder, violates State law or university policy, or is spent obviously outside of the group’s referendum purpose statement—as defined in UCSU Constitution XIII.E.—the Finance Board may recommend that the Legislative Council create an ad hoc committee to investigate.
+
+(f) If such an ad hoc committee is created, it is preferred that the Legislative Council consult the Chair of the Finance Board and the Director of SOFO to gain an understanding of the issue, and that these individuals sit on the committee as ex officio, non-voting members.
