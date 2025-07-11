@@ -42,3 +42,24 @@
 All bills requesting student fee funding for participation in educational or informational conferences shall include a clause requiring the funded student to submit editorials to all campus newspapers within three weeks of their return.
 
 
+## §1.5.1 – Responsibility and Accountability of UCSU Officials
+
+**Enacted by** 61 LCB 08 (2004, “Proper Impeachment Proceedings”)
+
+**Text:**
+
+(a) UCSU Officials are responsible for the duties, powers, and obligations entrusted to them upon appointment or election.
+
+(b) These responsibilities must be upheld throughout their term of office.
+
+## §1.5.2 – Standards for Impeachability
+
+**Enacted by** 61 LCB 08 (2004, “Proper Impeachment Proceedings”)
+
+**Text:**
+
+(a) Any UCSU Official may be subject to impeachment upon a showing that their actions meet one or more of the following criteria:
+
+> (i) Abuse of power, or failure to use power appropriately or responsibly.  
+> (ii) Negligence or misconduct, including actions which violate the Constitution, Legislation, or any other UCSU rules.  
+> (iii) Failure to perform required duties or fulfill obligations as defined by their position.
