@@ -87,3 +87,26 @@ The UCSU Finance Board shall not alter the programmatic priorities of budgets ad
 
 (a) Neither the Chair nor the Vice Chair of any Joint Board shall be a member of Executive Council.
 
+
+## §6.1.6 – Appointment and Oversight of Joint Board Membership
+
+**Enacted by** 49 LCB 09 (1998)
+
+**Text:**
+
+(a) The power of ratification for appointments to Joint Boards shall be delegated from the Legislative Council to the Joint Boards themselves.
+
+(b) Members appointed to the Finance Board shall continue to require ratification by the Legislative Council.
+
+(c) Chairs of Joint Boards shall continue to require ratification by the Legislative Council.
+
+(d) The Legislative Council shall retain the authority to summon any member of a Joint Board for review and may dismiss the member if deemed necessary.
+
+
+## §6.1.7 – Joint Board Semesterly Reporting Requirement
+
+**Enacted by** [LCB number needed] (1998)
+
+**Text:**
+
+(a) At least once per semester, each Joint Board shall appear before the Legislative Council for an informal exchange and report on its activities.
