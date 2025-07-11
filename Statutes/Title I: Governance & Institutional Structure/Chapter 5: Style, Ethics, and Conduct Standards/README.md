@@ -34,7 +34,7 @@
 
 (b) UCSU applications shall not include age.
 
-### §1.5.2 – Conference Editorial Clause in Funding Bills
+## §1.5.3 – Conference Editorial Clause in Funding Bills
 
 **Enacted by** 26 ECB 41 (1987, “Conference Funding Follow-Up Requirements”)
 
