@@ -69,3 +69,57 @@
 (b) Additional proposed changes to the budget approved by Finance Board must be attached separately.
 
 (c) A UCSU fee funded organization is defined as any recipient of UCSU student fees that is required to report to Finance Board, but is not considered a cost center.
+
+
+## §3.1.54 – Five-Year Planning Requirement for Cost Centers
+
+**Enacted by** 62 LCB 01 (2004, “Five Year Plans”)
+
+**Text:**
+
+(a) All cost centers shall provide every member of the Legislative Council, including ex-officio members, with a five-year plan no less than two weeks prior to the budget hearing for that cost center at Legislative Council.
+
+(b) Each five-year plan shall be formatted according to the following structure, with discretion to adapt based on cost center-specific needs:
+> (i) Table of Contents  
+> (ii) Introduction  
+> > 1. Brief cost center history  
+> > 2. Plan highlights  
+> > 3. Methodology explanation  
+> (iii) Mission Statement  
+> > 1. Official mission  
+> > 2. Expansion on mission and its relation to the missions of Student Affairs and UCSU  
+> (iv) Vision and Values  
+> > 1. Long-term vision and aspirational goals  
+> > 2. Core values  
+> (v) SWOT Analysis  
+> > 1. Strengths and successes  
+> > 2. Weaknesses and areas for improvement  
+> > 3. Opportunities for growth  
+> > 4. Threats or risks  
+> (vi) Long-Term Goals and Needs  
+> > 1. Strategic long-term goals  
+> > 2. Anticipated resource needs  
+> (vii) Plan of Action  
+> > 1. Steps to achieve goals and meet resource needs  
+> > 2. Innovative strategies  
+> (viii) Timeline  
+> > 1. Milestone tracking  
+> > 2. Program development  
+> > 3. Fulfillment of resource plans  
+> (ix) Team Member Relations  
+> > 1. Goal accountability  
+> > 2. Evaluation and development of team members  
+> (x) Environment and Sustainability  
+> > 1. Impact reduction and alignment with UCSU sustainability standards  
+> (xi) Diversity  
+> > 1. Inclusion and support for diverse populations  
+> (xii) Organizational Structure  
+> > 1. Chart of positions and justification  
+> (xiii) Sub-Division/Programmatic Plans  
+> > 1. Individual program five-year plans if applicable
+
+(c) The five-year plan shall be treated as a living document and revised annually.
+
+(d) The prescribed format in §3.1.5(b) serves as a recommended guide; cost centers may make adjustments based on their operational context.
+
+(e) While five-year plans will be considered during the budgeting process, they do not bind future financial decisions by the Legislative Council.
