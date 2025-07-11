@@ -2,7 +2,7 @@
 
 ## §3.3.X – Environmental Paper Purchasing (Cross-Reference)
 
-**Note:** For paper product, toilet paper, paper towel, dispenser towel, napkin, facial tissue, and cup insulator sleeve purchasing standards related to recycled content and chlorine-free materials, see §7.1.2 of Title VII – Sustainability & Environmental Policy.
+**Note:** For paper product, toilet paper, paper towel, dispenser towel, napkin, facial tissue, and cup insulator sleeve purchasing standards related to recycled content and chlorine-free materials, see §7.3.X of Title VII – Sustainability & Environmental Policy.
 
 
 ## §3.3.1 – Nestlé Product Ban
