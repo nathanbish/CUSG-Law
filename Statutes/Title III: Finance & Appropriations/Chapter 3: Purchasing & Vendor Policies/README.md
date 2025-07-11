@@ -1,5 +1,9 @@
 # Chapter 3 – Purchasing & Vendor Policies
 
+## §3.3.X – Environmental Paper Purchasing (Cross-Reference)
+
+**Note:** For paper product purchasing standards related to recycled content and chlorine-free materials, see §7.1.2 of Title VII – Sustainability & Environmental Policy.
+
 ## §3.3.1 – Nestlé Product Ban
 
 **Enacted by** 16 ECB 21 (1981)
