@@ -105,7 +105,7 @@ At the start of the Pro-Tempore Report, the President Pro-Tempore shall make a b
 
 (b) A copy of the guide shall be retained by the current Chair of the committee, the President Pro Tempore, and the Vice President Pro Tempore.
 
-## §1.2.6 – Compensation Policy for Representative Council and CCS Speakers
+## §1.2.8 – Compensation Policy for Representative Council and CCS Speakers
 
 **Enacted by** 49 LCB 09 (1998)
 
@@ -122,7 +122,7 @@ At the start of the Pro-Tempore Report, the President Pro-Tempore shall make a b
 
 (d) The Legislative Council President shall send a memorandum to the Student Organizations Finance Office indicating both the beginning and ending dates for the pay period of each Representative Council and CCS Speaker.
 
-## §1.2.7 – Legislative Council Leadership Compensation
+## §1.2.9 – Legislative Council Leadership Compensation
 
 **Enacted by** 51 LCB 02 (1999)
 
