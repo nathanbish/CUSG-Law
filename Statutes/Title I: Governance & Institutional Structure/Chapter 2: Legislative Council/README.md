@@ -158,3 +158,18 @@ At the start of the Pro-Tempore Report, the President Pro-Tempore shall make a b
 (a) The CUSG office managers shall update a compiled and indexed document of all laws passed by the Legislative Council, excluding bylaw changes, at the end of each legislative session.
 
 (b) This document shall be distributed to all members of the Legislative Council at the start of each new session.
+
+
+## §1.2.8 – Diversity Training Requirement for Legislative Council Members
+
+**Enacted by** 58 LCB 12 (2003)
+
+**Text:**
+
+(a) All new Legislative Council members shall be required to attend a diversity training session no later than eight weeks after they take office.
+
+(b) Legislative Council members who replace a representative or serve as permanent proxies shall be required to attend the first Legislative Council diversity training available.
+
+(d) The Vice President of the Legislative Council shall be responsible for planning the session’s date, time, location, and all other necessary arrangements for the diversity training by the stipulated deadline.
+
+>**Note:** This onboarding requirement is distinct from the recurring Cultural Awareness Workshop mandate in §2.2.1
