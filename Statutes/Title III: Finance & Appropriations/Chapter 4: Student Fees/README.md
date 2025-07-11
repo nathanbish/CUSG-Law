@@ -32,7 +32,7 @@ Approved doctoral students who wish to purchase university-sponsored insurance s
 > **Note:** This section may no longer reflect current fee-setting practices, which are now determined by a fixed annual amount. No formal repeal of this statute has been identified.
 
 
-### §3.4.2 – Undergraduate and Graduate Student Fee Classification
+## §3.4.2 – Undergraduate and Graduate Student Fee Classification
 
 **Enacted by** 50 LCB 06 (1999)
 
