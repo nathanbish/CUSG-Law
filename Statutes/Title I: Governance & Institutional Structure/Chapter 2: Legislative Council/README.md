@@ -147,3 +147,14 @@ At the start of the Pro-Tempore Report, the President Pro-Tempore shall make a b
 (b) All Council of Colleges and Schools (CCS) Senators shall submit an activity report to e-time during the same time cycles that executive staff members submit their reports. Reports shall include activities conducted within each senator’s respective school.
 
 (c) Failure to submit a report within seven days of the end of the reporting period shall count as the equivalent to a Legislative Council meeting absence. Disciplinary action shall be assessed according to applicable CUSG by-laws.
+
+
+## §1.2.7 – Distribution of Legislative Compilation to Incoming Councilmembers
+
+**Enacted by** 55 LCB 02 (2001)
+
+**Text:**
+
+(a) The CUSG office managers shall update a compiled and indexed document of all laws passed by the Legislative Council, excluding bylaw changes, at the end of each legislative session.
+
+(b) This document shall be distributed to all members of the Legislative Council at the start of each new session.
