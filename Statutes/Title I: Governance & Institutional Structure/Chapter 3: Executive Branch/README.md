@@ -12,29 +12,18 @@
 
 (c) If an Executive Staff member fails to meet these standards, they may be summoned before the UCSU Executive Council to respond to allegations concerning inadequate job performance.
 
-## §1.3.2 – State of the Student Union Address
 
-**Enacted by** 51 LCB 06 (1999)
+## Removed Statute
 
-**Text:**
+**§1.3.2 – State of the Student Union Address**
 
-(a) The Executive shall deliver before Legislative Council a speech called the State of the Student Union Address twice per academic year. This speech shall occur:
-> (i) During the third week of the fall semester;  
-> (ii) During the third week of the spring semester;  
-> (iii) Or at another time during September and January as agreed upon by the Executive and the Legislative Council President.
+**Original Enactment:** 51 LCB 06 (1999)  
+**Removed:** Repealed by 53 LCB 05  
+**Reason for Removal:** Superseded by Bylaws; not independently operative as statutory law.
 
-(b) The Executive shall create and distribute a written outline of the major points of the speech to Legislative Council members, the media, and the Administration.
+### Removal Justification:
+The statute directed an amendment to the UCSU Bylaws, stating that the State of the Student Union Address would be delivered *“according to the specifications in the UCSU By Laws.”* The legislation did not establish an enforceable legal obligation outside the Bylaws and was not self-executing. As a result, its force is wholly dependent on the continued existence and enforcement of the relevant Bylaw provision. Since codified statutes must stand independently of Bylaw interpretation or dependency, this provision has been removed from the statutory code.
 
-(c) Legislative Council may control the length of the speech but shall not restrict it to fewer than 10 minutes.
-
-(d) The speech shall include:
-> (i) UCSU's accomplishments;  
-> (ii) The state of the student body;  
-> (iii) The state of relations with the administration;  
-> (iv) Current initiatives and projects;  
-> (v) Other information relevant to the UCSU administration and the student body.
-
-(e) Members of Legislative Council may not offer motions during the speech, except motions governing the length of the speech.
 
 ## §1.3.3 – Executive Pay Structure
 
@@ -51,3 +40,14 @@
 (d) During the period of overlap (hereafter called "TRANSITION PERIOD") between the election of the new Executives and the UCSU Constitutional end of the current Executives' term, the newly elected Executives shall receive one half of the amount of salary of the current Executives and the current Executives shall be paid their regular salary.
 
 (e) The Legislative Council President shall send a memorandum to the Student Organizations Finance Office stating the beginning and ending dates of the Executive pay period in accordance with the provisions of this section. The Legislative Council President shall also send a copy of the legislation establishing the pay rate.
+
+
+## §1.3.4 – Recognition of Executive Branch Bylaws
+
+**Enacted by** 53 LCB 05 (2000)
+
+**Text:**
+
+(a) The Executive Branch shall operate according to the Executive Branch Bylaws.
+
+(b) The Executive(s) may only be removed by impeachment or recall, as described in Article X of the UCSU Constitution.
