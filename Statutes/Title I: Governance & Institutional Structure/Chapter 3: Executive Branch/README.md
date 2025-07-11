@@ -35,3 +35,19 @@
 > (v) Other information relevant to the UCSU administration and the student body.
 
 (e) Members of Legislative Council may not offer motions during the speech, except motions governing the length of the speech.
+
+## §1.3.3 – Executive Pay Structure
+
+**Enacted by** 51 LCB 3 (1999)
+
+**Text:**
+
+(a) The pay rate of the UCSU Executives shall be set by Legislative Council each spring before the first hearing of the UCSU Proper budget at Finance Board. The pay rate shall be established through legislation in the form of a secondary measure.
+
+(b) Once the newly elected Executives take office in the spring, they shall receive the same rate of pay as the previous Executives until the end of the fiscal year, June 30.
+
+(c) Upon the change in the fiscal year, July 1, the Executives shall receive the pay rate established by Legislative Council during the immediately previous fiscal year.
+
+(d) During the period of overlap (hereafter called "TRANSITION PERIOD") between the election of the new Executives and the UCSU Constitutional end of the current Executives' term, the newly elected Executives shall receive one half of the amount of salary of the current Executives and the current Executives shall be paid their regular salary.
+
+(e) The Legislative Council President shall send a memorandum to the Student Organizations Finance Office stating the beginning and ending dates of the Executive pay period in accordance with the provisions of this section. The Legislative Council President shall also send a copy of the legislation establishing the pay rate.
