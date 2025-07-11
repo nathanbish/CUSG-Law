@@ -1,4 +1,4 @@
-# 🗳️ Title II – Elections & Representation
+# 🗳️ Title II: Elections & Representation
 
 ## 📂 Chapters
 
