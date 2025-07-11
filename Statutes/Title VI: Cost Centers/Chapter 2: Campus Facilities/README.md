@@ -39,3 +39,11 @@
 (b) The University of Colorado Federal Credit Union shall be exempt from this policy within the Credit Union’s leased space and when tabling for membership in the University Memorial Center.
 
 (c) For the purposes of this section, UCSU Cost Centers shall include the University Memorial Center and the Recreation Center.
+
+## §6.2.3 – Gender-Neutral and Family Facility Requirement in UCSU Buildings
+
+**Enacted by** 59 LCB 11 (2003)
+
+**Text:**
+
+(a) All UCSU buildings must have gender neutral, unisex, and/or family facilities, which are readily accessible, but not limited to, restrooms on every floor.
