@@ -40,10 +40,21 @@
 
 (c) For the purposes of this section, UCSU Cost Centers shall include the University Memorial Center and the Recreation Center.
 
-## §6.2.3 – Gender-Neutral and Family Facility Requirement in UCSU Buildings
+
+## §6.2.5 – Gender-Neutral and Family Facility Requirement in UCSU Buildings
 
 **Enacted by** 59 LCB 11 (2003)
 
 **Text:**
 
 (a) All UCSU buildings must have gender neutral, unisex, and/or family facilities, which are readily accessible, but not limited to, restrooms on every floor.
+
+
+## §6.2.6 – Prohibition on Herbicide Use Near UCSU Facilities
+
+**Enacted by** 61 LCB 07 (2004, “Herbicide Spraying Near Cost Centers”)
+
+**Text:**
+
+(a) The use of herbicide is prohibited within one hundred fifty (150) meters of all UCSU student-fee-funded buildings.
+
