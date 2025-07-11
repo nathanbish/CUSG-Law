@@ -58,3 +58,13 @@
 
 (a) The use of herbicide is prohibited within one hundred fifty (150) meters of all UCSU student-fee-funded buildings.
 
+
+## §6.2.7 – Herbicide Pre-Spraying Walkthrough Protocol
+
+**Enacted by** 61 LCB 06 (2004, “Herbicide Walkthrough”)
+
+**Text:**
+
+(a) The UCSU Environmental Center Joint Board shall have the ability to designate a person to accompany Facilities Management on their pre-spraying walkthrough of university grounds.
+
+(b) The walkthrough designee shall report to the Environmental Board to debrief the board about the walkthrough and work in conjunction with the UCSU Environmental Director to ensure the university Integrated Pest Management (IPM) policy is being followed.
