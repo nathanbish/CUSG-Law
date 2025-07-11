@@ -51,3 +51,14 @@ The statute directed an amendment to the UCSU Bylaws, stating that the State of 
 (a) The Executive Branch shall operate according to the Executive Branch Bylaws.
 
 (b) The Executive(s) may only be removed by impeachment or recall, as described in Article X of the UCSU Constitution.
+
+
+## §1.3.5 – Diversity Training Requirement for Executives and Executive Staff
+
+**Enacted by** 58 LCB 12 (2003)
+
+**Text:**
+
+(a) The executives and executive staff shall be required to attend diversity training no later than eight weeks after taking office.
+
+(b) The UCSU tri-executives shall be responsible for planning the session’s date, time, location, and all other necessary arrangements for the diversity training by the stipulated deadline.
