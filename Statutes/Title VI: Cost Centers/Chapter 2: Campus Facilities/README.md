@@ -68,3 +68,16 @@
 (a) The UCSU Environmental Center Joint Board shall have the ability to designate a person to accompany Facilities Management on their pre-spraying walkthrough of university grounds.
 
 (b) The walkthrough designee shall report to the Environmental Board to debrief the board about the walkthrough and work in conjunction with the UCSU Environmental Director to ensure the university Integrated Pest Management (IPM) policy is being followed.
+
+
+## §6.2.6 – UCSU Green Building Standards
+
+**Enacted by** 61 LCB 05 (2004, “UCSU Green Building Standard”)
+
+**Text:**
+
+(a) All expansions of UCSU buildings, major renovations, and new construction must be designed and certified to meet or exceed the LEED Gold Standard. Major renovations and expansions of UCSU buildings should strive to meet the LEED Platinum standard.
+
+(b) All minor renovations and required upkeep of UCSU buildings shall be designed and selected in accordance with the ideals embodied in the LEED standards including, but not limited to, recycling of building materials, use of recycled building materials, commitment to energy efficiency, use of products which are manufactured in an environmentally friendly manner, water efficiency, utilization of local companies and manufacturers, utilization of local building materials, use of renewable energy, and use of day-lighting.
+
+(c) Minor renovation projects shall be evaluated by the Environmental–Labor Commission in conjunction with the UCSU Environmental Director and the Environmental Center’s designee to evaluate their compliance with this legislation.
