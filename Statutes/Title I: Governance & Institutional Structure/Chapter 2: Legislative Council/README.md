@@ -173,3 +173,16 @@ At the start of the Pro-Tempore Report, the President Pro-Tempore shall make a b
 (d) The Vice President of the Legislative Council shall be responsible for planning the session’s date, time, location, and all other necessary arrangements for the diversity training by the stipulated deadline.
 
 >**Note:** This onboarding requirement is distinct from the recurring Cultural Awareness Workshop mandate in §2.2.1
+
+## §1.2.9 – Oath of Office for Legislative Council Representatives
+
+**Enacted by** 57 LCB 17 (2002)
+
+**Text:**
+
+(a) Before entering upon their duties, newly elected Representatives shall take and subscribe to the following oath or affirmation:  
+>"I do solemnly swear that I will uphold the constitution of the University of Colorado Student Union, in the spirit in which it was created. I will perform the duties and responsibilities of Representative at large of the University of Colorado Student Union faithfully and to the best of my ability."
+
+(b) The oath or affirmation shall be taken at the first Legislative Council meeting attended by the new Representative(s).
+
+(c) The Presiding Officer of the Legislative Council shall administer the oath at the beginning of each session or when a new member joins thereafter.
