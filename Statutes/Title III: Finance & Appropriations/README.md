@@ -8,3 +8,4 @@ This Title contains financial procedures, budgeting policies, and fiscal control
 - [Chapter 2 – Financial Rules & Restrictions](./Chapter_2/)
 - [Chapter 3 – Purchasing & Vendor Policies](./Chapter_3/)
 - [Chapter 4 – Student Fees](./Chapter_4/)
+- [Chapter 5- Financial Transparency & Reporting](./Chapter_5) 
