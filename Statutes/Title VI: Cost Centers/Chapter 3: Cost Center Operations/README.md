@@ -36,3 +36,15 @@
 
 (g) The NRNW Director shall submit an annual report to the Executive branch and Legislative Council detailing program performance, challenges, and recommendations.
 
+
+## §6.3.1 – Cost Center Fee Standardization Rules
+
+**Enacted by** 62 LCB 11 (2005, “The Cost Center Fee Standardization Act of 2005”)
+
+**Text:**
+
+(a) UCSU Cost Centers shall be exempt from any rule limiting the number of student fee sources that may be used to fund a single event.
+
+(b) UCSU Cost Centers shall not charge other UCSU Cost Centers more for goods and services than the lowest rate charged to any external entity.
+
+(c) UCSU Cost Centers, in conjunction with the UCSU Finance Board, shall evaluate cost center budgets in a manner that minimizes the impact of GAR/GIR taxation on internal transfers. The SOFO budget shall be adjusted as necessary to ensure this process remains budget-neutral for SOFO.
