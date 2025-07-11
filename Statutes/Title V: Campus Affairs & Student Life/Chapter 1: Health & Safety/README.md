@@ -42,3 +42,20 @@ Upon acceptance of sanctuary by guests from El Salvador, Guatemala, or any other
 (b) UCSU supports strict punishment through the Judicial Affairs Process for those involved in riots that are violent or physically destructive to persons or property.
 
 (c) UCSU shall actively educate students about the possible punishments that could be handed out if caught in a riot that is violent or physically destructive to persons or property.
+
+
+## §5.1.4 – Smoking & Tobacco Use Policy
+
+**Enacted by** 62 LCB 12 (2005, “The Smoking Policy Act of 2005”)
+
+**Text:**
+
+(a) Smoking is prohibited inside all facilities owned, leased, rented, borrowed, or affiliated with the University of Colorado Boulder, including but not limited to residence halls, family housing, stadiums, and university vehicles.
+
+(b) Smoking is prohibited on University grounds, including but not limited to entryways, ATMs, athletic fields, building steps, patios, parking lots, areas with fixed seating, and areas adjacent to doors, air intake ducts, or entryways, unless designated as a smoking zone.
+
+(c) Designated smoking zones, if established, must be well defined, well lit, safe, and readily accessible. Trash cans and ashtrays shall be provided in such areas to maintain campus cleanliness.
+
+(d) The sale, distribution, or advertisement of tobacco products is prohibited on University grounds and at any University event, including off-campus events. Tobacco-related businesses are prohibited from sponsoring University teams, clubs, or affiliated entities and from advertising in campus media.
+
+(e) It is the responsibility of all members of the University community to be aware of and respect this policy. Smokers shall comply with the designated smoke-free areas, and all individuals are encouraged to support enforcement by mutual respect and adherence to campus regulations.
