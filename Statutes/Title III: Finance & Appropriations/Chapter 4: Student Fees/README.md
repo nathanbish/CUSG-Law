@@ -32,20 +32,30 @@ Approved doctoral students who wish to purchase university-sponsored insurance s
 > **Note:** This section may no longer reflect current fee-setting practices, which are now determined by a fixed annual amount. No formal repeal of this statute has been identified.
 
 
-## §3.4.2 – Undergraduate and Graduate Student Fee Classification
+## §3.4.2 – Student Fee Categorization Policy
 
-**Enacted by** 50 LCB 06 (1999)
+**Enacted by** 53 LCB 09 (2000), revising 50 LCB 06 (1999)
 
 **Text:**
 
-(a) Undergraduate students taking one class of five (5) or fewer credit hours shall be assessed base student fees.
+(a) ACCESS (formerly SAVE) students shall have the option to pay full UCSU fees or no UCSU fees.
 
-(b) Undergraduate students taking more than one class or more than five (5) credit hours shall be assessed full student fees.
+(b) Continuing Education students shall have the option to pay full UCSU fees or no UCSU fees.
 
-(c) Graduate students, excluding Law School students, shall be assessed full student fees until they have accumulated twenty-four (24) credit hours, after which they shall be assessed base student fees.
+(c) Undergraduate students enrolled for one class of five (5) or fewer credit hours shall be assessed UCSU base fees.
 
-(d) Law School students shall be assessed full student fees for the duration of their enrollment.
+(d) Undergraduate students enrolled for more than one class and/or six (6) or more credit hours shall be assessed full UCSU fees.
 
-(e) Continuing Education students shall have the option to pay full student fees or to opt out of student fees entirely.
+(e) Law School students shall be assessed full UCSU fees for all semesters of enrollment in the Law School.
 
-(f) ACCESS students, formerly classified as SAVE students, shall be considered Continuing Education students for the purpose of fee classification.
+(f) Graduate students, excluding Law School students, shall be assessed full UCSU fees until completion of thirty (30) credit hours.
+
+(g) After completion of thirty (30) credit hours, graduate students, excluding Law School students, shall be assessed UCSU base fees.
+
+(h) Any student assessed UCSU base fees shall have the right to pay full UCSU fees. Sponsored students must pay the difference if not assessed full UCSU fees.
+
+(i) Any student shall have the right to purchase Recreation Center affiliate memberships.
+
+(j) Any student working or studying off-site and living outside the RTD district shall have the right to petition for a waiver of the RTD portion of UCSU fees.
+
+(k) UCSU and the Bursar’s Office shall collaborate in designing and implementing the collection and waiver petition process outlined in this section.
