@@ -16,3 +16,11 @@
 **Note:** Bill Summary  
 >The C.U. recycling program suggests that special efforts be made to recycle 
 materials used during the UCSU Legislative Council meetings.
+
+## §7.1.4 – Ban on Disposable Cups in Official Meetings
+
+**Enacted by** 49 LCB 15 (1998)
+
+**Text:**
+
+(a) The use of disposable cups is prohibited at all meetings of the UCSU Legislative Council, Representative Council, Council of Colleges and Schools (CCS), and Joint Boards.
