@@ -104,3 +104,20 @@ At the start of the Pro-Tempore Report, the President Pro-Tempore shall make a b
 (a) The Chair of each Standing Committee shall revise their committee's operations guide at the end of each session and submit it to the Vice President Pro Tempore.
 
 (b) A copy of the guide shall be retained by the current Chair of the committee, the President Pro Tempore, and the Vice President Pro Tempore.
+
+## §1.2.6 – Compensation Policy for Representative Council and CCS Speakers
+
+**Enacted by** 49 LCB 09 (1998)
+
+**Text:**
+
+(a) The pay rate for the Representative Council Speaker and Council of Colleges and Schools (CCS) Speaker shall be set by the Legislative Council each spring before the first hearing of the UCSU Proper budget at Finance Board. The pay rate shall be established through a secondary measure of legislation.
+
+(b) The Representative Council Speaker and CCS Speaker shall each be paid an equal amount from the Legislative section of the UCSU Proper budget.
+
+(c) Salaries for the Representative Council Speaker and CCS Speaker shall begin on the first day of classes for the semester in which they serve and end on the last day of final exams for that semester:
+> (i) In odd-numbered sessions, compensation shall be for the Fall semester.  
+> (ii) In even-numbered sessions, compensation shall be for the Spring semester.  
+> (iii) If serving during the Summer, salaries shall begin on the first day of classes for the first term of Summer semester and end on the last day of final exams for the last session of Summer semester.
+
+(d) The Legislative Council President shall send a memorandum to the Student Organizations Finance Office indicating both the beginning and ending dates for the pay period of each Representative Council and CCS Speaker.
