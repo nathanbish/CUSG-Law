@@ -12,7 +12,7 @@ Each Title governs a specific domain of CUSG law. Click on a Title below to view
 - 🏫 [Title IV – Student Organizations](./Title%20IV%3A%20Student%20Organizations/)
 - 🧬 [Title V – Campus Affairs & Student Life](./Title%20V%3A%20Campus%20Affairs%20%26%20Student%20Life/)
 - 🧾 [Title VI – Cost Centers](./Title%20VI%3A%20Cost%20Centers/)
-- 🌱 [Title VII – Sustainability & Environmental Policy](./Title%20VII%3A%20Sustainability%20%26%20Environmental%20Policy/)
+- [🌱 Title VII – Sustainability & Environmental Policy](./Title%20VII%3A%20Sustainability%20%26%20Environmental%20Policy/)
 
 ---
 
