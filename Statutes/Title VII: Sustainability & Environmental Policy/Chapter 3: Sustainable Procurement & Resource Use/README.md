@@ -75,3 +75,32 @@
 (b) The Environmental Safety/Social Justice/Labor Rights Commission shall be responsible for investigating and ensuring compliance by all cost centers with this policy.
 
 (c) All vendors and contracts involving UCSU cost centers and the University of Colorado Boulder shall comply with the Fair Trade coffee requirement outlined in this section.
+
+---
+
+## §7.3.2 – Green Cleaning Standards for UCSU Procurement
+
+**Enacted by** 64 LCB 15 (2006, “Green Cleaners”)
+
+**Text:**
+
+(a) All cleaners purchased by UCSU cost centers must be classified as “green cleaners” as defined by Green Seal certification or the Manufacturer Product Assessment Tool (MPAT).
+
+(b) The MPAT must be completed in its entirety by the vendor or manufacturer for a product to be considered for purchase, and reviewed by the University purchasing agent to verify standards compliance.
+
+(c) Contracts between UCSU and chemical cleaning representatives shall not be renewed without demonstrating compliance with this statute.
+
+(d) No contracts shall be renewed or entered that hinder UCSU cost centers’ ability to purchase products approved by Green Seal or MPAT, in all applicable product categories.
+
+(e) A comprehensive list of all products approved through MPAT shall be circulated to all affected purchasing agents annually by the UCSU Environmental Director.
+
+(f) The UCSU shall annually review opportunities to expand the categories of cleaners covered by this statute. This review shall be led by the UCSU Environmental Director in consultation with the Department of Facilities Management and shall consider industry advancements and updates to Green Seal standards. Proposed category additions must be submitted as amendments.
+
+(g) A standing exemption review process shall be maintained, consisting of a three-member panel including the UCSU Environmental Director, a representative from the Wardenburg Environmental Care Committee, and the FM Environmental Operations Manager. The UCSU Legislative Council has final authority to grant exemptions. All approved exemptions shall be reviewed annually.
+
+(h) Exemptions shall be granted only on a case-by-case, product-by-product basis and not for entire product lines or buildings. Exemptions must meet one or more of the following criteria:
+> (i) The green cleaner requires significantly more labor or a shorter reapplication cycle.  
+> (ii) The green cleaner is significantly more expensive on a per-unit basis when accounting for labor and application efficiency.  
+> (iii) No green-certified product exists for the intended use.
+
+(i) If exemption criteria are met, the review committee shall weigh overall health and safety benefits when reaching a final decision.
