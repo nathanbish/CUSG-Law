@@ -110,3 +110,22 @@ The UCSU Finance Board shall not alter the programmatic priorities of budgets ad
 **Text:**
 
 (a) At least once per semester, each Joint Board shall appear before the Legislative Council for an informal exchange and report on its activities.
+
+## §6.1.8 – Joint Board Chair Compensation
+
+**Enacted by** 51 LCB 02 (1999)
+
+**Text:**
+
+(a) The pay rate of Joint Board chairs shall be set by Legislative Council each spring before the first hearing of the UCSU Proper budget at Finance Board. The pay rate shall be created by legislation in the form of a secondary measure.
+
+(b) Each Joint Board chair shall be paid an equal amount of money from the Legislative section of the UCSU Proper budget.
+
+(c) In the event there is more than one chair of a Joint Board, each co-chair shall share the salary allocation in an equal proportionate ratio.
+
+(d) The salaries of Joint Board chairs shall begin the first day of classes for the Fall semester for odd-numbered sessions and end the last day of final exams for the same Fall semester. The salaries shall begin the first day of classes for the Spring semester for even-numbered sessions and end the last day of final exams for the same Spring semester. The salaries shall begin the first day of classes for the first term of Summer semester and end the last day of final exams for the last session of Summer semester.
+
+(e) In the event a particular Joint Board will not meet regularly over the Summer semester, the salary of that Joint Board's chair shall be withheld.
+
+(f) The Legislative Council President shall send a memorandum to the Student Organizations Finance Office both beginning and ending the pay for each Joint Board chair.
+
