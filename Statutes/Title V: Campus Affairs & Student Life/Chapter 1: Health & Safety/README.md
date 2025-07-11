@@ -16,7 +16,7 @@ Upon acceptance of sanctuary by guests from El Salvador, Guatemala, or any other
 >
 > As such, although the statute references INS by name, its protective intent is rooted in opposing federal actions that deny legitimate claims for political asylum by guests invited for educational purposes. This could include contemporary agencies engaged in similar practices if the factual context aligns with that critique.
 
-## §5.1.1 – Publication of Sexual Assault and Harassment Information
+## §5.1.2 – Publication of Sexual Assault and Harassment Information
 
 **Enacted by** 33 LCB 3 (1990)
 
@@ -29,3 +29,16 @@ Upon acceptance of sanctuary by guests from El Salvador, Guatemala, or any other
 > (iii) Statistics on rape that include women and men and specify acquaintance rape, using sources such as the FBI, the Boulder Rape Crisis Team, and DARE;  
 > (iv) A description of the rights of victims of sexual assault and sexual harassment, and the services available to victims within the University and the surrounding community;  
 > (v) Specific student conduct codes prohibiting sexual assault, along with a clear outline of University penalties.
+
+
+## §5.1.3 – Anti-Riot Education and Disciplinary Support
+
+**Enacted by** 52 LCB 07 (2000)
+
+**Text:**
+
+(a) UCSU shall set aside article space in the *Colorado Daily* twice a year to run messages that are anti-riots which are violent or physically destructive to persons or property.
+
+(b) UCSU supports strict punishment through the Judicial Affairs Process for those involved in riots that are violent or physically destructive to persons or property.
+
+(c) UCSU shall actively educate students about the possible punishments that could be handed out if caught in a riot that is violent or physically destructive to persons or property.
