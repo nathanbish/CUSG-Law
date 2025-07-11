@@ -47,3 +47,19 @@
 (c) After evaluating all costs involved in purchasing new furniture, the product with the highest level of environmental quality shall be chosen.
 
 (d) The Environmental and Social Justice Labor Commission shall oversee the implementation of this policy. The Commission shall assist in researching and procuring furniture for UCSU Proper, and shall approve all final purchasing decisions.
+
+## §7.3.4 – Energy Efficiency and Renewable Energy Budgeting Standards  
+
+**Enacted by 61 LCB 04 (2004, “Energy Efficiency Fund & Wind Power Line Item”)**  
+
+**Text:**  
+
+(a) The purchase of renewable energy by UCSU shall be included as a line item in the Environmental Center budget.  
+
+(b) The addition of both the Energy Efficiency Fund and the Renewable Energy line items shall be included in the base budget of the Environmental Center in the FY 2005–2006 budget proposals.  
+
+(c) Preference for the purchase of renewable energy by UCSU shall be given to local (within Colorado) sources of renewable energy or from sources that have made a commitment to creating renewable energy sources in Colorado, while continuing to evaluate cost as a factor.  
+
+(d) The Energy Efficiency Fund shall recover 35% of the demonstrated savings in energy costs to its budget from the previous year’s project energy-saving estimates. This provision shall be included as an unduckable in the Environmental Center budget.  
+
+(e) The Energy Efficiency Fund line item shall be included in the Environmental Center budget, subject to reauthorization by the Finance Board and the Legislative Council, beyond the 2009–2010 fiscal year.  
