@@ -135,3 +135,15 @@ At the start of the Pro-Tempore Report, the President Pro-Tempore shall make a b
 (c) The salary(ies) of the Legislative Council Vice President(s) shall begin the first day of classes for the Fall semester for odd-numbered sessions and end the last day of final exams for the same Fall semester. The salary(ies) shall begin the first day of classes for the Spring semester for even-numbered sessions and end the last day of final exams for the same Spring semester.
 
 (d) The Executive shall issue a memorandum to the Student Organizations Finance Office both beginning and ending the pay of the Legislative Council President and Vice President(s), according to the provisions of this statute.
+
+## §1.2.6 – Legislative Reports and Accountability
+
+**Enacted by** 50 LCB 17 (1999)
+
+**Text:**
+
+(a) All Legislative Council representatives shall submit an activity report to e-time during the same time cycles that executive staff members submit their reports.
+
+(b) All Council of Colleges and Schools (CCS) Senators shall submit an activity report to e-time during the same time cycles that executive staff members submit their reports. Reports shall include activities conducted within each senator’s respective school.
+
+(c) Failure to submit a report within seven days of the end of the reporting period shall count as the equivalent to a Legislative Council meeting absence. Disciplinary action shall be assessed according to applicable CUSG by-laws.
