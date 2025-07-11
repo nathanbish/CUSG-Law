@@ -12,6 +12,9 @@
 
 (c) Workshops shall not take place during official Legislative Council sessions.
 
+> **Note:** This ongoing training requirement is separate from the one-time onboarding diversity training described in §1.2.7. Members must comply with both provisions unless otherwise amended.
+
+
 ## §2.2.2 – Advocacy for Diversity and Education
 
 **Enacted by** 44 LCB 09 (2005)
