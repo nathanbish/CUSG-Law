@@ -1,8 +1,7 @@
 # 🗳️ Title II – Elections & Representation
 
-This Title contains all laws governing student elections, representation mechanisms, and equity in representation across CUSG.
-
 ## 📂 Chapters
 
-- [Chapter 1 – Election Code](./Chapter_1/)
-- [Chapter 2 – Representation & Equity](./Chapter_2/)
+- [Chapter 1: Election Code](./Chapter%201%3A%20Election%20Code/)
+- [Chapter 2: Representation & Equity](./Chapter%202%3A%20Representation%20%26%20Equity/)
+- [Chapter 3: Hiring & Appointments](./Chapter%203%3A%20Hiring%20%26%20Appointments/)
