@@ -26,3 +26,16 @@
 (a) In all respects, KVCU Radio 1190 shall be treated and regulated with respect to issues of housing as any other cost center located in the UMC.
 
 (b) KVCU Radio 1190 is exempted from paying rent to operate out of the UMC.
+
+
+## §6.2.4 – Prohibition on Credit Card Solicitation in UCSU Cost Centers
+
+**Enacted by** 57 LCB 15 (2002)
+
+**Text:**
+
+(a) The University of Colorado Student Union’s formal policy shall deny credit card companies and other bodies from soliciting credit cards in UCSU Cost Centers.
+
+(b) The University of Colorado Federal Credit Union shall be exempt from this policy within the Credit Union’s leased space and when tabling for membership in the University Memorial Center.
+
+(c) For the purposes of this section, UCSU Cost Centers shall include the University Memorial Center and the Recreation Center.
