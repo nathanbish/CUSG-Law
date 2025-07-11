@@ -1,9 +1,7 @@
-# 🏫 Title IV – Student Organizations
-
-This Title governs the recognition, support, and oversight of Recognized Student Organizations (RSOs) and related programming policies.
+# 🏫 Title IV: Student Organizations
 
 ## 📂 Chapters
 
-- [Chapter 1 – Recognition & Registration](./Chapter_1/)
-- [Chapter 2 – Oversight & Accountability](./Chapter_2/)
-- [Chapter 3 – Programming & Event Policy](./Chapter_3/)
+- [Chapter 1: Recognition & Registration](./Chapter%201%3A%20Recognition%20%26%20Registration/)
+- [Chapter 2: Oversight & Accountability](./Chapter%202%3A%20Oversight%20%26%20Accountability/)
+- [Chapter 3: Programming & Event Policy](./Chapter%203%3A%20Programming%20%26%20Event%20Policy/)
