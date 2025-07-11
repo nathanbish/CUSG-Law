@@ -121,3 +121,17 @@ At the start of the Pro-Tempore Report, the President Pro-Tempore shall make a b
 > (iii) If serving during the Summer, salaries shall begin on the first day of classes for the first term of Summer semester and end on the last day of final exams for the last session of Summer semester.
 
 (d) The Legislative Council President shall send a memorandum to the Student Organizations Finance Office indicating both the beginning and ending dates for the pay period of each Representative Council and CCS Speaker.
+
+## §1.2.7 – Legislative Council Leadership Compensation
+
+**Enacted by** 51 LCB 02 (1999)
+
+**Text:**
+
+(a) The pay rate of the Legislative Council President and Vice President(s) shall be set by Legislative Council each spring before the first hearing of the UCSU Proper budget at Finance Board. The pay rate shall be created by legislation in the form of a secondary measure.
+
+(b) The salary of the Legislative Council President shall continue on a year-round basis due to the constant demand on this office’s authority.
+
+(c) The salary(ies) of the Legislative Council Vice President(s) shall begin the first day of classes for the Fall semester for odd-numbered sessions and end the last day of final exams for the same Fall semester. The salary(ies) shall begin the first day of classes for the Spring semester for even-numbered sessions and end the last day of final exams for the same Spring semester.
+
+(d) The Executive shall issue a memorandum to the Student Organizations Finance Office both beginning and ending the pay of the Legislative Council President and Vice President(s), according to the provisions of this statute.
