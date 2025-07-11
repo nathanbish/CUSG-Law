@@ -14,3 +14,13 @@
 
 (d) The Chief Justice shall report using E-Time.
 
+
+## §1.4.2 – Diversity Training Requirement for Justices
+
+**Enacted by** 58 LCB 12 (2003)
+
+**Text:**
+
+(a) All justices on the UCSU appellate court shall be required to attend diversity training no later than eight weeks upon taking office.
+
+(b) The Chief Justice of the appellate court shall be responsible for arranging the session.
