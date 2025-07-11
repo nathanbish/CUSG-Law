@@ -61,3 +61,17 @@
 (b) UCSU shall prioritize the purchase of renewable energy from sources located within Colorado or from providers committed to expanding renewable energy infrastructure in Colorado, while continuing to evaluate cost as a factor.
 
 (c) The Energy Efficiency Fund shall recover thirty-five percent (35%) of demonstrated savings in energy costs from the previous year’s project energy-saving estimates as a budgetary mechanism for sustainability reinvestment.
+
+---
+
+## §7.3.1 – Fair Trade Coffee Procurement Standards
+
+**Enacted by** 64 LCB 16 (2006, “Fair Trade Coffee”)
+
+**Text:**
+
+(a) All UCSU cost centers shall exclusively offer Fair Trade certified coffee, with the exception of flavored coffees and special requests that are not available under Fair Trade certification.
+
+(b) The Environmental Safety/Social Justice/Labor Rights Commission shall be responsible for investigating and ensuring compliance by all cost centers with this policy.
+
+(c) All vendors and contracts involving UCSU cost centers and the University of Colorado Boulder shall comply with the Fair Trade coffee requirement outlined in this section.
