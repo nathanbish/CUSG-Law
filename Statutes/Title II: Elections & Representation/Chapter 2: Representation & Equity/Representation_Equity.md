@@ -12,3 +12,45 @@
 
 (c) Workshops shall not take place during official Legislative Council sessions.
 
+## §2.2.2 – Advocacy for Diversity and Education
+
+**Enacted by** 44 LCB 09 (2005)
+
+**Text:**
+
+(a) UCSU, through the Student Administrator for the Vice Chancellor for Academic Affairs, shall work with the Vice Chancellor for Academic Affairs, UCB deans, and UCB faculty to create a separate core requirement for multicultural education and to ensure a diverse offering of courses within existing core requirements.
+
+> (i) The Student Administrator shall collaborate with the Council for the Enhancement of Undergraduate Education (CEUE), or equivalent committee, to support development of new course offerings related to diversity.  
+> (ii) The Student Administrator, as a member of the Program Review Panel, is encouraged to advocate that each academic department comply with its diversity plan during review.
+
+(b) The UCSU Diversity Commission shall promote diversity on campus through student outreach, including but not limited to open meetings, forums, and discussions through campus media.
+
+(c) UCSU shall assist each faculty and administrative division in implementing its diversity plan.
+
+> (i) Each Student Administrator to a Vice Chancellor shall serve on that Vice Chancellor’s diversity task force.  
+> (ii) Each Student Administrator shall submit quarterly reports to the UCSU Diversity Director on diversity efforts within their division.
+
+(d) The UCSU Executive and the Diversity Director shall be responsible for evaluating and assessing progress toward this goal.
+
+## §2.2.3 – Promotion of Pluralism and Inclusive Programs
+
+**Enacted by** 44 LCB 09 (2005)
+
+**Text:**
+
+(a) The Communications Director and Diversity Director shall coordinate outreach programs related to diversity for the UCB community and student organizations.
+
+(b) UCSU shall collaborate with multicultural resource centers to increase awareness of student programs and services.
+
+> (i) UCSU shall work with the Dennis Small Third World Center, Cultural Studies Unity Center, Club Fair, Minority Access Network, Women’s Resource Center, and similar groups to support their visibility on campus.  
+> (ii) Each Diversity Commission member shall serve as a liaison between UCSU and these program directors.
+
+## §2.2.4 – Diversity Feedback and Reporting Requirements
+
+**Enacted by** 44 LCB 09 (2005)
+
+**Text:**
+
+(a) The Diversity Director and a member of the Diversity Commission shall annually survey underrepresented groups and hold semesterly outreach meetings to assess UCSU’s effectiveness and gather feedback for presentation to UCSU.
+
+(b) The Diversity Commission shall submit a semesterly report with recommendations for remedial actions. The report shall be due the week prior to spring break, reviewed the following week, and formally presented the week after.
