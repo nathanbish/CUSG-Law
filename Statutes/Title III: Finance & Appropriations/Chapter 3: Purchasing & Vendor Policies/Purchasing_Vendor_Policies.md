@@ -23,3 +23,13 @@
 
 > **Note:** This provision originally referenced a recycling policy enacted by 30 LCB 50 (1988), which has since been lost. The operative clause remains codifiable and in effect independently.
 
+
+## §3.3.3 – Recycled Paper Purchasing Policies
+
+**Enacted by** 40 LCB 10 (1994)
+
+**Text:**
+
+(a) UCSU shall utilize the State’s ten percent (10%) price preference for recycled paper over virgin paper when applicable.
+
+(b) UCSU paper purchases shall contain a minimum of twenty-five percent (25%) post-consumer fibers.
