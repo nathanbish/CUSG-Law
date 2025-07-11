@@ -129,3 +129,15 @@ The UCSU Finance Board shall not alter the programmatic priorities of budgets ad
 
 (f) The Legislative Council President shall send a memorandum to the Student Organizations Finance Office both beginning and ending the pay for each Joint Board chair.
 
+
+## §6.1.1 – Joint Board Membership List Protocol
+
+**Enacted by** 54 LCB 06 (2001)
+
+**Text:**
+
+(a) The Chairs of all Joint Boards shall submit a list of all board members, by whom they were appointed, both voting and ex-officio, to the Legislative Council President.
+
+(b) Resignations, recalls, removals, vacancies, appointments or any other changes that affect the boards shall be reported by the Chairs of the Joint Boards to the Legislative Council President within seven days.
+
+(c) The UCSU office manager shall collect and organize the Joint Board members lists as given by the Legislative Council President, so that they may be on record in the UCSU office at all times.
