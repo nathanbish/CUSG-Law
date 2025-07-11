@@ -56,3 +56,16 @@
 (b) At each regularly scheduled Executive Council meeting, the Executives shall report all expenditures from this account in the previous week. Failure to do so shall automatically freeze the account until a report is made.
 
 (c) The maximum level of monthly expenditures from the Executive Discretionary Account shall be set by the Executive Council in the first meeting of each session.
+
+
+## §3.1.3 – UCSU Fee Funded Organization Budgets
+
+**Enacted by** 50 LCB 10 (1999)
+
+**Text:**
+
+(a) UCSU cost centers and UCSU fee funded organizations will submit the budget approved by Finance Board to Legislative Council.
+
+(b) Additional proposed changes to the budget approved by Finance Board must be attached separately.
+
+(c) A UCSU fee funded organization is defined as any recipient of UCSU student fees that is required to report to Finance Board, but is not considered a cost center.
