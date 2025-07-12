@@ -194,3 +194,12 @@ At the start of the Pro-Tempore Report, the President Pro-Tempore shall make a b
 (a) The Legislative Council shall not distribute paper copies of agendas, minutes, bills, resolutions, or budgets at any scheduled official meetings.
 
 (b) The President of Legislative Council may provide a limited number of printed copies at meetings when deemed necessary.
+
+## §1.2.11 – Legislative Liaison to the Residence Hall Association  
+**Enacted by 77 LCB 12 (1977, “RHA”)**
+
+(a) A liaison position shall exist for the Residence Hall Association (RHA), consistent with other Joint and Advisory Board positions held by Legislative Council members.  
+(b) The RHA liaison shall be added to the list of liaison appointments for Legislative Council members serving on established joint and advisory boards.  
+(c) One Representative-at-Large shall be appointed and ratified by Legislative Council to serve as the RHA liaison.  
+(d) The RHA liaison shall sit on the RHA Executive Board and shall attend no fewer than half of all RHA meetings.  
+
