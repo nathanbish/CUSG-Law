@@ -64,7 +64,7 @@ The statute directed an amendment to the UCSU Bylaws, stating that the State of 
 (b) The UCSU tri-executives shall be responsible for planning the session’s date, time, location, and all other necessary arrangements for the diversity training by the stipulated deadline.
 
 
-## §1.3.5 – Executive Staff Presentation Requirements  
+## §1.3.6 – Executive Staff Presentation Requirements  
 **Enacted by 81 LCB 08 (2014, “Collaboration with Executive Staff”)**
 
 (a) The Representative Council Speaker and Chair of the Council of Colleges and Schools shall confer with the CUSG Chief of Staff at the beginning of each legislative session to schedule executive staff presentations at Representative Council and CCS meetings.  
