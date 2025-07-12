@@ -130,7 +130,7 @@ The UCSU Finance Board shall not alter the programmatic priorities of budgets ad
 (f) The Legislative Council President shall send a memorandum to the Student Organizations Finance Office both beginning and ending the pay for each Joint Board chair.
 
 
-## §6.1.1 – Joint Board Membership List Protocol
+## §6.1.9 – Joint Board Membership List Protocol
 
 **Enacted by** 54 LCB 06 (2001)
 
@@ -141,3 +141,16 @@ The UCSU Finance Board shall not alter the programmatic priorities of budgets ad
 (b) Resignations, recalls, removals, vacancies, appointments or any other changes that affect the boards shall be reported by the Chairs of the Joint Boards to the Legislative Council President within seven days.
 
 (c) The UCSU office manager shall collect and organize the Joint Board members lists as given by the Legislative Council President, so that they may be on record in the UCSU office at all times.
+
+
+## §6.1.5 – Student Activities Advisory Board  
+**Enacted by 82 LCB 01 (2014, “Student Activities Office”)**
+
+(a) A Student Activities Advisory Board shall serve as the governing and policy advisory body of the Student Activities Office cost center.  
+(b) The Advisory Board shall have input on all matters concerning the cost center, including the creation and implementation of operational and fiscal policy.  
+(c) Membership shall consist of:  
+> (i) One appointed member from the Legislative Council, selected by the Tri-Executives and approved by Legislative Council.  
+> (ii) Six students at large, appointed by the advisory board.  
+> (iii) Two non-student voting members appointed by the advisory board.  
+> (iv) Liaisons from the Finance Board and from programs of the board’s choosing, who shall be non-voting members.  
+(d) Legislative Council shall ratify all voting member appointments made by the Advisory Board.
