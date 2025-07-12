@@ -30,3 +30,12 @@ materials used during the UCSU Legislative Council meetings.
 
 (a) Student groups funded by the Student Group Funding Board (SGFB) shall be required to sort their own recycling and composting.  
 (b) SGFB shall not fund any request for bottled water.
+
+
+## §6.2.4 – Waste Management Standards for UMC Vendors  
+**Enacted by 82 LCB 11 (2015, “Creating Solutions Not Waste”)**
+
+(a) All vendors operating in the UMC shall separate their waste into appropriate landfill, recycling, and compost bins.  
+(b) All vendors shall serve products in reusable, compostable, or recyclable packaging.  
+(c) New vendors shall comply with this policy upon contract execution.  
+(d) Existing vendors shall have six months to convert to compliant packaging.
