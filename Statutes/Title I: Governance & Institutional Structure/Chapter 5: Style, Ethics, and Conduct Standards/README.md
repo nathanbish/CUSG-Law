@@ -70,3 +70,30 @@ All bills requesting student fee funding for participation in educational or inf
 
 **Text:**  
 (a) All official documents, bylaws, codes, rules, and regulations of CUSG shall use the name “University of Colorado Student Government” and replace any reference to the “University of Colorado Student Union” or the acronym “UCSU.”
+
+
+§6.4.4 – CUSG Brand Identity Compliance
+
+Enacted by 77 LCB 21 (2011, “Brand Identity Standards”)
+
+(a) The University of Colorado Student Government and its three branches must comply with the University of Colorado Identity Standards and the University of Colorado Boulder Identity Standards, as issued and updated by the University of Colorado and the Boulder campus. These provisions are intended to align with, and are subordinate to, the official University identity guidelines.
+
+(b) Any and all University of Colorado Student Government communications, documents, and materials—including but not limited to the following—must comply with the most current University of Colorado Identity Standards and use only logos officially authorized under those standards:
+> (i) Governing documents, legislation, meeting minutes, and agendas of all branches and boards.
+> (ii) Communications to University administration, faculty, staff, cost centers, student organizations, the Board of Regents, state or municipal governments, and other external bodies.
+> (iii) Promotional materials such as apparel, name tags, pens, stickers, and related items.
+> (iv) Electronic communications including websites, blogs, social media pages, email signatures, and presentation materials.
+> (v) Printed materials including business cards, letterhead, forms, reports, budgets, and flyers.
+> (vi) Materials related to student government elections, excluding campaign materials produced by candidates or political parties.
+
+(c) CUSG Office Managers or their equivalent shall ensure compliance with these standards during orientation and staff onboarding processes.
+
+(d) Deviations from the branding requirements may be approved by a majority of the following:
+> (i) A member of the Executive branch or their designee;
+> (ii) The Director of Communication;
+> (iii) The President of Legislative Council or their designee.
+
+(e) Existing printed or digital materials may remain in use until depleted or replaced.
+
+(f) This statute applies only to CU Student Government proper and the Student Group Funding Board, and does not extend to other cost centers or independent student organizations.
+
