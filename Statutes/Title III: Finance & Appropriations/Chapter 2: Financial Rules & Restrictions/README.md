@@ -93,7 +93,8 @@ provision such as this into their bylaws, whichever comes first," Neither of whi
 (f) This requirement shall not be interpreted to prohibit use of re-usable dishware at larger events.
 
 
-## §3.2.6]8 – Sponsorship Branding Requirements for CUSG-Funded Events  
+## §3.2.8 – Sponsorship Branding Requirements for CUSG-Funded Events 
+
 **Enacted by 72 LCB 12 (2010, “CUSG Name Change and Branding”)**
 
 (a) All events supported by CUSG money must display the current CUSG banner at their event to ensure CUSG recognition and sponsorship.
