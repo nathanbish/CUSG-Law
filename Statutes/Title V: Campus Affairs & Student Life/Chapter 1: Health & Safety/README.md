@@ -66,3 +66,13 @@ Upon acceptance of sanctuary by guests from El Salvador, Guatemala, or any other
 
 (a) Restrooms constructed under student-fee funded projects shall be placed in convenient, accessible, and safe locations.  
 (b) All restroom facilities must meet ADA accessibility standards and be certified accordingly.
+
+
+## §5.1.6 – Sexual Misconduct Awareness and Education  
+**Enacted by 85 LCB 06 (2016, “Sexual Misconduct Awareness”)**
+
+(a) CU Student Government must seek the advice of professionals on campus—referred to as “professional services” and including but not limited to the Office of Institutional Equity and Compliance and the Office of Victim Assistance—when making efforts to address sexual misconduct on or off campus.
+
+(b) CU Student Government shall utilize its resources to bring awareness to students about the campus resources available to support those affected by sexual misconduct.
+
+(c) CU Student Government shall host at least one (1) event per academic year, during either the spring or fall semester, to raise awareness of sexual misconduct on and off campus. Professional services must be consulted in the planning process to ensure consistent messaging.
