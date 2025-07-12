@@ -63,3 +63,10 @@ All bills requesting student fee funding for participation in educational or inf
 > (i) Abuse of power, or failure to use power appropriately or responsibly.  
 > (ii) Negligence or misconduct, including actions which violate the Constitution, Legislation, or any other UCSU rules.  
 > (iii) Failure to perform required duties or fulfill obligations as defined by their position.
+
+
+## §1.5.3 – Institutional Naming Standards  
+**Enacted by** 72 LCB 12 (2010, “UCSU Name Change and Branding”)
+
+**Text:**  
+(a) All official documents, bylaws, codes, rules, and regulations of CUSG shall use the name “University of Colorado Student Government” and replace any reference to the “University of Colorado Student Union” or the acronym “UCSU.”
