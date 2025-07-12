@@ -86,3 +86,10 @@ The statute directed an amendment to the UCSU Bylaws, stating that the State of 
 **Enacted by 85 LCB 06 (2016, “Sexual Misconduct Awareness”)**
 
 (a) The Executive Branch shall promptly notify Legislative Council whenever CU Student Government initiatives to address sexual misconduct are underway. These efforts may include but are not limited to volunteering with events or assisting in the organization of programs both on and off campus.
+
+
+## §1.3.8 – Homecoming Coalition Establishment  
+**Enacted by 86 LCB 11 (2017, “Creation of the CU Student Homecoming Coalition”)**
+
+(a) The Homecoming Coalition is established as a permanent body under the Executive Branch of the University of Colorado Student Government.  
+(b) The Homecoming Coalition shall operate in accordance with the Homecoming Coalition Bylaws as adopted by Legislative Council.
