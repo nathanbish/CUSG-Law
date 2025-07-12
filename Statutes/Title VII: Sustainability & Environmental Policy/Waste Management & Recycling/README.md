@@ -25,7 +25,7 @@ materials used during the UCSU Legislative Council meetings.
 
 (a) The use of disposable cups is prohibited at all meetings of the UCSU Legislative Council, Representative Council, Council of Colleges and Schools (CCS), and Joint Boards.
 
-## §4.2.5 – Sustainability Requirements for SGFB-Funded Groups  
+## §7.1.3 – Sustainability Requirements for SGFB-Funded Groups  
 **Enacted by 82 LCB 11 (2015, “Creating Solutions Not Waste”)**
 
 (a) Student groups funded by the Student Group Funding Board (SGFB) shall be required to sort their own recycling and composting.  
