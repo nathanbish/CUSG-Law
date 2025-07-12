@@ -87,9 +87,9 @@
 **Enacted by 70 LCB 02 (2009, “ATM ADA”)**
 
 (a) All ATM building contracts with UCSU cost centers require ADA compliance and must include the following features or functional equivalents:
-> (i) Digitized audio lead-through to support personalized instructions for visually impaired users;
-> (ii) 3.5mm size headphone jack;
-> (iii) Automatic deposit and ejection of all media, within ADA-specified reach ranges;
+> (i) Digitized audio lead-through to support personalized instructions for visually impaired users;  
+> (ii) 3.5mm size headphone jack;  
+> (iii) Automatic deposit and ejection of all media, within ADA-specified reach ranges;  
 > (iv) Braille instructions located on the ATM keypad.
 
 (b) All ATMs located at UCSU cost centers must be independently usable by any person. Independent usability shall be defined by the ATM user and shall not be strictly limited to the specificity of ADA guidelines.
