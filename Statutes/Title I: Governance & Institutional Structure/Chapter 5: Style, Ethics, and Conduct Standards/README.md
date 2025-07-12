@@ -109,3 +109,9 @@ All bills requesting student fee funding for participation in educational or inf
 (g) Existing printed or digital materials may remain in use until depleted or replaced.
 
 (h) This statute applies only to CU Student Government proper and the Student Group Funding Board, and does not extend to other cost centers or independent student organizations.
+
+
+## §1.5.9 – Official Communication Platform  
+**Enacted by 84 LCB 06 (2015, “Outlook CUSG Business”)**
+
+(a) Microsoft Outlook shall be the sole official platform used for conducting CU Student Government Proper-related business communications.
