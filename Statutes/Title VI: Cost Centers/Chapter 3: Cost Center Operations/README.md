@@ -54,3 +54,11 @@
 **Enacted by 69 LCB 05 (2008, “Waste Reduction Revision”)**
 
 (a) UMC Event Staff shall be responsible for scraping excess food from re-usable dishware into compostable containers at applicable events.
+
+
+## §6.3.4 – Program Council Governance Structure  
+**Enacted by 68 LCB 11 (2008, “Program Council Structural Update”)**
+
+(a) Program Council and the UMC Board are delegated authority over operational and programmatic decisions of Program Council, acting within the annual budget approved by the Legislative Council.
+
+(b) The Legislative Council shall not set programmatic guidelines and shall maintain oversight through its appointments to the UMC Board.
