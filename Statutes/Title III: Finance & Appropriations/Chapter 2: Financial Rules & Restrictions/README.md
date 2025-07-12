@@ -92,3 +92,10 @@ provision such as this into their bylaws, whichever comes first," Neither of whi
 (e) Events held in the UMC with fewer than 50 attendees shall default to using re-usable china and flatware.  
 (f) This requirement shall not be interpreted to prohibit use of re-usable dishware at larger events.
 
+
+§3.2.6]8 – Sponsorship Branding Requirements for CUSG-Funded Events  
+**Enacted by 72 LCB 12 (2010, “CUSG Name Change and Branding”)**
+
+(a) All events supported by CUSG money must display the current CUSG banner at their event to ensure CUSG recognition and sponsorship.
+
+(b) CUSG’s Representative Council and Council of Colleges and Schools banners must also be displayed at these sponsored events.
