@@ -73,3 +73,11 @@ The statute directed an amendment to the UCSU Bylaws, stating that the State of 
 (d) Each executive staff member shall attend at least one Representative Council meeting and one CCS meeting during every legislative session.  
 (e) The Chief of Staff shall be responsible for enforcing this requirement, and it shall be included in the Chief of Staff’s job description.  
 (f) Executive staff members scheduled to present at Representative Council or CCS meetings shall be excused from any other executive staff duties that conflict with their attendance at those meetings.
+
+
+## §1.3.7 – Homecoming Staffing Timeline  
+**Enacted by 86 LCB 02 (2016, “Homecoming Staffing Timeline”)**
+
+(a) The incoming executive staff member tasked with planning Homecoming shall be hired no later than one month after the start of spring classes.
+
+(b) The outgoing executive staff member tasked with planning Homecoming shall end their term in the same semester in which the incoming executive staff member is hired.
