@@ -84,3 +84,30 @@ Approved doctoral students who wish to purchase university-sponsored insurance s
 (b) Graduate students with a designation of D status shall be assessed CUSG base fees.
 
 > (i) D status is defined as a Doctoral student that is Post-Comprehensive Exam and registered for 3 or 5+ dissertation hours as required by Graduate School Rules.
+
+
+## §3.4.4 – Student Fee Calculation Method  
+**Enacted by 83 LCB 10 (2015, “Student Fee Calculation”)**
+
+(a) Student fee calculations shall be conducted as follows:  
+> (i) Take the approved CUSG Cost Center Budget as approved by Legislative Council.  
+> (ii) Subtract the cost of bonds.  
+> (iii) Subtract the estimated revenues for continuing education.  
+> (iv) Subtract out predicted interest to be accumulated.  
+> (v) Add in fees for police, local schools, childcare, insurance, capital, refunds, waivers, bad debt, and other predicted student fee expenses not included in the CUSG Cost Center Budget.  
+
+(b) To calculate the cost per week to full-fee-paying students to run CUSG cost centers:  
+> (i) Use the formula:  
+> > (Predicted Fall enrollment × 16)  
+> > + (Predicted Spring enrollment × 16)  
+> > + (Predicted Summer enrollment × Tier factor)  
+> > ÷ Predicted weeks of enrollment  
+> (ii) Then divide the result by the predicted weeks of enrollment.  
+
+(c) Multiply this number by 16 and add in the base fee to determine the Fall/Spring semester fee for an individual student.  
+
+(d) To determine the summer fee for an individual student, multiply the weekly fee by the tier factor:  
+> Tier 0 (≤ 3 weeks): Factor = 0  
+> Tier 1 (> 3 weeks–6 weeks): Factor = 5  
+> Tier 2 (> 6 weeks–9 weeks): Factor = 8  
+> Tier 3 (> 9 weeks or combination): Factor = 10
