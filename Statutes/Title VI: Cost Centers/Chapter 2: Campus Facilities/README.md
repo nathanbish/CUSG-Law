@@ -81,3 +81,15 @@
 (b) All minor renovations and required upkeep of UCSU buildings shall be designed and selected in accordance with the ideals embodied in the LEED standards including, but not limited to, recycling of building materials, use of recycled building materials, commitment to energy efficiency, use of products which are manufactured in an environmentally friendly manner, water efficiency, utilization of local companies and manufacturers, utilization of local building materials, use of renewable energy, and use of day-lighting.
 
 (c) Minor renovation projects shall be evaluated by the Environmental–Labor Commission in conjunction with the UCSU Environmental Director and the Environmental Center’s designee to evaluate their compliance with this legislation.
+
+
+## §6.2.7 – ADA Accessibility Requirements for ATMs  
+**Enacted by 70 LCB 02 (2009, “ATM ADA”)**
+
+(a) All ATM building contracts with UCSU cost centers require ADA compliance and must include the following features or functional equivalents:
+> (i) Digitized audio lead-through to support personalized instructions for visually impaired users;
+> (ii) 3.5mm size headphone jack;
+> (iii) Automatic deposit and ejection of all media, within ADA-specified reach ranges;
+> (iv) Braille instructions located on the ATM keypad.
+
+(b) All ATMs located at UCSU cost centers must be independently usable by any person. Independent usability shall be defined by the ATM user and shall not be strictly limited to the specificity of ADA guidelines.
