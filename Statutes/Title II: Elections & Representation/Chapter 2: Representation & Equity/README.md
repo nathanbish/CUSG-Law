@@ -59,7 +59,7 @@
 (b) The Diversity Commission shall submit a semesterly report with recommendations for remedial actions. The report shall be due the week prior to spring break, reviewed the following week, and formally presented the week after.
 
 
-## §5.1.7 – CUSG Outreach Events  
+## §2.2.5 – CUSG Outreach Events  
 **Enacted by 83 LCB 06 (2015, “CUSG Outreach”)**
 
 (a) The Executives, Legislative Council President, and Chief Justice of the Appellate Court, or their designees, shall lead three outreach events per academic semester on behalf of CU Student Government.  
