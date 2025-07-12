@@ -48,3 +48,9 @@
 (b) UCSU Cost Centers shall not charge other UCSU Cost Centers more for goods and services than the lowest rate charged to any external entity.
 
 (c) UCSU Cost Centers, in conjunction with the UCSU Finance Board, shall evaluate cost center budgets in a manner that minimizes the impact of GAR/GIR taxation on internal transfers. The SOFO budget shall be adjusted as necessary to ensure this process remains budget-neutral for SOFO.
+
+
+## §6.3.3 – Compost Scraping by UMC Event Staff  
+**Enacted by 69 LCB 05 (2008, “Waste Reduction Revision”)**
+
+(a) UMC Event Staff shall be responsible for scraping excess food from re-usable dishware into compostable containers at applicable events.
