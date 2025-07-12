@@ -62,3 +62,11 @@
 (a) Program Council and the UMC Board are delegated authority over operational and programmatic decisions of Program Council, acting within the annual budget approved by the Legislative Council.
 
 (b) The Legislative Council shall not set programmatic guidelines and shall maintain oversight through its appointments to the UMC Board.
+
+
+## §6.3.2 – Student Activities Office Cost Center Status  
+**Enacted by 82 LCB 01 (2014, “Student Activities Office”)**
+
+(a) The Student Activities Office shall operate as a cost center under the policy-making and financial jurisdiction of the University of Colorado Student Government.  
+(b) The annual operating budget of the Student Activities Office shall be determined through the CUSG annual budget process.  
+(c) Final approval of the Student Activities Office’s budget is subject to approval by the University of Colorado Board of Regents.
