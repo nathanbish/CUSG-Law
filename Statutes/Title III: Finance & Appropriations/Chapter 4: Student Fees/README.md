@@ -59,3 +59,13 @@ Approved doctoral students who wish to purchase university-sponsored insurance s
 (j) Any student working or studying off-site and living outside the RTD district shall have the right to petition for a waiver of the RTD portion of UCSU fees.
 
 (k) UCSU and the Bursar’s Office shall collaborate in designing and implementing the collection and waiver petition process outlined in this section.
+
+
+## §3.4.3 – Zero Waste Fiscal Logistics  
+**Enacted by** 72 LCB 15 (“Zero Waste”)
+
+**Text:**
+
+(a) Zero waste operations related to student group and cost center events shall be financed through an account managed by the Student Organizations Finance Office (SOFO) and the Student Group Funding Board (SGFB).
+
+(b) CUSG will work with Facilities Management and other parties to create long-term financial incentives to support sustainable waste reduction initiatives.
