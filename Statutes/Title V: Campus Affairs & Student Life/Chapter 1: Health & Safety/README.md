@@ -59,3 +59,10 @@ Upon acceptance of sanctuary by guests from El Salvador, Guatemala, or any other
 (d) The sale, distribution, or advertisement of tobacco products is prohibited on University grounds and at any University event, including off-campus events. Tobacco-related businesses are prohibited from sponsoring University teams, clubs, or affiliated entities and from advertising in campus media.
 
 (e) It is the responsibility of all members of the University community to be aware of and respect this policy. Smokers shall comply with the designated smoke-free areas, and all individuals are encouraged to support enforcement by mutual respect and adherence to campus regulations.
+
+
+## §5.1.6 – Standards for Restroom Placement and Accessibility  
+**Enacted by 76 LCB 06 (2012, “Gender-Neutral Restrooms”)**
+
+(a) Restrooms constructed under student-fee funded projects shall be placed in convenient, accessible, and safe locations.  
+(b) All restroom facilities must meet ADA accessibility standards and be certified accordingly.
