@@ -93,3 +93,15 @@
 > (iv) Braille instructions located on the ATM keypad.
 
 (b) All ATMs located at UCSU cost centers must be independently usable by any person. Independent usability shall be defined by the ATM user and shall not be strictly limited to the specificity of ADA guidelines.
+
+
+## §6.2.8 – Gender-Inclusive Restroom Requirements for Campus Facilities  
+**Enacted by 76 LCB 06 (2012, “Gender-Neutral Restrooms”)**
+
+(a) During any construction or renovation on student-fee funded buildings, planners shall assess the feasibility of including a gender-inclusive restroom throughout the design process.  
+(b) If the inclusion of a gender-inclusive restroom is deemed feasible, it must be constructed.  
+(c) Cost Centers developing renovation or construction master plans shall ensure that student needs for gender-inclusive restrooms are addressed before final design completion.  
+(d) A tiered assessment system shall be used to determine the appropriate level of gender-inclusive restroom access for each building:  
+> (i) Minimum: Single-stall gender-inclusive restroom  
+> (ii) Preferable: Multiple single-stall restrooms  
+> (iii) Ideal: Multi-stall gender-inclusive restroom
