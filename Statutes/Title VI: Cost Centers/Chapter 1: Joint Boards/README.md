@@ -143,7 +143,7 @@ The UCSU Finance Board shall not alter the programmatic priorities of budgets ad
 (c) The UCSU office manager shall collect and organize the Joint Board members lists as given by the Legislative Council President, so that they may be on record in the UCSU office at all times.
 
 
-## §6.1.5 – Student Activities Advisory Board  
+## §6.1.10 – Student Activities Advisory Board  
 **Enacted by 82 LCB 01 (2014, “Student Activities Office”)**
 
 (a) A Student Activities Advisory Board shall serve as the governing and policy advisory body of the Student Activities Office cost center.  
