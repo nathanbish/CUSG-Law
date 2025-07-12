@@ -186,3 +186,11 @@ At the start of the Pro-Tempore Report, the President Pro-Tempore shall make a b
 (b) The oath or affirmation shall be taken at the first Legislative Council meeting attended by the new Representative(s).
 
 (c) The Presiding Officer of the Legislative Council shall administer the oath at the beginning of each session or when a new member joins thereafter.
+
+
+## §1.2.10 – Paperless Meeting Procedure  
+**Enacted by 68 LCB 04 (2008, “Digital UCSU”)**
+
+(a) The Legislative Council shall not distribute paper copies of agendas, minutes, bills, resolutions, or budgets at any scheduled official meetings.
+
+(b) The President of Legislative Council may provide a limited number of printed copies at meetings when deemed necessary.
