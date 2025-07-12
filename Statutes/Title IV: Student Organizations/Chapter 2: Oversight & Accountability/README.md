@@ -45,3 +45,16 @@ Upon receiving an accusation from any member of the student body that a student 
 (g) The accountability structure described herein shall apply to all student groups. Individual actors may also be referred to the Office of Student Conduct.
 
 (h) Club Sports and Registered Fraternal Organizations are exempt from Sections (a), (c), and (e), due to existing internal accountability systems. However, Student Fee Regulations continue to apply.
+
+
+## §4.2.4 – Prohibition on Alcohol-Based Fundraising  
+**Enacted by 80 LCB 21 (2014, “Prohibit Alcohol Fundraising”)**
+
+(a) Student organizations may not raise funds using alcohol-focused events.  
+(b) Alcohol-focused fundraisers include, but are not limited to, bar crawls and any event where a discount on alcohol is offered.  
+(c) Whether an event is primarily alcohol-focused shall be determined by the Student Organizations Finance Office (SOFO).  
+(d) Student groups may appeal SOFO’s determination to the Legislative Council.
+
+(e) For the purposes of this section, alcohol-focused fundraisers are defined as events where alcohol consumption or sale is the primary purpose, or where the consumption of alcohol is incentivized by a discount or similar method.
+
+(f) Student organizations may not fundraise for their group or for any other purpose using bar crawls or any event that provides a discount on alcohol.
