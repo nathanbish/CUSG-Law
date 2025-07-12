@@ -57,3 +57,13 @@
 (a) The Diversity Director and a member of the Diversity Commission shall annually survey underrepresented groups and hold semesterly outreach meetings to assess UCSU’s effectiveness and gather feedback for presentation to UCSU.
 
 (b) The Diversity Commission shall submit a semesterly report with recommendations for remedial actions. The report shall be due the week prior to spring break, reviewed the following week, and formally presented the week after.
+
+
+## §5.1.7 – CUSG Outreach Events  
+**Enacted by 83 LCB 06 (2015, “CUSG Outreach”)**
+
+(a) The Executives, Legislative Council President, and Chief Justice of the Appellate Court, or their designees, shall lead three outreach events per academic semester on behalf of CU Student Government.  
+(b) At least one outreach event per semester shall be developed and run with an emphasis on engaging underrepresented students and student groups.  
+(c) These outreach events should, whenever feasible, occur outside of CUSG offices.  
+(d) The Chief Justice of the Appellate Court shall not lead outreach events that are in any way partisan or related to pending judicial matters.  
+(e) The Executives, Legislative Council President, and Chief Justice of the Appellate Court shall also develop a system to measure outreach effectiveness and provide recommendations to Legislative Council.
