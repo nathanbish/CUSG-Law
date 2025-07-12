@@ -135,5 +135,3 @@
 **Enacted by 84 LCB 09 (2016, “Appellate Court Budget”)**
 
 (a) CU Student Government affirms that the Appellate Court may maintain an independent budget for the purpose of paying hourly or salary wages to students who serve as justices on the Appellate Court.
-
-(b) CU Student Government encourages the Tri-Executives and the President of Legislative Council to submit future legislation establishing a budgetary floor of $3,500 below which the Appellate Court's budget shall not fall in a given fiscal year.
