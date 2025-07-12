@@ -111,3 +111,12 @@ Approved doctoral students who wish to purchase university-sponsored insurance s
 > Tier 1 (> 3 weeks–6 weeks): Factor = 5  
 > Tier 2 (> 6 weeks–9 weeks): Factor = 8  
 > Tier 3 (> 9 weeks or combination): Factor = 10
+
+## §3.4.5 – Bottled Water Surcharge and Sustainability Fund  
+**Enacted by 82 LCB 11 (2015, “Creating Solutions Not Waste”)**
+
+(a) Bottled water sold at retail locations in the UMC shall carry a $0.50 excise surcharge.  
+(b) Revenue from this surcharge shall be deposited into the Sustainability Innovation and Improvement Program (SIIP) fund.  
+(c) Each year, half of the SIIP fund shall be allocated to ongoing sustainability improvements at the UMC.  
+(d) The remaining half shall be allocated to sustainability projects focused on waste diversion.  
+(e) The Director of Sustainability shall assess the fund’s impact annually and may recommend changes to Legislative Council through a bill.
