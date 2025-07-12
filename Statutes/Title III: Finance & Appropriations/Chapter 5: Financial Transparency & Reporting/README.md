@@ -64,3 +64,11 @@
 (e) If, after reviewing any referenda group's budget, the Finance Board determines that referenda money is being used in a manner that necessarily and inherently negatively affects the well-being of the students of the University of Colorado at Boulder, violates State law or university policy, or is spent obviously outside of the group’s referendum purpose statement—as defined in UCSU Constitution XIII.E.—the Finance Board may recommend that the Legislative Council create an ad hoc committee to investigate.
 
 (f) If such an ad hoc committee is created, it is preferred that the Legislative Council consult the Chair of the Finance Board and the Director of SOFO to gain an understanding of the issue, and that these individuals sit on the committee as ex officio, non-voting members.
+
+## §3.5.2 – Documentation Requirements for Funding Denials  
+**Enacted by 68 LCB 05 (2008, “Audit Response”)**
+
+(a) All funding bodies within the University of Colorado Student Government shall include documentation for each denial of funding, specifying the reason for denial. The documentation must be made part of the relevant allocation form or funding record.
+
+(b) Revised allocation notices that include the reason for denial shall be used by all University of Colorado Student Government funding sources, unless explicitly exempted by law.
+
