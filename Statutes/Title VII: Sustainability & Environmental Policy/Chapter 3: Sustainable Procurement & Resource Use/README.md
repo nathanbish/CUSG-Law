@@ -104,3 +104,15 @@
 > (iii) No green-certified product exists for the intended use.
 
 (i) If exemption criteria are met, the review committee shall weigh overall health and safety benefits when reaching a final decision.
+
+
+## §7.3.2 – Sustainable Procurement Standards  
+**Enacted by** 72 LCB 15 (“Zero Waste”)
+
+**Text:**
+
+(a) CUSG cost centers shall give procurement preference to vendors offering reusable, take-back, or recycled-material products when fiscally viable.
+
+(b) All contracts with private vendors operating in student-fee-funded spaces shall include compliance requirements aligned with CUSG zero waste standards.
+
+(c) CUSG is committed to post-consumer product procurement standards consistent with EPA guidelines, as available at the time of contract.
