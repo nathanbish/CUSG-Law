@@ -11,3 +11,9 @@
 
 (d) The University of Colorado Student Union Leadership shall continue to meet weekly with leadership from the Office of the Vice Chancellor for Student Affairs.
 
+
+## §1.1.2 – CUSG Recognition  
+**Enacted by** 72 LCB 12 (2010, “UCSU Name Change and Branding”)
+
+**Text:**  
+(a) The University of Colorado Student Government (CUSG) shall be recognized as the official student government for the University of Colorado at Boulder.
