@@ -32,7 +32,7 @@ Approved doctoral students who wish to purchase university-sponsored insurance s
 > **Note:** This section may no longer reflect current fee-setting practices, which are now determined by a fixed annual amount. No formal repeal of this statute has been identified.
 
 
-## §3.4.2 – Student Fee Categorization Policy
+## §3.4.4 – Student Fee Categorization Policy
 
 **Enacted by** 53 LCB 09 (2000), revising 50 LCB 06 (1999)
 
@@ -61,7 +61,7 @@ Approved doctoral students who wish to purchase university-sponsored insurance s
 (k) UCSU and the Bursar’s Office shall collaborate in designing and implementing the collection and waiver petition process outlined in this section.
 
 
-## §3.4.3 – Zero Waste Fiscal Logistics  
+## §3.4.5 – Zero Waste Fiscal Logistics  
 **Enacted by** 72 LCB 15 (“Zero Waste”)
 
 **Text:**
@@ -69,3 +69,18 @@ Approved doctoral students who wish to purchase university-sponsored insurance s
 (a) Zero waste operations related to student group and cost center events shall be financed through an account managed by the Student Organizations Finance Office (SOFO) and the Student Group Funding Board (SGFB).
 
 (b) CUSG will work with Facilities Management and other parties to create long-term financial incentives to support sustainable waste reduction initiatives.
+
+
+## §3.4.6 – Graduate Student Fee Assessment  
+**Enacted by 74 LCB 04 (2011, “Graduate Student Fees”)**
+
+(a) Graduate students shall be assessed full CUSG fees while holding the status of A, B, C, or E. These designations are determined by the student’s department and relayed to the bursar’s office.
+
+> (i) A status is defined as a Master’s student registered for coursework and/or Master’s thesis hours.  
+> (ii) B status is defined as a Master’s student registered for “candidate for degree” course # 6940–6949.  
+> (iii) C status is defined as a Doctoral student that is Pre-Comprehensive Exam and registered for coursework or coursework/dissertation hour combination.  
+> (iv) E status is defined as a Doctoral student that is Pre-Comprehensive Exam and registered for dissertation hours only.
+
+(b) Graduate students with a designation of D status shall be assessed CUSG base fees.
+
+> (i) D status is defined as a Doctoral student that is Post-Comprehensive Exam and registered for 3 or 5+ dissertation hours as required by Graduate School Rules.
