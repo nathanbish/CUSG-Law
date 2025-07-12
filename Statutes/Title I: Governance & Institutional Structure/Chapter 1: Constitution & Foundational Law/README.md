@@ -65,3 +65,16 @@
 (h) An annual review of the bylaws of all Joint Boards shall be completed by the Chair and Vice Chair of each board no later than four weeks prior to the end of their terms.
 
 (i) An annual review of all other CUSG board bylaws and governing codes shall be completed by the Chair and Vice Chair of each board, no later than four weeks prior to the end of their terms.
+
+---
+
+## §1.1.7 – Service Consolidation Restrictions  
+**Enacted by 84 LCB 08 (2016, “Establishing Service Consolidation Procedures”)**
+
+(a) No consolidation of Human Resources (HR), Information Technology (IT), or Finance and Accounting (F&A) functions under CU Student Government shall occur without either:
+> (i) a simple majority of students voting in a referendum; or  
+> (ii) a two-thirds (2/3) vote of Legislative Council.
+
+(b) The Tri-Executives shall not transfer management control over any procedures or functions related to HR, IT, or F&A within CUSG without first submitting the proposed action to either:
+> (i) a two-thirds (2/3) vote of Legislative Council; or  
+> (ii) a simple majority vote of the student body through referendum.
