@@ -60,13 +60,12 @@
 
 
 ## §2.2.5 – CUSG Outreach Events  
-**Enacted by 83 LCB 06 (2015, “CUSG Outreach”)**
+**Enacted by 83 LCB 06 (2015, “CUSG Outreach”); amended by 84 LCB 01 (2016, “Branch Autonomy”)**
 
-(a) The Executives, Legislative Council President, and Chief Justice of the Appellate Court, or their designees, shall lead three outreach events per academic semester on behalf of CU Student Government.  
-(b) At least one outreach event per semester shall be developed and run with an emphasis on engaging underrepresented students and student groups.  
-(c) These outreach events should, whenever feasible, occur outside of CUSG offices.  
-(d) The Chief Justice of the Appellate Court shall not lead outreach events that are in any way partisan or related to pending judicial matters.  
-(e) The Executives, Legislative Council President, and Chief Justice of the Appellate Court shall also develop a system to measure outreach effectiveness and provide recommendations to Legislative Council.
+(a) The Executives and Legislative Council President, or their designees, shall lead three outreach events focused on student engagement per academic semester (fall and spring) on behalf of CU Student Government.  
+(b) At least one of the three events every semester ought to be developed and run with an emphasis on reaching out to underrepresented students and student groups.  
+(c) These events ought to take place outside of CU Student Government offices, if possible.  
+(d) The Executives and the Legislative Council President, or their designees, shall also develop a system to measure the effectiveness of these outreach events and make recommendations to Legislative Council on them in the future.
 
 ## §2.2.6 – Outreach Reporting by the Election Commissioner  
 **Enacted by 83 LCB 06 (2015, “CUSG Outreach”)**
@@ -77,7 +76,7 @@
 ## §2.2.7 – Biweekly Officer Updates and Internal Communications  
 **Enacted by 83 LCB 06 (2015, “CUSG Outreach”)**
 
-(a) The Legislative Council President, Tri-Executives, and Chief Justice of the Appellate Court shall each submit a biweekly update on outreach of approximately 200 words to be posted on the CUSG website.  
+(a) The Legislative Council President and Tri-Executives shall each submit a biweekly update on outreach of approximately 200 words to be posted on the CUSG website.  
 (b) The CUSG Director of Communication and Director of Multimedia shall produce a monthly CUSG newsletter to be posted on the CUSG website.  
 (c) At the beginning of each academic semester, the Executives shall deliver an update to Legislative Council on the health and priorities of CUSG.
 
