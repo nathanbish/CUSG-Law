@@ -123,3 +123,9 @@
 (d) The prescribed format in §3.1.5(b) serves as a recommended guide; cost centers may make adjustments based on their operational context.
 
 (e) While five-year plans will be considered during the budgeting process, they do not bind future financial decisions by the Legislative Council.
+
+
+## §3.1.7 – Denied Funding Reporting Requirement  
+**Enacted by 68 LCB 05 (2008, “Audit Response”)**
+
+(a) Any annual budget submitted to the Legislative Council for approval shall include a list of all student groups or entities whose funding requests were denied during the fiscal year, along with the reasons for each denial.
