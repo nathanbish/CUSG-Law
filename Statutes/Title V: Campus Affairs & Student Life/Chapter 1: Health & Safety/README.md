@@ -61,7 +61,7 @@ Upon acceptance of sanctuary by guests from El Salvador, Guatemala, or any other
 (e) It is the responsibility of all members of the University community to be aware of and respect this policy. Smokers shall comply with the designated smoke-free areas, and all individuals are encouraged to support enforcement by mutual respect and adherence to campus regulations.
 
 
-## §5.1.6 – Standards for Restroom Placement and Accessibility  
+## §5.1.5 – Standards for Restroom Placement and Accessibility  
 **Enacted by 76 LCB 06 (2012, “Gender-Neutral Restrooms”)**
 
 (a) Restrooms constructed under student-fee funded projects shall be placed in convenient, accessible, and safe locations.  
