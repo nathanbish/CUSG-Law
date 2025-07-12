@@ -74,7 +74,7 @@
 
 
 ## §2.2.7 – Biweekly Officer Updates and Internal Communications  
-**Enacted by 83 LCB 06 (2015, “CUSG Outreach”)**
+**Enacted by 83 LCB 06 (2015, “CUSG Outreach”); amended by 84 LCB 01 (2016, “Branch Autonomy")**
 
 (a) The Legislative Council President and Tri-Executives shall each submit a biweekly update on outreach of approximately 200 words to be posted on the CUSG website.  
 (b) The CUSG Director of Communication and Director of Multimedia shall produce a monthly CUSG newsletter to be posted on the CUSG website.  
