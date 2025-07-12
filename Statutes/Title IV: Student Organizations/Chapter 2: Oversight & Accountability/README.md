@@ -24,3 +24,24 @@ Upon receiving an accusation from any member of the student body that a student 
 (a) All students who receive funding from Executive Council to attend a conference or workshop with an educational or informational emphasis shall be required to write and submit editorials to all campus newspapers within three weeks of their return.
 
 (b) If the requirement outlined in subsection (a) is not fulfilled, Executive Council shall deny conference-related funding for one year to the student and the student group they represent.
+
+
+## §4.2.3 – Student Group Accountability Procedures  
+**Enacted by 77 LCB 06 (2012, “Student Group Accountability”)**
+
+(a) The Director or Assistant Director of the Student Organizations Finance Office (SOFO) shall notify a student group if a potential violation of University policy or law has occurred, through referral by a Division of Student Affairs representative or at SOFO’s discretion.  
+(b) The student group shall be called into a meeting with SOFO representatives to present their interpretation of the event before any determination is made.
+
+(c) SOFO may determine appropriate accountability measures, including freezing the student group’s account or suspending affiliation.  
+(d) If a punitive measure is applied, SOFO shall submit a brief summary to the Tri-Executive who sits on the appeals board and notify CUSG office support staff and student group leadership within 72 hours.
+
+(e) A student group may appeal a SOFO decision to a committee composed of the Associate Vice Chancellor for Student Affairs, the Legislative Council President, and a Tri-Executive.  
+> (i) The same Tri-Executive shall remain on the board throughout the academic year.  
+> (ii) It is recommended that the Internal Vice President sit on this board.  
+> (iii) Appeals must be filed no later than two weeks after the SOFO decision is issued.
+
+(f) If the student group’s action involves potential violations of Student Fee Regulations, the process outlined in those regulations shall apply.
+
+(g) The accountability structure described herein shall apply to all student groups. Individual actors may also be referred to the Office of Student Conduct.
+
+(h) Club Sports and Registered Fraternal Organizations are exempt from Sections (a), (c), and (e), due to existing internal accountability systems. However, Student Fee Regulations continue to apply.
