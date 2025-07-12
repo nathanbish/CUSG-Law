@@ -74,3 +74,21 @@ provision such as this into their bylaws, whichever comes first," Neither of whi
 (b) All copies for posting printed using student fees shall display the UCSU logo, available from the UCSU office.
 
 (c) All postings made by UCSU shall comply with CU Posting Policy Regulations.
+
+
+## §3.2.7 – Sustainable Dishware Requirements for Student-Funded Events  
+**Enacted by 69 LCB 05 (2008, “Waste Reduction Revision”)**
+
+(a) All events funded by student fees, including but not limited to cost centers and student groups, shall utilize either:  
+> (i) Re-usable china and flatware; or  
+> (ii) Compostable dishware.  
+
+(b) Items qualifying under this section include, but are not limited to, plates, silverware, and glasses.  
+
+(c) An exception may be made if an alternative product is unavailable to UMC Catering.
+
+(d) When such events are held outside the UMC, the default dishware shall be compostable flatware.
+
+(e) Events held in the UMC with fewer than 50 attendees shall default to using re-usable china and flatware.  
+(f) This requirement shall not be interpreted to prohibit use of re-usable dishware at larger events.
+
