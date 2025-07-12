@@ -62,3 +62,14 @@ The statute directed an amendment to the UCSU Bylaws, stating that the State of 
 (a) The executives and executive staff shall be required to attend diversity training no later than eight weeks after taking office.
 
 (b) The UCSU tri-executives shall be responsible for planning the session’s date, time, location, and all other necessary arrangements for the diversity training by the stipulated deadline.
+
+
+## §1.3.5 – Executive Staff Presentation Requirements  
+**Enacted by 81 LCB 08 (2014, “Collaboration with Executive Staff”)**
+
+(a) The Representative Council Speaker and Chair of the Council of Colleges and Schools shall confer with the CUSG Chief of Staff at the beginning of each legislative session to schedule executive staff presentations at Representative Council and CCS meetings.  
+(b) Every weekly Representative Council and CCS meeting shall include an agenda item for a CUSG executive staff member to present.  
+(c) Executive staff shall use these meetings to update legislators on their projects, present legislative ideas, and respond to questions.  
+(d) Each executive staff member shall attend at least one Representative Council meeting and one CCS meeting during every legislative session.  
+(e) The Chief of Staff shall be responsible for enforcing this requirement, and it shall be included in the Chief of Staff’s job description.  
+(f) Executive staff members scheduled to present at Representative Council or CCS meetings shall be excused from any other executive staff duties that conflict with their attendance at those meetings.
