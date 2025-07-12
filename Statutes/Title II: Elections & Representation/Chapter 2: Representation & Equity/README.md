@@ -67,3 +67,8 @@
 (c) These outreach events should, whenever feasible, occur outside of CUSG offices.  
 (d) The Chief Justice of the Appellate Court shall not lead outreach events that are in any way partisan or related to pending judicial matters.  
 (e) The Executives, Legislative Council President, and Chief Justice of the Appellate Court shall also develop a system to measure outreach effectiveness and provide recommendations to Legislative Council.
+
+## §2.2.6 – Outreach Reporting by the Election Commissioner  
+**Enacted by 83 LCB 06 (2015, “CUSG Outreach”)**
+
+(a) The Election Commissioner or their designee shall present a report to Legislative Council and post an update to the CUSG website on the state of outreach before and after each election.
