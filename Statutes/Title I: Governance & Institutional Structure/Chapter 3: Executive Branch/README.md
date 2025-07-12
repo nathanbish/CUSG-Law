@@ -81,3 +81,8 @@ The statute directed an amendment to the UCSU Bylaws, stating that the State of 
 (a) The incoming executive staff member tasked with planning Homecoming shall be hired no later than one month after the start of spring classes.
 
 (b) The outgoing executive staff member tasked with planning Homecoming shall end their term in the same semester in which the incoming executive staff member is hired.
+
+## §1.3.8 – Executive Notification on Sexual Misconduct Initiatives  
+**Enacted by 85 LCB 06 (2016, “Sexual Misconduct Awareness”)**
+
+(a) The Executive Branch shall promptly notify Legislative Council whenever CU Student Government initiatives to address sexual misconduct are underway. These efforts may include but are not limited to volunteering with events or assisting in the organization of programs both on and off campus.
