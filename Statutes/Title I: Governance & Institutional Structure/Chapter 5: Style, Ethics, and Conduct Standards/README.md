@@ -24,7 +24,7 @@
 
 (b) UCSU encourages the use of non-sexist language in all meetings of the Executive Council, Joint Boards, committees, and other official UCSU gatherings.
 
-## §1.5.2 – Removal of GPA and Age from UCSU Applications
+## §1.5.3 – Removal of GPA and Age from UCSU Applications
 
 **Enacted by** 23ECB17 (1985, “Bylaws”)
 
@@ -34,7 +34,7 @@
 
 (b) UCSU applications shall not include age.
 
-## §1.5.3 – Conference Editorial Clause in Funding Bills
+## §1.5.4 – Conference Editorial Clause in Funding Bills
 
 **Enacted by** 26 ECB 41 (1987, “Conference Funding Follow-Up Requirements”)
 
@@ -42,7 +42,7 @@
 All bills requesting student fee funding for participation in educational or informational conferences shall include a clause requiring the funded student to submit editorials to all campus newspapers within three weeks of their return.
 
 
-## §1.5.1 – Responsibility and Accountability of UCSU Officials
+## §1.5.5 – Responsibility and Accountability of UCSU Officials
 
 **Enacted by** 61 LCB 08 (2004, “Proper Impeachment Proceedings”)
 
@@ -52,7 +52,7 @@ All bills requesting student fee funding for participation in educational or inf
 
 (b) These responsibilities must be upheld throughout their term of office.
 
-## §1.5.2 – Standards for Impeachability
+## §1.5.6 – Standards for Impeachability
 
 **Enacted by** 61 LCB 08 (2004, “Proper Impeachment Proceedings”)
 
@@ -65,7 +65,7 @@ All bills requesting student fee funding for participation in educational or inf
 > (iii) Failure to perform required duties or fulfill obligations as defined by their position.
 
 
-## §1.5.3 – Institutional Naming Standards  
+## §1.5.7 – Institutional Naming Standards  
 **Enacted by** 72 LCB 12 (2010, “UCSU Name Change and Branding”)
 
 **Text:**  
