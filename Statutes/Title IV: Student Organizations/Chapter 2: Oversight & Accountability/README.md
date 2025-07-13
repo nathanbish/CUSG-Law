@@ -85,3 +85,12 @@ Upon receiving an accusation from any member of the student body that a student 
 (a) Failure of a student organization to comply with the accessibility requirements outlined in §4.3.3 may result in the rescinding of allocated funds to the organization.
 
 (b) Repeated or multiple failures to comply may result in a hold on future fund allocations until the organization demonstrates compliance with required accessibility practices.
+
+
+## §4.2.4 – RSO Training Requirements for Bystander Intervention and Survivor Support  
+**Enacted by 101 LCB 10 (2024, “A Bill Requiring and Encouraging Members of CUSG to Participate in Bystander Intervention and Survivor Support Training”)**
+
+(a) Leaders of RSO’s shall be required to attend one Sexual Assault Prevention training session run by the Office of Institutional Equity and Compliance and one Victim Support training session run by the Office of Victim Assistance per session, to be coordinated by the Center for Student Involvement Board, Office of Institutional Equity and Compliance, and Office of Victim Assistance.  
+> (i) The Center for Student Involvement Board must amend this requirement into their bylaws.  
+> (ii) The Center for Student Involvement Board will be required to track attendance and compliance with the contents of this statute.  
+> (iii) An exemption may be granted to leaders who have completed the requirements set herein within the current academic year.
