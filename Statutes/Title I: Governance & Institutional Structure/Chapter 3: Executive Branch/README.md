@@ -129,3 +129,5 @@ The statute directed an amendment to the UCSU Bylaws, stating that the State of 
 (a) Executive Cabinet members assigned by the Executive(s) shall maintain the public posting of all CUSG-related student employees, professional staff, and Board chairs and members on the CUSG website.
 
 (b) All updates to the roster of contact information must be posted within two weeks of a written request submitted by email or in hard copy.
+
+(c) There must also be updates every May, August, and January.
