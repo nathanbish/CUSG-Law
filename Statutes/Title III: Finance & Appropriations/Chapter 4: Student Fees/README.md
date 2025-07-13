@@ -32,11 +32,8 @@ Approved doctoral students who wish to purchase university-sponsored insurance s
 > **Note:** This section may no longer reflect current fee-setting practices, which are now determined by a fixed annual amount. No formal repeal of this statute has been identified.
 
 
-## §3.4.4 – Student Fee Categorization Policy
-
-**Enacted by** 53 LCB 09 (2000), revising 50 LCB 06 (1999)
-
-**Text:**
+## §3.4.4 – Student Fee Categorization Policy  
+**Enacted by** 53 LCB 09 (2000), revising 50 LCB 06 (1999); amended by 92 LCB 07 (2020, “A Bill to Amend the 74 LCB 04 ‘A Bill to Redefine the Categorization of Graduate Students for Collection of Student Fee’”)
 
 (a) ACCESS (formerly SAVE) students shall have the option to pay full UCSU fees or no UCSU fees.
 
@@ -48,9 +45,19 @@ Approved doctoral students who wish to purchase university-sponsored insurance s
 
 (e) Law School students shall be assessed full UCSU fees for all semesters of enrollment in the Law School.
 
-(f) Graduate students, excluding Law School students, shall be assessed full UCSU fees until completion of thirty (30) credit hours.
+(f) Graduate students not enrolled in the Law School shall be assessed equal UCSU fees to that of the equivalent status of undergraduate students while having the status of A, B, C, or E, as determined by the student’s department and relayed to the Bursar’s Office.
 
-(g) After completion of thirty (30) credit hours, graduate students, excluding Law School students, shall be assessed UCSU base fees.
+> (i) A status is defined as a Master’s student registered for coursework and/or Master’s thesis hours.
+
+> (ii) B status is defined as a Master’s student registered for “candidate for degree” course numbers 6940–6949.
+
+> (iii) C status is defined as a Doctoral student who is pre-comprehensive exam and registered for coursework or a combination of coursework and dissertation hours.
+
+> (iv) E status is defined as a Doctoral student who is pre-comprehensive exam and registered for dissertation hours only.
+
+(g) Graduate students not enrolled in the Law School and designated as status D shall be assessed UCSU base fees.
+
+> (i) D status is defined as a Doctoral student who is post-comprehensive exam and registered for 3 or 5+ dissertation hours as required by Graduate School rules.
 
 (h) Any student assessed UCSU base fees shall have the right to pay full UCSU fees. Sponsored students must pay the difference if not assessed full UCSU fees.
 
@@ -59,6 +66,7 @@ Approved doctoral students who wish to purchase university-sponsored insurance s
 (j) Any student working or studying off-site and living outside the RTD district shall have the right to petition for a waiver of the RTD portion of UCSU fees.
 
 (k) UCSU and the Bursar’s Office shall collaborate in designing and implementing the collection and waiver petition process outlined in this section.
+
 
 
 ## §3.4.5 – Zero Waste Fiscal Logistics  
