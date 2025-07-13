@@ -93,3 +93,22 @@ The statute directed an amendment to the UCSU Bylaws, stating that the State of 
 
 (a) The Homecoming Coalition is established as a permanent body under the Executive Branch of the University of Colorado Student Government.  
 (b) The Homecoming Coalition shall operate in accordance with the Homecoming Coalition Bylaws as adopted by Legislative Council.
+
+## §1.3.5 – Executive Cabinet Hiring Timeline and Oversight  
+**Enacted by 93 LCB 13 (2020, “A Bill to Standardize Hiring Practices for CUSG”)**
+
+(a) All CUSG Executive Cabinet roles must be filled by September 15th.
+
+(b) The Chief of Staff, Executive Cabinet Aides, all Director positions (Director of Finance, Director of Strategic Communications, Director of Student Engagement, Director of Diversity and Inclusion), SOAC Chair, and Election Commissioner must be hired by July 1st, with applications posted by the time the Tri-Executives take office.
+
+> (i) The Chief of Staff must be hired prior to the remaining positions, as they are a core member of the Executive Cabinet hiring team.
+
+(c) If any of the positions listed in subsection (b) remain unfilled by July 15th, the Appointments Committee of Legislative Council shall begin the process of finding candidates and interviewing them, and shall present at least three qualified candidates to the Tri-Executives for final decision.
+
+> (i) The Appointments Committee shall aid in the process of identifying candidates and conducting interviews, while the Executive Cabinet maintains financial responsibilities.
+
+(d) If the Executive Cabinet is not filled by September 15th, the Appointments Committee shall begin the same process outlined in subsection (c) until the positions are filled.
+
+(e) In the event of a resignation, the Executives shall have 28 days to refill the position. If they fail to do so, the Appointments Committee shall follow the same process described above.
+
+> (i) The Appointments Committee shall aid in finding and interviewing candidates, while the Executive Cabinet retains other responsibilities.
