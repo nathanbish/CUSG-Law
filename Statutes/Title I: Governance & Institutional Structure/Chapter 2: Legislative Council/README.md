@@ -224,3 +224,18 @@ At the start of the Pro-Tempore Report, the President Pro-Tempore shall make a b
 (a) Each set of commission bylaws shall be revised or revisited no less than once per academic year.
 
 (b) Such review shall be conducted through a formal update or bill submitted by the respective commission’s chair to the Legislative Council.
+
+## §1.2.15 – Legislative Council Outreach Requirements  
+**Enacted by 98 LCB 08 (2023, “A Bill to Perform More Frequent and Meaningful Student Outreach By Legislative Council”)**  
+**Text:**  
+(a) The Legislative Council Press Secretary and Legislative Council Staff shall host at least one (1) student outreach event per semester.  
+> (i) Other legislators may assist or take the lead on these events.
+
+(b) Outreach events may include, but are not limited to:  
+> (i) Town hall meetings  
+> (ii) Tabling events  
+> (iii) Other interactive activities designed to solicit student feedback from a wide range of backgrounds.
+
+(c) All members of the Legislative Council are expected to participate in outreach, either through planning or attendance.  
+> (i) Specific expectations shall be determined by the Legislative Council Vice President and Press Secretary.
+
