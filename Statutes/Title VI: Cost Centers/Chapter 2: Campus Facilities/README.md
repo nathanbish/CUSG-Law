@@ -115,3 +115,8 @@
 (b) Organizations that operate, advertise, promote, or gather in student fee funded facilities shall be prohibited from distributing single-use plastic bottles.  
 
 (c) Vendors contracted with the University of Colorado Boulder that operate in student fee funded and regulated facilities shall be prohibited from distributing or selling single-use plastic bottles.
+
+## §6.2.10 – Restroom Infrastructure for Menstrual Hygiene  
+**Enacted by 92 LCB 02 (2020, “A Bill for Free Equitable Menstrual Products in Cost Centers”)**
+
+(a) CUSG mandates the installation and placement of menstrual hygiene product dispensers and trash cans in non-urinal seated toilet stalls on the CU Cost Centers.
