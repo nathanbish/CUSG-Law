@@ -203,3 +203,9 @@ At the start of the Pro-Tempore Report, the President Pro-Tempore shall make a b
 (c) One Representative-at-Large shall be appointed and ratified by Legislative Council to serve as the RHA liaison.  
 (d) The RHA liaison shall sit on the RHA Executive Board and shall attend no fewer than half of all RHA meetings.  
 
+
+## §6.4.3 – Parliamentarian Compensation  
+**Enacted by 86 LCB 04 (2017, “Compensation Structure”)**
+
+(a) The Parliamentarian shall be paid a bi-weekly stipend at the same pay level as the Speaker of Representative Council and the Chair of the Council of Colleges and Schools, subject to increases as outlined in §6.4.8.  
+(b) This stipend shall not be paid in weeks during which the Legislative Council does not meet.
