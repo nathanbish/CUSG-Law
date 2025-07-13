@@ -154,3 +154,37 @@ The UCSU Finance Board shall not alter the programmatic priorities of budgets ad
 > (iii) Two non-student voting members appointed by the advisory board.  
 > (iv) Liaisons from the Finance Board and from programs of the board’s choosing, who shall be non-voting members.  
 (d) Legislative Council shall ratify all voting member appointments made by the Advisory Board.
+
+
+## §6.1.11 – Institutional Communication Standards for Boards  
+**Enacted by 93 LCB 05 (2020, “CUSG Joint and Advisory Board Communication and Onboarding Centralization”)**
+
+(a) All Joint and Advisory Boards shall establish two institutional email accounts: one assigned to the chair and one general account for the Board, to serve as a point of contact and continuity resource for students and members.
+
+
+## §6.1.12 – Vacancy Reporting Requirements for Boards  
+**Enacted by 93 LCB 05 (2020, “CUSG Joint and Advisory Board Communication and Onboarding Centralization”)**
+
+(a) All CUSG Joint and Advisory Boards must report vacancies to the CUSG Legislative Council and the Executive(s), or their designee, for public posting on the CUSG Proper website.
+
+
+## §6.1.13 – Roster Transparency and Reporting  
+**Enacted by 93 LCB 05 (2020, “CUSG Joint and Advisory Board Communication and Onboarding Centralization”)**
+
+(a) All Boards and Branches of CUSG Proper must report their current roster of members to the CUSG Staff, the Executive Committee of the Legislative Council, and the Executive(s) or their designee.
+
+(b) The CUSG Staff, in collaboration with the Executive(s) or their designee and the Executive Committee of the Legislative Council, shall maintain and publicly post a complete list of all CUSG Board Chairs and members, Executive Cabinet employees, Executive(s), Legislative Council members and staff, and cost center professional staff who interact with CUSG Boards.
+
+
+## §6.1.5 – Ex-Officio Finance Board Seat Requirement  
+**Enacted by 93 LCB 05 (2020, “CUSG Joint and Advisory Board Communication and Onboarding Centralization”)**
+
+(a) All Joint and Advisory Boards shall establish within their bylaws one (1) ex-officio seat designated for a member of the Finance Board.
+
+
+## §6.1.6 – Joint Board Roster Submission Requirements  
+**Enacted by 93 LCB 05 (2020, “CUSG Joint and Advisory Board Communication and Onboarding Centralization”)**
+
+(a) The necessary information for maintaining the public roster list may be transmitted and updated as needed by Boards and CUSG Proper.
+
+(b) Boards and CUSG Proper shall submit updated information in May, August, and January each year in alignment with the University’s academic calendar.
