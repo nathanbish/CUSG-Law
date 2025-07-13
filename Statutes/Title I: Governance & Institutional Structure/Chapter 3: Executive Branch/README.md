@@ -122,3 +122,10 @@ The statute directed an amendment to the UCSU Bylaws, stating that the State of 
 **Enacted by 93 LCB 05 (2020, “CUSG Joint and Advisory Board Communication and Onboarding Centralization”)**
 
 (a) The Strategic Communications Department, Legislative Council Communications Director, or appropriate media relations officer, or the relevant Executive Cabinet department shall work with Board chairs or their designees to maintain Board vacancy listings, create application materials, and manage public updates as needed.
+
+## §1.3.11 – Online Directory Maintenance  
+**Enacted by 93 LCB 05 (2020, “CUSG Joint and Advisory Board Communication and Onboarding Centralization”)**
+
+(a) Executive Cabinet members assigned by the Executive(s) shall maintain the public posting of all CUSG-related student employees, professional staff, and Board chairs and members on the CUSG website.
+
+(b) All updates to the roster of contact information must be posted within two weeks of a written request submitted by email or in hard copy.
