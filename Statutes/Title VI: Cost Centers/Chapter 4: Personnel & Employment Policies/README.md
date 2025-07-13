@@ -34,7 +34,7 @@ Attorneys in the employ of UCSU Legal Services shall be issued parking permits n
 (c) Any cost center found in violation of this statute shall be subject to inquiry by the Legislative Council. Continued noncompliance may result in penalties as determined by the Tri-Executives and/or Legislative Council.
 
 
-## §6.4.2 – Zero Waste Staff Training  
+## §6.4.4 – Zero Waste Staff Training  
 **Enacted by** 72 LCB 15 (“Zero Waste”)
 
 **Text:**
