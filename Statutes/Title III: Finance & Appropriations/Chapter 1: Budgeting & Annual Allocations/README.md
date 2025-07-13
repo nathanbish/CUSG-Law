@@ -152,3 +152,13 @@
 
 (c) The base year CPI shall be the March 2003 CPI.  
 (d) This formula shall be used for the purposes of initial budgeting; compensation amounts may be amended during budget approval.
+
+
+## §3.1.9 – Legislative Council Outreach Fund  
+**Enacted by 98 LCB 08 (2023, “A Bill to Perform More Frequent and Meaningful Student Outreach By Legislative Council”)**  
+**Text:**  
+(a) A maximum of $1000 per session may be allocated from the Legislative Discretionary Fund for student outreach events coordinated by the Legislative Council.
+
+(b) Purchased items funded through this allocation must be distributed to members of the student body.
+
+(c) Any disbursement under this subsection shall require signatures from at least three (3) members of Legislative Council leadership.
