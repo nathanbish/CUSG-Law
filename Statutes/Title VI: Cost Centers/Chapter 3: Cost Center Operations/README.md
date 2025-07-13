@@ -37,7 +37,7 @@
 (g) The NRNW Director shall submit an annual report to the Executive branch and Legislative Council detailing program performance, challenges, and recommendations.
 
 
-## §6.3.1 – Cost Center Fee Standardization Rules
+## §6.3.2 – Cost Center Fee Standardization Rules
 
 **Enacted by** 62 LCB 11 (2005, “The Cost Center Fee Standardization Act of 2005”)
 
@@ -64,9 +64,17 @@
 (b) The Legislative Council shall not set programmatic guidelines and shall maintain oversight through its appointments to the UMC Board.
 
 
-## §6.3.2 – Student Activities Office Cost Center Status  
+## §6.3.5 – Student Activities Office Cost Center Status  
 **Enacted by 82 LCB 01 (2014, “Student Activities Office”)**
 
 (a) The Student Activities Office shall operate as a cost center under the policy-making and financial jurisdiction of the University of Colorado Student Government.  
 (b) The annual operating budget of the Student Activities Office shall be determined through the CUSG annual budget process.  
 (c) Final approval of the Student Activities Office’s budget is subject to approval by the University of Colorado Board of Regents.
+
+
+## §6.3.6 – Menstrual Product Provision in Cost Centers  
+**Enacted by 92 LCB 02 (2020, “A Bill for Free Equitable Menstrual Products in Cost Centers”)**
+
+(a) The University of Colorado Student Government (CUSG) mandates the provision of menstrual hygiene products in all Cost Center restrooms.  
+
+(b) All CUSG Cost Center Buildings must comply with the above provisions.
