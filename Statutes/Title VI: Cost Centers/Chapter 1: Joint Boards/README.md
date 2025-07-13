@@ -206,3 +206,7 @@ The UCSU Finance Board shall not alter the programmatic priorities of budgets ad
 
 (g) If the CSI Joint Board has not been established, the hearing process shall be conducted by the Rules Committee of the CUSG Legislative Council.
 
+## §6.1.17 – Training Reporting Requirements to Joint Boards  
+**Enacted by 101 LCB 10 (2024, “A Bill Requiring and Encouraging Members of CUSG to Participate in Bystander Intervention and Survivor Support Training”)**
+
+(a) All members of the CUSG Legislative Council must report their knowledge from the training to the respective College, School, Joint Board or Advisory Board within 30 days of their respective training.
