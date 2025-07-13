@@ -145,3 +145,15 @@ Attorneys in the employ of UCSU Legal Services shall be issued parking permits n
 (g) Any approved changes to compensation shall take effect at the start of the next CUSG Proper fiscal year.
 
 (h) Changes to compensation rates shall not exceed a ten percent (10%) increase or a two and one-half percent (2.5%) reduction from the prior year’s stipend.
+
+
+## §6.4.5 – UndocuAlly Training Requirements for CUSG Proper 
+**Enacted by 94 LCB 17 (2021, “A Bill to Require UndocuAlly Training for All CUSG Proper Members”)**
+
+(a) The department of diversity and inclusion shall be responsible for scheduling and notifying all members of CUSG Proper of the dates and times when the UndocuAlly training will take place during the first two months of the school year. It is the responsibility of the student representative to sign up for a training that fits in their schedule.
+
+(b) The Center for Inclusion and Social Change and designated faculty allies shall conduct the UndocuAlly training for members of CUSG Proper. Attendance shall be taken and provided to the department of diversity and inclusion for bookkeeping.
+
+(c) The department of diversity and inclusion, in collaboration with the Center for Inclusion and Social Change, shall administer a quiz based on the UndocuAlly training. The director of diversity and inclusion must have successfully completed FERPA training to oversee the quiz. Each member of CUSG Proper shall complete the quiz via the CU student government Canvas page and score at least 90% within 48 hours of attending the training.
+
+(d) Failure to attend the training and/or to score at least 90% on the associated quiz may be grounds for removal by the Legislative Council or termination of employment.
