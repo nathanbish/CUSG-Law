@@ -204,13 +204,13 @@ At the start of the Pro-Tempore Report, the President Pro-Tempore shall make a b
 (d) The RHA liaison shall sit on the RHA Executive Board and shall attend no fewer than half of all RHA meetings.  
 
 
-## §6.4.3 – Parliamentarian Compensation  
+## §1.2.12 – Parliamentarian Compensation  
 **Enacted by 86 LCB 04 (2017, “Compensation Structure”)**
 
 (a) The Parliamentarian shall be paid a bi-weekly stipend at the same pay level as the Speaker of Representative Council and the Chair of the Council of Colleges and Schools, subject to increases as outlined in §6.4.8.  
 (b) This stipend shall not be paid in weeks during which the Legislative Council does not meet.
 
-## §1.2.6 – Rules Committee Bylaw Approval Procedure  
+## §1.2.13 – Rules Committee Bylaw Approval Procedure  
 **Enacted by** 92 LCB 13 (2020, “A Bill to Establish Legislative Council Oversight of All CUSG Fee-Supported Organization Bylaws”)
 
 (a) All revisions to bylaws of CUSG fee-supported organizations, with the exception of the Executive Branch and local school and college governments, that have been approved by the organization’s membership must be submitted to and approved by the Legislative Council Rules Committee.
@@ -218,7 +218,7 @@ At the start of the Pro-Tempore Report, the President Pro-Tempore shall make a b
 (b) After receiving the signed and documented approval of the Rules Committee Chair and the President of the Legislative Council, the bylaws shall take effect immediately.
 
 
-## §1.2.7 – Commission Bylaw Review  
+## §1.2.14 – Commission Bylaw Review  
 **Enacted by** 92 LCB 05 (2020, “A Bill to Separate Commission Bylaws Out of Legislative Council Bylaws”)
 
 (a) Each set of commission bylaws shall be revised or revisited no less than once per academic year.
