@@ -94,7 +94,7 @@ The statute directed an amendment to the UCSU Bylaws, stating that the State of 
 (a) The Homecoming Coalition is established as a permanent body under the Executive Branch of the University of Colorado Student Government.  
 (b) The Homecoming Coalition shall operate in accordance with the Homecoming Coalition Bylaws as adopted by Legislative Council.
 
-## §1.3.5 – Executive Cabinet Hiring Timeline and Oversight  
+## §1.3.9 – Executive Cabinet Hiring Timeline and Oversight  
 **Enacted by 93 LCB 13 (2020, “A Bill to Standardize Hiring Practices for CUSG”)**
 
 (a) All CUSG Executive Cabinet roles must be filled by September 15th.
