@@ -265,3 +265,11 @@ At the start of the Pro-Tempore Report, the President Pro-Tempore shall make a b
 
 (b) All members of CUSG Legislative Council shall be required to attend one Victim Support training session run by the Office of Victim Assistance per session.  
 > (i) An exception may be granted to members of CUSG who have completed the requirements set herein within the current academic year.
+
+
+## §1.2.17 – Legislative Council Outreach Evaluation Procedures  
+**Enacted by 101 LCB 03 (2024, “A Bill to Provide CU Students with Care Packages to Increase Early Engagement with CUSG”)**
+
+(a) The CUSG Election Commissioner shall analyze voter participation data following each semester's care package distribution and report outcomes to the Legislative Council.
+
+(b) Based on the report, the Legislative Council shall determine necessary adjustments to improve future iterations of the outreach program.
