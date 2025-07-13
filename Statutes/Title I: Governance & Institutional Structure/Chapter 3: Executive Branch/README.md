@@ -112,3 +112,7 @@ The statute directed an amendment to the UCSU Bylaws, stating that the State of 
 (e) In the event of a resignation, the Executives shall have 28 days to refill the position. If they fail to do so, the Appointments Committee shall follow the same process described above.
 
 > (i) The Appointments Committee shall aid in finding and interviewing candidates, while the Executive Cabinet retains other responsibilities.
+
+(a) The Executives must send out an email to all CSI-recognized student organizations by June 30th, listing the roles available for application and the application deadline.
+
+>(i) The structure of the Executive Cabinet must be approved by the Legislative Council before this email may be sent.
