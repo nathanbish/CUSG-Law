@@ -239,3 +239,19 @@ At the start of the Pro-Tempore Report, the President Pro-Tempore shall make a b
 (c) All members of the Legislative Council are expected to participate in outreach, either through planning or attendance.  
 > (i) Specific expectations shall be determined by the Legislative Council Vice President and Press Secretary.
 
+
+## §1.2.16 – Representative-At-Large Term Transition
+
+**Enacted by 101 LCB 13 (2024, “A Bill for Representative-At-Large Term Transition”)**
+
+**Text:**
+
+(a) The Representative Council Speaker shall invite the incoming Representatives-at-Large to attend a full Representative Council meeting one time ahead of their official initiation into CUSG at the Legislative Council meeting.
+
+> (i) The Representative Council Speaker shall be tasked with the organization of this meeting and informing all members of the time to meet.
+
+> (ii) Alongside the typical meeting agenda, the Representative Council Speaker shall focus on a casual introduction of each member, what Representatives have worked on during their time on CUSG, a quick guide to responsibilities such as councils and meeting Representatives must attend, and how the Legislative Council meetings work.
+
+> (iii) The Representative Council Speaker shall choose how the information that is introduced for the incoming Representatives is presented but should provide time for discussion.
+
+> (iv) Incoming Representatives who cannot attend the Representative Council meeting set by the Representative Council Speaker may attend another Representative Council meeting ahead of their CUSG initiation if they so choose. Alternatively, they can find time to meet with the Representative Council Speaker to learn what was discussed.
