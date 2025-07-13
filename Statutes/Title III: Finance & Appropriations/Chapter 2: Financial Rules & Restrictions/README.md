@@ -100,3 +100,11 @@ provision such as this into their bylaws, whichever comes first," Neither of whi
 (a) All events supported by CUSG money must display the current CUSG banner at their event to ensure CUSG recognition and sponsorship.
 
 (b) CUSG’s Representative Council and Council of Colleges and Schools banners must also be displayed at these sponsored events.
+
+
+## §3.2.3 – Ban on Single-Use Plastic Bottles at Student Events  
+**Enacted by 89 LCB 06 (2018, “Plastic Bottle Phase Out”)**
+
+(a) The distribution of single-use plastic bottles at student fee funded events shall be prohibited.  
+(b) All student fee funded events shall distribute beverages using reusable, recyclable, or compostable containers, should they choose to distribute beverages.  
+(c) The definition of recyclable containers, excluding single-use plastic bottles, shall refer to the guidelines set by CU Boulder’s recycling contractors.
