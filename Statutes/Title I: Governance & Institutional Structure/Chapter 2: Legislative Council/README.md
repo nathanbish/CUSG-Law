@@ -209,3 +209,10 @@ At the start of the Pro-Tempore Report, the President Pro-Tempore shall make a b
 
 (a) The Parliamentarian shall be paid a bi-weekly stipend at the same pay level as the Speaker of Representative Council and the Chair of the Council of Colleges and Schools, subject to increases as outlined in §6.4.8.  
 (b) This stipend shall not be paid in weeks during which the Legislative Council does not meet.
+
+## §1.2.6 – Rules Committee Bylaw Approval Procedure  
+**Enacted by** 92 LCB 13 (2020, “A Bill to Establish Legislative Council Oversight of All CUSG Fee-Supported Organization Bylaws”)
+
+(a) All revisions to bylaws of CUSG fee-supported organizations, with the exception of the Executive Branch and local school and college governments, that have been approved by the organization’s membership must be submitted to and approved by the Legislative Council Rules Committee.
+
+(b) After receiving the signed and documented approval of the Rules Committee Chair and the President of the Legislative Council, the bylaws shall take effect immediately.
