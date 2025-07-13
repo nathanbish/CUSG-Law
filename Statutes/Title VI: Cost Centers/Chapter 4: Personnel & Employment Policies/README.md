@@ -185,3 +185,27 @@ Attorneys in the employ of UCSU Legal Services shall be issued parking permits n
 
 (d) Any CUSG member who fails to complete this training without valid excuse may be subject to removal. This training shall carry equal disciplinary weight with all other required CUSG trainings.
 
+
+## §6.4.13 – Mandatory Sustainability Education  
+**Enacted by 94 LCB 09 (2021, “A Bill to Require Sustainability Education”)**  
+**Text:**  
+(a) The CUSG Sustainability Chair, CUSG Chief of Staff, and a representative of the Environmental Board shall present to each branch of CUSG on the topics outlined in the Global Climate Letter and expand upon them where appropriate.
+
+(b) The Executive, Legislative, and Judicial Branches shall attend a one (1) hour live training provided by the individuals in subsection (a).  
+> (i) Joint Boards and Cost Centers shall receive access to a one (1) hour pre-recorded training, with the option to request a live version.
+
+(c) The training shall include, but is not limited to:  
+> (i) Defining sustainability and its intersection with equity in a university setting.  
+> (ii) Overview of campus sustainability groups, including the Environmental Center, Sustainability Commission, Buff Pantry, and relevant campus administrators.  
+> (iii) Review of CUSG sustainability legislation and CU Boulder’s sustainability goals.  
+> (iv) Opportunities for promoting sustainability, environmental justice, and social equity in CUSG policy.
+
+(d) Additional topics may be included at the discretion of the Sustainability Chair to support foundational sustainability understanding.
+
+(e) This education shall be completed once per year, either according to branch bylaws or within one month of ratification into office.
+
+(f) Legislative Council shall notify the Sustainability Chair no later than two weeks after a new member is ratified into CUSG to allow training coordination.
+
+(g) This statute shall be reviewed every two years by the CUSG Sustainability Chair, CUSG Chief of Staff, and a Co-Chair of the Environmental Board or equivalent future positions.
+
+(h) The training curriculum shall be revised annually by the Sustainability Chair, Chief of Staff, and a Co-Chair of the Environmental Board or equivalent future positions.
