@@ -65,7 +65,7 @@
 
 (f) If such an ad hoc committee is created, it is preferred that the Legislative Council consult the Chair of the Finance Board and the Director of SOFO to gain an understanding of the issue, and that these individuals sit on the committee as ex officio, non-voting members.
 
-## §3.5.2 – Documentation Requirements for Funding Denials  
+## §3.5.4 – Documentation Requirements for Funding Denials  
 **Enacted by 68 LCB 05 (2008, “Audit Response”)**
 
 (a) All funding bodies within the University of Colorado Student Government shall include documentation for each denial of funding, specifying the reason for denial. The documentation must be made part of the relevant allocation form or funding record.
