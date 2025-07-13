@@ -76,3 +76,12 @@ Upon acceptance of sanctuary by guests from El Salvador, Guatemala, or any other
 (b) CU Student Government shall utilize its resources to bring awareness to students about the campus resources available to support those affected by sexual misconduct.
 
 (c) CU Student Government shall host at least one (1) event per academic year, during either the spring or fall semester, to raise awareness of sexual misconduct on and off campus. Professional services must be consulted in the planning process to ensure consistent messaging.
+
+## §5.1.4 – Medically Accurate Information Requirements  
+**Enacted by 93 LCB 19 (2020, “A Bill to Protect Students from Receiving Misleading Medical Information from RSOs and RSGOs”)**
+
+(a) All Recognized Student Organizations and Recognized Social Greek Organizations that discuss medical procedures, or otherwise provide medical information to students, must give medically accurate information.
+
+(b) Medically accurate information shall be defined as any information confirmed and backed by Wardenburg medical staff.
+
+(c) All medical information must be given without the influence of opinions, and nothing in this section shall be construed to infringe upon a student's right to freedom of speech or religion.
