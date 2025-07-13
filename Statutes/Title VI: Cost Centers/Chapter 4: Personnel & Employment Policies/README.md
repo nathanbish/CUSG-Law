@@ -173,7 +173,7 @@ Attorneys in the employ of UCSU Legal Services shall be issued parking permits n
 
 (e) The Legislative Council Vice President shall track participation in the training and report to the Legislative Council President and Executive Committee.
 
-## §6.4.6 – Mandatory Safe Space Training  
+## §6.4.12 – Mandatory Safe Space Training  
 **Enacted by 94 LCB 11 (2021, “A Bill for Safe Space Training”)**  
 **Text:**  
 (a) All CUSG employees, paid and unpaid, and all individuals acting in an official CUSG capacity shall complete the Safe Space training created by the Pride Office, starting in Fall 2021.  
