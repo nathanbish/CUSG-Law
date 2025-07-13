@@ -105,3 +105,13 @@
 > (i) Minimum: Single-stall gender-inclusive restroom  
 > (ii) Preferable: Multiple single-stall restrooms  
 > (iii) Ideal: Multi-stall gender-inclusive restroom
+
+
+## §6.2.9 – Ban on Single-Use Plastic Bottles in Funded Facilities  
+**Enacted by 89 LCB 06 (2018, “Plastic Bottle Phase Out”)**
+
+(a) The distribution and sale of single-use plastic bottles in student fee funded and regulated facilities shall be prohibited.  
+
+(b) Organizations that operate, advertise, promote, or gather in student fee funded facilities shall be prohibited from distributing single-use plastic bottles.  
+
+(c) Vendors contracted with the University of Colorado Boulder that operate in student fee funded and regulated facilities shall be prohibited from distributing or selling single-use plastic bottles.
