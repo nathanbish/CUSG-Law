@@ -115,3 +115,13 @@ All bills requesting student fee funding for participation in educational or inf
 **Enacted by 84 LCB 06 (2015, “Outlook CUSG Business”)**
 
 (a) Microsoft Outlook shall be the sole official platform used for conducting CU Student Government Proper-related business communications.
+
+
+## §1.5.3 – Oath of Office for Elected or Appointed Officers  
+**Enacted by 88 LCB 07 (2018, “Reaffirming the Rights of Associated Students”)**
+
+(a) The oath or affirmation required by Article XVII of the CU Student Government Constitution, taken by an Associated Student who has been elected or appointed to a CU Student Government office or position of trust, shall represent their sworn commitment to uphold the CU Student Government Constitution and protect the rights of the Associated Students.
+
+(b) The standard oath or affirmation for such officers and positions shall be:
+
+> “I, (name), do solemnly swear (or affirm) that I will uphold the Constitution of the University of Colorado Student Government in the spirit in which it was created. I will perform the duties and responsibilities of (state office or position) of the University of Colorado Student Government to the best of my ability.”
