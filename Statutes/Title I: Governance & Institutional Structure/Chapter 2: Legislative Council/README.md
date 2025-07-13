@@ -273,3 +273,10 @@ At the start of the Pro-Tempore Report, the President Pro-Tempore shall make a b
 (a) The CUSG Election Commissioner shall analyze voter participation data following each semester's care package distribution and report outcomes to the Legislative Council.
 
 (b) Based on the report, the Legislative Council shall determine necessary adjustments to improve future iterations of the outreach program.
+
+## §1.2.18 – Giveaway Incentives for Legislative Outreach  
+**Enacted by 101 LCB 03 (2024, “A Bill to Provide CU Students with Care Packages to Increase Early Engagement with CUSG”)**
+
+(a) CU Student Government shall host a trivia-based raffle to incentivize engagement during the care package distribution program.  
+> (i) Students may enter the giveaway once by scanning a QR code and answering a trivia question linked to their Buff Portal login.  
+> (ii) Prizes will be awarded to the first five students who correctly guess the number of items in a designated jar.
