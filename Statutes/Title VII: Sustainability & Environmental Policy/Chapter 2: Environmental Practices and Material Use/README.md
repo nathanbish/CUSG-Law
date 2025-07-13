@@ -26,3 +26,13 @@
 
 (d) The CUSG Sustainability Director and CU Recycling Program Director shall have the authority to suspend cost center collections and require retraining if contamination or noncompliance is identified.
 
+## §7.1.4 – Carbon Conservation Program  
+**Enacted by 98 LCB 06 (2023, “Carbon Conservation Bill”)**  
+**Text:**  
+(a) All past legislation requiring CUSG or the Environmental Center to purchase carbon offsets is hereby repealed.
+
+(b) The Environmental Center shall develop and implement a Carbon Conservation program that enlists students in local carbon mitigation projects which reduce or prevent emissions from sources within the control of students, faculty, or staff.
+
+(c) Funding for the Carbon Conservation program shall come from the Energy Climate Fund.
+
+(d) Funding appropriations shall be made through an annual budget plan of project spending, proposed by Environmental Center staff and approved by the Environmental Board.
