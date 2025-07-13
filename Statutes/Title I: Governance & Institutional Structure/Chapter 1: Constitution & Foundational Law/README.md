@@ -125,3 +125,62 @@
 **Enacted by** 92 LCB 13 (2020, “A Bill to Establish Legislative Council Oversight of All CUSG Fee-Supported Organization Bylaws”)
 
 (a) The Legislative Council retains the right to review the bylaws of any CUSG fee-supported organization at any time to ensure alignment with current CUSG regulations and University of Colorado Boulder policy.
+
+## §1.1.12 – Publication of Bylaws, Constitutions, and Governing Documents  
+**Enacted by 96 LCB 11 (2022, “A Bill to Require Public Posting of Bylaws, Constitutions, and Governing Documents”)**  
+**Text:**  
+(a) All CUSG branches, joint boards, individual College and School Student Governments, and any other CUSG subsidiaries shall publish their bylaws and constitutions online, prominently accessible on their website or webpage.  
+> (i) Organizations impacted include, but are not limited to:  
+>> – The Executive Branch  
+>> – The Judicial Branch  
+>> – The Legislative Branch  
+>> – The Cultural Events Board  
+>> – The Distinguished Speakers Board  
+>> – The Environmental Board  
+>> – The Student Recreation Center Board  
+>> – The Center for Student Involvement Board  
+>> – The Volunteer Resource Center Board  
+>> – The University Memorial Center Board  
+>> – The Off-Campus Housing and Neighborhood Relations Board  
+>> – The Air Board  
+>> – Leeds Student Government  
+>> – Arts & Sciences Student Government  
+>> – CMCI Student Government  
+>> – College of Music Student Government  
+>> – Environmental Design Student Government  
+>> – Graduate and Professional Student Government  
+>> – The University of Colorado Engineering Council
+
+(b) If the bylaws or constitutions are amended, the presiding officer of each subsidiary shall be responsible for ensuring the most recent version is published online or delegating another officer to do so.
+
+(c) The presiding officer of the organization shall be responsible for submitting bylaws and constitutions, and updated versions when amended, to the CUSG Director of Strategic Communications within 7 business days of ratification.
+
+(d) Upon receipt of a bylaws document, the CUSG Director of Strategic Communications shall add, or update where applicable, the document on the CUSG governing documents webpage within 7 business days.
+
+(e) In addition to constitutions and bylaws, other governing documents may be published to an organization’s website and/or to the CUSG governing documents webpage, at the discretion of the CUSG Director of Strategic Communications.
+
+(f) If a subsidiary or affected organization does not use its own website or webpage, fulfillment of subsections (c) and (d) shall satisfy the publication requirement in subsection (a).
+
+(g) If an organization does not have its own constitution or bylaws document, it shall be exempt from this statute as it relates to that document, so long as no such document exists.
+
+(h) The CUSG Director of Strategic Communications shall ensure, at the start of each legislative session, that the Legislative Council Secretary is trained on how to add documents to the Legislative Council webpage or section.  
+> (i) This training shall occur no later than one week from the start of the session.  
+> (ii) If the Secretary changes mid-session, the incoming Secretary shall also be trained.
+
+(i) The Legislative Council, Finance Board, Council of Colleges and Schools, Rules Committee, Appointments Committee, and any ad-hoc subsidiary committees shall publish their agendas and minutes once finalized.  
+> (i) Agendas must be published at least 48 hours in advance of regularly scheduled meetings.  
+> (ii) The Finance Board shall also publish annual budgets and quarterly reports as they become available.
+
+(j) The Legislative Council Secretary, committee presidents, or their official designees shall publish these agendas and minutes to the CUSG website.  
+> (i) If they lack access, documents shall be submitted to the CUSG Director of Strategic Communications for publication.
+
+(k) Organizations, boards, or other CUSG-affiliates hosting regularly scheduled public meetings shall publish scheduling and meeting location to the CUSG website.  
+> (i) If meetings are accessible via Zoom or another remote platform, the link shall be posted.  
+> (ii) This information must be checked and updated at least once per fiscal quarter.
+
+(l) Upon final passage of a resolution or bill, the Legislative Council Secretary shall publish the final legislative document online within 5 days of ratification by the Tri-Executives.
+
+(m) In lieu of publishing individual legislative documents separately on the CUSG website, a Google Drive or similar repository may be used if:  
+> (i) It is linked from the CUSG website, publicly accessible, and kept up to date.  
+> (ii) Constitutions and bylaws must still be published individually in PDF format as outlined in subsection (c).  
+> (iii) The online folder must be “owned” by a non-student account to ensure continuity across administrations.
