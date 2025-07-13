@@ -111,3 +111,37 @@ Attorneys in the employ of UCSU Legal Services shall be issued parking permits n
 > If trainings are to be pursued through other sources, such sources must be approved by the Director of Diversity and Inclusion or equivalent designee.
 
 (f) This statute must be reviewed every two years by the Chief of Staff and the Director of Diversity and Inclusion or equivalent future designees for accuracy of specialists and trainings available to fulfill requirements.
+
+
+## §6.4.9 – Compensation Adjustment System for CUSG Leadership  
+**Enacted by** 92 LCB 14 (2020, “A Bill for a CUSG Proper Stipend System of Compensation Adjustment for Leadership Engagement (SCALE)”)
+
+(a) All legislators, Joint Board Chairs, Appellate Court Justices, and Executives shall be compensated with a biweekly stipend according to the University of Colorado Boulder’s annual pay period schedule.
+
+(b) The Finance Board shall review the compensation rates of the Legislative Council, Joint Board Chairs, Executives, and Appellate Court Justices on a biannual basis beginning in the spring semester of academic year 2020–21. During this review, the Finance Board shall evaluate the sufficiency of current pay rates for legislators and executives of the Legislative Council, including the President, Vice President, Parliamentarian, Representative Council Speaker, and Chair of the Council of Colleges and Schools, the Executives, Joint Board Chairs, and Appellate Court Justices, including the Chief Justice.
+
+(c) The Finance Board shall make recommendations to the Legislative Council regarding its evaluation findings during the review of CUSG Proper budget planning and approval.
+
+(d) Changes to compensation rates must be submitted to the Legislative Council by the Finance Board prior to CUSG Proper budget hearings. Legislative Council shall review and hold a public vote on the proposed changes to compensation for legislators, Legislative Council executives, Joint Board Chairs, Executives, and Appellate Court Justices. Approval requires a two-thirds (2/3) vote of the Legislative Council.
+
+(e) In reviewing or recommending compensation adjustments, the Finance Board and Legislative Council may consider any or all of the following factors:
+> (i) Wage competitiveness  
+> (ii) Pay rates of other student jobs across CU Boulder  
+> (iii) Ability to recruit and retain a diverse Legislative Council  
+> (iv) Annual increases in the Boulder Housing Cost Index  
+> (v) Annual increases in the Boulder Cost of Living Index  
+> (vi) Average and median reported hours worked by senators and representatives  
+> (vii) Living wage estimates for a single adult with no children in Boulder  
+> (viii) Colorado state minimum wage  
+> (ix) Boulder city minimum wage
+
+> Additional factors may also be considered at the discretion of the Finance Board and Legislative Council.
+
+(f) Finance Board recommendations may include differentiated compensation for:
+> (i) Leadership roles within the Legislative Council, Representative Council, and Council of Colleges and Schools  
+> (ii) Differences in academic status of legislators  
+> (iii) Legislator roles on committees, commissions, and/or joint or advisory boards
+
+(g) Any approved changes to compensation shall take effect at the start of the next CUSG Proper fiscal year.
+
+(h) Changes to compensation rates shall not exceed a ten percent (10%) increase or a two and one-half percent (2.5%) reduction from the prior year’s stipend.
