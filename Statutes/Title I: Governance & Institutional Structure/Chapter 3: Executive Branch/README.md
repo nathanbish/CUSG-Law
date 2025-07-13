@@ -151,7 +151,7 @@ The statute directed an amendment to the UCSU Bylaws, stating that the State of 
 
 
 ## §1.3.12 – Web Review Responsibilities for Religious Discrimination Resources  
-**Enacted by 96 LCB 01 (2022, “Defining and Creating a Religious Discrimination Resource List”)**  
+**Enacted by 96 LCB 01 (2022, “Defining and Creating an Anti-Semitism Resource List”)**  
 **Text:**  
 (a) The CUSG Director of Strategic Communication and the Director of Diversity & Inclusion shall be jointly responsible for reviewing the religious discrimination resource webpage each semester.
 
