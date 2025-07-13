@@ -85,3 +85,15 @@
 (a) The CSI Director may place a Recognized Student Organization on temporary bad standing when it is reasonably believed that the RSO’s actions pose a threat to the safety of CU Boulder students, faculty, university property, or the public, as defined by the Student Code of Conduct.
 
 (b) This temporary status shall remain in effect only until the CSI Joint Board is able to convene and hold a hearing on the matter.
+
+
+## §6.3.8 – UMC Cultural and Religious Food Waiver Policy  
+**Enacted by 102 LCB 08 (2024, “Cultural Food Waiver in the UMC”)**
+
+(a) Recognized Student Organizations (RSOs) and university-affiliated groups shall be allowed to request a waiver from the UMC’s exclusive catering policy in order to serve food that holds cultural or religious significance at their events.
+
+(b) To qualify for this exemption, organizations must complete a Cultural and Religious Food Waiver form, including a short description of the significance of the requested food and a plan for safe food handling.
+
+(c) The waiver must be submitted at least 14 days prior to the event and is subject to approval by the UMC Events Planning office.
+
+(d) The University Memorial Center must provide a publicly accessible copy of the waiver form and a clear description of the waiver process on its website and through event scheduling portals.
