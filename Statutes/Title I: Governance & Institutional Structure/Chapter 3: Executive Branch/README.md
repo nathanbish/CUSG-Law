@@ -148,3 +148,11 @@ The statute directed an amendment to the UCSU Bylaws, stating that the State of 
 (a) The Disability Services Liaison shall annually review the accessibility request process between student organizations, the CU ADA Coordinator, and CU Disability Services to ensure the process remains functional and clear.
 
 (b) The Disability Services Liaison shall advocate for inclusion of accessibility guidance in the Center for Student Involvement’s Student Organization Handbook by reviewing the document annually and recommending relevant updates.
+
+
+## §1.3.12 – Web Review Responsibilities for Religious Discrimination Resources  
+**Enacted by 96 LCB 01 (2022, “Defining and Creating a Religious Discrimination Resource List”)**  
+**Text:**  
+(a) The CUSG Director of Strategic Communication and the Director of Diversity & Inclusion shall be jointly responsible for reviewing the religious discrimination resource webpage each semester.
+
+(b) These officers shall ensure that all information listed on the page is accurate, up-to-date, and readily available to the public at all times.
