@@ -162,3 +162,15 @@
 (b) Purchased items funded through this allocation must be distributed to members of the student body.
 
 (c) Any disbursement under this subsection shall require signatures from at least three (3) members of Legislative Council leadership.
+
+
+## §3.1.10 – Care Package Program Funding  
+**Enacted by 101 LCB 03 (2024, “A Bill to Provide CU Students with Care Packages to Increase Early Engagement with CUSG”)**
+
+(a) The care package program shall be funded through the CUSG Helmet Program.
+
+(b) If the event expands in future years, additional funding shall be sought from other internal CUSG budgets.
+
+(c) Program growth shall be assessed using data collected via QR code engagement at distribution tables.
+
+(d) The CUSG Legislative Council Treasurer shall coordinate with the Director of Finance and the Director of Student Engagement to identify additional funds when necessary.
