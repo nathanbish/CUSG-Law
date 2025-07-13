@@ -111,3 +111,10 @@
 > (v) Vice President of the Legislative Council  
 > (vi) Treasurer of the Legislative Council  
 > (vii) Parliamentarian of the Legislative Council
+
+---
+
+## §1.1.10 – Legislative Oversight of Organizational Bylaws  
+**Enacted by** 92 LCB 13 (2020, “A Bill to Establish Legislative Council Oversight of All CUSG Fee-Supported Organization Bylaws”)
+
+(a) The bylaws of all CUSG fee-supported organizations—student clubs and organizations, local school and college governments, joint and advisory boards of CUSG Cost Centers, committees and commissions associated with CUSG, and branches of CUSG Proper including the Appellate Court, the Executive Branch, the Representative Council, and the Council of Colleges and Schools—shall be subject to review by the Legislative Council.
