@@ -69,7 +69,7 @@
 (b) “Voting body” means any body or board of UCSU that is granted impeachment powers under the Constitution or applicable legislation.
 
 
-## §1.4.7 – Judicial Compensation and Eligibility  
+## §1.4.6 – Judicial Compensation and Eligibility  
 **Enacted by 86 LCB 04 (2017, “Compensation Structure”)**
 
 (a) Associate Justices shall receive a bi-weekly stipend, as outlined in §3.1.8.  
