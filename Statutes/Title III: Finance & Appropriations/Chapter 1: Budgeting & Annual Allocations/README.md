@@ -135,3 +135,9 @@
 **Enacted by 84 LCB 09 (2016, “Appellate Court Budget”)**
 
 (a) CU Student Government affirms that the Appellate Court may maintain an independent budget for the purpose of paying hourly or salary wages to students who serve as justices on the Appellate Court.
+
+## §3.1.6 – Compensation Rounding Policy  
+**Enacted by 86 LCB 04 (2017, “Compensation Structure”)**
+
+(a) In the event that any payment amount resulting from position pay legislation cannot be evenly rounded to two decimal places, the amount shall be rounded up to the nearest two decimal places.
+
