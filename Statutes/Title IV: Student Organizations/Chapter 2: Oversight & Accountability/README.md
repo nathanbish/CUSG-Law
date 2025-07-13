@@ -78,3 +78,10 @@ Upon receiving an accusation from any member of the student body that a student 
 (c) The committee shall convene only upon appeal and shall hear the CSI Director or designee, followed by the appellant, before deliberating privately.
 
 (d) The committee shall provide a decision within three business days to both parties.
+
+## §4.2.4 – Enforcement of Accessibility Compliance  
+**Enacted by 96 LCB 07 (2022, “A Campus Accessibility Plan for RSOs”)**  
+**Text:**  
+(a) Failure of a student organization to comply with the accessibility requirements outlined in §4.3.3 may result in the rescinding of allocated funds to the organization.
+
+(b) Repeated or multiple failures to comply may result in a hold on future fund allocations until the organization demonstrates compliance with required accessibility practices.
