@@ -78,3 +78,36 @@ Attorneys in the employ of UCSU Legal Services shall be issued parking permits n
 (b) All online training requirements must be completed within four (4) weeks of ratification for any new member of a Board or CUSG Proper branch.
 
 > (i) Any member that has not completed the training within the required time shall be called before the Legislative Council for review, at which point they may be removed from office or have articles of impeachment drawn up.
+
+
+## §6.4.8 – Executive Branch Diversity Training Requirements  
+**Enacted by** 92 LCB 22 (2020, “A Bill to Require Specified and Updated Diversity Trainings for the Executive Branch”)
+
+(a) All CUSG Executive Staff members shall be required to attend three (3) diversity trainings no later than eight (8) weeks after ratification, as outlined in Article 4, Section 8 of the Executive Bylaws. The Chief of Staff or Executives shall be responsible for planning the sessions’ dates, times, locations, and all other necessary arrangements for the diversity training by the stipulated deadline and in compliance with 58 LCB 12.
+
+(b) The Chief of Staff or equivalent designee must provide at least nine (9) training opportunities throughout the academic year which meet the aforementioned requirements.
+
+(c) CUSG Executive Staff members must attend at least three (3) of the nine (9) offered trainings addressing any three (3) of the following areas of understanding:
+> (i) Race, Ethnicity, and Color  
+> (ii) Sex, Gender Identity, and Gender Expression  
+> (iii) Sexual and Romantic Orientation  
+> (iv) Citizenship Status and National Origin  
+> (v) Disability and Accessibility  
+> (vi) Allyship and Communication Skills  
+
+> If a member of the Executive Staff cannot complete their training requirement via the Chief of Staff’s provided opportunities, they may attend alternative trainings that meet the same criteria and are offered by approved student resources, with prior approval from the Chief of Staff and in consultation with the Director of Diversity and Inclusion or equivalent designee.
+
+(d) The Chief of Staff or equivalent designee must provide at least one (1) training in every area of understanding listed in subsection (c).
+
+(e) Diversity training may be provided through any of the following student resources or their future equivalents:  
+> - Center for Inclusion and Social Change (CISC)  
+> - Disability Services  
+> - Office of Institutional Equity and Compliance (OIEC)  
+> - Office of Diversity, Equity, and Community Engagement (ODECE)  
+> - Office of Victim Assistance (OVA)  
+> - International Student and Scholar Services  
+> - Human Resources  
+
+> If trainings are to be pursued through other sources, such sources must be approved by the Director of Diversity and Inclusion or equivalent designee.
+
+(f) This statute must be reviewed every two years by the Chief of Staff and the Director of Diversity and Inclusion or equivalent future designees for accuracy of specialists and trainings available to fulfill requirements.
