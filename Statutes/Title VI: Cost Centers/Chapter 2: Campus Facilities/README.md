@@ -120,3 +120,56 @@
 **Enacted by 92 LCB 02 (2020, “A Bill for Free Equitable Menstrual Products in Cost Centers”)**
 
 (a) CUSG mandates the installation and placement of menstrual hygiene product dispensers and trash cans in non-urinal seated toilet stalls on the CU Cost Centers.
+
+
+## §6.2.11 – Building Operations and Renovation Policy  
+**Enacted by 94 LCB 08 (2021, “A Bill to Establish Building Operation and Renovation Policy for CUSG Buildings”)**  
+**Text:**  
+(a) The building manager, Environmental Center, Environmental Board, and CUSG Sustainability Chair shall annually provide a building sustainability report to the University Memorial Center, Recreation Center, and Environmental Boards.  
+> (i) The report shall include: annual energy usage, heating/cooling controls and conservation opportunities, lighting practices and potential upgrades, results of prior commissioning, and energy-saving opportunities.  
+> (ii) The Environmental Center shall contextualize energy data using metrics such as energy use intensity and degree days.  
+> (iii) The UMC, Rec Center, and Environmental Boards may propose amendments based on the annual report and suggest changes to facility operations.
+
+(b) Monthly energy data shall be shared with the UMC and Rec Center student boards and the CUSG Sustainability Chair.  
+> (i) This data shall also be contextualized by the Environmental Center.  
+> (ii) Monthly energy data shall be made public via EnergyCaps or a utility dashboard and advertised on cost center websites.  
+> (iii) UMC and Rec Centers shall publish updated energy data as available.
+
+(c) The Environmental Center and Environmental Board shall:  
+> (i) Purchase carbon offsets sufficient to maintain CUSG’s carbon neutrality and conduct GHG accounting for scope one and two emissions.  
+> (ii) Operate the Green Office program in UMC and Rec Centers and report results.  
+> (iii) Assist the Sustainability Chair in sharing GHG data, Green Office outcomes, and energy efficiency education with respective boards.
+
+(d) Annual capital project lists presented to joint boards shall include notes and metrics on energy and sustainability conservation potential.  
+> (i) These notes shall be prepared by the building manager, capital project compiler, and Environmental Center.
+
+(e) The Environmental Center shall annually direct the Green Office Program to survey building occupant behavior. The following recommendations shall be advertised to all occupants:  
+> (i) Report areas outside temperature parameters.  
+> (ii) Keep windows/doors to conditioned spaces closed.  
+> (iii) Do not use electric heaters or personal A/C within accepted temperature ranges.  
+> (iv) Do not block vents or heating elements.  
+> (v) Unplug or power down small appliances overnight where feasible.
+
+(f) CUSG shall implement the following heating, cooling, and lighting policy in CUSG-owned buildings:  
+> (i) Buildings shall strive for thermostat set points in accordance with ASHRAE 2013b: 68.5–75°F in winter, 75–80.5°F in summer.  
+> (ii) Recommended unoccupied periods are:  
+>> – UMC: 10pm–6am (M–F), weekends, and university holidays  
+>> – Rec Center: 7pm–7am (M–F), 6pm–10am (Sat–Sun)  
+> (iii) Set points shall be maintained as follows:  
+>> – Summer: 74–76°F occupied, 80–85°F unoccupied  
+>> – Winter: 68–70°F occupied, 60–65°F unoccupied  
+> (iv) Exemptions may be granted by building managers for special events, with set points reset afterward.  
+> (v) Recurring exemptions require joint board approval and must comply with ASHRAE standards.  
+> (vi) For spaces lacking automatic setpoint systems, a funding plan shall be presented to joint boards and finance authorities.
+
+(g) Lighting shall be energy-efficient.  
+> (i) Failed lights shall be replaced with efficient alternatives.  
+> (ii) Non-essential lights shall be off when areas are unoccupied.  
+> (iii) Motion-activated lighting shall be installed wherever feasible.
+
+(h) All new renovations and construction shall be designed for minimal energy use.  
+> (i) New Construction and Major Renovations shall aim for LEED Platinum certification in addition to complying with CU Facilities Standards and Colorado law.  
+> (ii) Operations and Maintenance projects shall also strive to meet LEED Platinum certification.
+
+(i) The University Memorial Center, Student Recreation Center, and Environmental Center Joint Boards shall review this statute annually.
+
