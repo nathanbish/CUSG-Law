@@ -40,3 +40,15 @@ Attorneys in the employ of UCSU Legal Services shall be issued parking permits n
 **Text:**
 
 (a) All student fee-funded staff and positions shall participate in a zero waste training program administered by either the CUSG Sustainability Director or Environmental Center.
+
+
+## §6.4.5 – General Hiring Access and Posting Standards  
+**Enacted by 93 LCB 13 (2020, “A Bill to Standardize Hiring Practices for CUSG”)**
+
+(a) All CUSG roles that do not require prerequisite CUSG experience—such as Executive Cabinet aides and directors, Legislative Council Aides, and Interns—shall be available and easily accessible for all students to apply to.
+
+(b) Applications for student administrators, Executive Cabinet, or other positions within CUSG Proper shall be posted on the CUSG website and the CU Student Jobs website.
+
+(c) CUSG Proper job postings shall include a sufficient description of the expectations of the role, expected hours of work required, and the rate of pay.
+
+(e) Applications for roles must be open for at least 28 days. At the end of the 28 days, the hiring team must interview at least three of the students who applied, assuming at least three candidates applied. If fewer than three applied, all applicants must be interviewed.
