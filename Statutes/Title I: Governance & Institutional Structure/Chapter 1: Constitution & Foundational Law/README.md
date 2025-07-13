@@ -118,3 +118,10 @@
 **Enacted by** 92 LCB 13 (2020, “A Bill to Establish Legislative Council Oversight of All CUSG Fee-Supported Organization Bylaws”)
 
 (a) The bylaws of all CUSG fee-supported organizations—student clubs and organizations, local school and college governments, joint and advisory boards of CUSG Cost Centers, committees and commissions associated with CUSG, and branches of CUSG Proper including the Appellate Court, the Executive Branch, the Representative Council, and the Council of Colleges and Schools—shall be subject to review by the Legislative Council.
+
+---
+
+## §1.1.11 – Standing Review Authority of Legislative Council  
+**Enacted by** 92 LCB 13 (2020, “A Bill to Establish Legislative Council Oversight of All CUSG Fee-Supported Organization Bylaws”)
+
+(a) The Legislative Council retains the right to review the bylaws of any CUSG fee-supported organization at any time to ensure alignment with current CUSG regulations and University of Colorado Boulder policy.
