@@ -91,3 +91,11 @@
 **Enacted by** 92 LCB 13 (2020, “A Bill to Establish Legislative Council Oversight of All CUSG Fee-Supported Organization Bylaws”)
 
 (a) All decisions regarding bylaws by the Rules Committee and Legislative Council may be appealed to the Appellate Court of CUSG.
+
+
+## §1.4.8 – RSO Standing Appeals to the Judicial Branch  
+**Enacted by 101 LCB 06 (2024, “A Bill to Enhance Student Input on the Organizational Standing of RSOs”)**  
+**Text:**  
+(a) A decision made by the CSI Joint Board regarding an RSO’s organizational status may be appealed to the CUSG Judicial Branch.
+
+(b) The CUSG Court may issue a preliminary injunction in cases where a designation of bad standing would negatively impact an upcoming event or activity and where no safety threat has been established.
