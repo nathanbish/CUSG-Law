@@ -58,3 +58,23 @@ Upon receiving an accusation from any member of the student body that a student 
 (e) For the purposes of this section, alcohol-focused fundraisers are defined as events where alcohol consumption or sale is the primary purpose, or where the consumption of alcohol is incentivized by a discount or similar method.
 
 (f) Student organizations may not fundraise for their group or for any other purpose using bar crawls or any event that provides a discount on alcohol.
+
+## §4.2.5 – Medical Misinformation Investigation Procedures  
+**Enacted by 93 LCB 19 (2020, “A Bill to Protect Students from Receiving Misleading Medical Information from RSOs and RSGOs”)**
+
+(a) When a report regarding the medical accuracy of information provided by an RSO or RSGO is submitted to the CSI Director or designee, the report shall be referred to Wardenburg medical staff to determine its accuracy.
+
+(b) Anyone with proof of violations may present evidence to the CSI Director or designee through email, virtual meeting, or in-person meeting.
+
+(c) If the report is confirmed to involve medically inaccurate information, the CSI Director or designee shall enforce all relevant provisions of the Recognized Student Organization Agreement, including potential sanctions.
+
+## §4.2.6 – Appeals of Medical Information Violations  
+**Enacted by 93 LCB 19 (2020, “A Bill to Protect Students from Receiving Misleading Medical Information from RSOs and RSGOs”)**
+
+(a) An RSO or RSGO may appeal any decision made by the CSI Director or designee regarding a violation of medically accurate information requirements to the RSO and RSGO Violations Committee.
+
+(b) The RSO and RSGO Violations Committee shall consist of five members from the CSI Advisory Board and four members of the CUSG Appellate Court, each selected by their respective body.
+
+(c) The committee shall convene only upon appeal and shall hear the CSI Director or designee, followed by the appellant, before deliberating privately.
+
+(d) The committee shall provide a decision within three business days to both parties.
