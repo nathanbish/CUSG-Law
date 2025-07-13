@@ -78,3 +78,23 @@
 (b) The Tri-Executives shall not transfer management control over any procedures or functions related to HR, IT, or F&A within CUSG without first submitting the proposed action to either:
 > (i) a two-thirds (2/3) vote of Legislative Council; or  
 > (ii) a simple majority vote of the student body through referendum.
+
+---
+
+## §1.1.8 – Restrictions on Holding Multiple Board Positions  
+**Enacted by 93 LCB 17 (2020, “A Bill to Establish the Circumstances Under Which Students Can Hold Multiple Positions on Joint and Advisory Boards”)**
+
+(a) An individual may hold positions on more than one Joint or Advisory Board only if all of the following conditions are met:
+> (i) The individual receives no financial compensation from either position, or only receives compensation from one position.
+> (ii) The individual is only a voting member on one board.
+> (iii) The individual abstains from making decisions as part of one board that would impact the other board.
+
+(b) An individual who is a voting member on one Joint or Advisory Board may not be compensated by another Joint or Advisory Board, even if they are not a voting member on the latter board.
+
+(c) No member of CUSG may hold more than one compensated office, as stated in the Constitution.
+
+(d) Any individual found to be holding multiple major positions in violation of the Constitution shall be allowed to choose which single position they wish to retain.
+
+(e) The Legislative Council shall be responsible for tracking ratifications to Joint and Advisory Boards and shall monitor for conflicts before confirming additional appointments. Board chairs shall regularly update their rosters and bylaws with the Legislative Council.
+
+(f) Chairs of Joint and Advisory Boards must ask applicants whether they currently serve on another board. If they do, the chair must inform the Legislative Council Vice President at the time of ratification submission. The Legislative Council shall determine, on a case-by-case basis, whether to permit the appointment to a second board.
