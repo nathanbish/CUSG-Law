@@ -78,3 +78,10 @@
 (a) The University of Colorado Student Government (CUSG) mandates the provision of menstrual hygiene products in all Cost Center restrooms.  
 
 (b) All CUSG Cost Center Buildings must comply with the above provisions.
+
+## §6.3.7 – Temporary Suspension Powers of the CSI Director  
+**Enacted by 101 LCB 06 (2024, “A Bill to Enhance Student Input on the Organizational Standing of RSOs”)**  
+**Text:**  
+(a) The CSI Director may place a Recognized Student Organization on temporary bad standing when it is reasonably believed that the RSO’s actions pose a threat to the safety of CU Boulder students, faculty, university property, or the public, as defined by the Student Code of Conduct.
+
+(b) This temporary status shall remain in effect only until the CSI Joint Board is able to convene and hold a hearing on the matter.
