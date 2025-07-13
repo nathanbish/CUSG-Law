@@ -95,27 +95,36 @@ The statute directed an amendment to the UCSU Bylaws, stating that the State of 
 (b) The Homecoming Coalition shall operate in accordance with the Homecoming Coalition Bylaws as adopted by Legislative Council.
 
 ## §1.3.9 – Executive Cabinet Hiring Timeline and Oversight  
-**Enacted by 93 LCB 13 (2020, “A Bill to Standardize Hiring Practices for CUSG”)**
+**Enacted by 93 LCB 13 (2020, “A Bill to Standardize Hiring Practices for CUSG”); amended by 96 LCB 13 (2022, “A Bill to Amend Executive Hiring Deadlines”)**  
+**Text:**  
+(a) The intention of this section is to encourage the Executive(s) to advertise Executive Cabinet positions to as many students as possible, with an emphasis on historically underrepresented students.
 
-(a) All CUSG Executive Cabinet roles must be filled by September 15th.
+(b) Applications for Executive Cabinet roles must be open for at least 14 days.  
+> (i) The hiring team must interview at least three applicants, provided that at least three students apply.  
+> (ii) If fewer than three students apply, all applicants must be interviewed.  
+> (iii) Interviewing may occur during the 14-day posting window.
 
-(b) The Chief of Staff, Executive Cabinet Aides, all Director positions (Director of Finance, Director of Strategic Communications, Director of Student Engagement, Director of Diversity and Inclusion), SOAC Chair, and Election Commissioner must be hired by July 1st, with applications posted by the time the Tri-Executives take office.
+(c) It is suggested that all CUSG Executive Cabinet roles be filled by September 15th.  
+> (i) The requirement that roles be filled by this date is removed; the date shall serve as a recommendation.
 
-> (i) The Chief of Staff must be hired prior to the remaining positions, as they are a core member of the Executive Cabinet hiring team.
+(d) It is suggested that the Chief of Staff, Executive Cabinet Aides, all Director positions (Director of Finance, Director of Strategic Communications, Director of Student Engagement, Director of Diversity and Inclusion), SOAC Chair, and Election Commissioner be hired by July 1st.  
+> (i) The requirement that these positions be hired by July 1st is removed; the date shall serve as a recommendation.  
+> (ii) Applications for these roles may be posted once the Tri-Executives take office or following the Spring Election Infraction Tribunal.
 
-(c) If any of the positions listed in subsection (b) remain unfilled by July 15th, the Appointments Committee of Legislative Council shall begin the process of finding candidates and interviewing them, and shall present at least three qualified candidates to the Tri-Executives for final decision.
+(e) The Chief of Staff shall be hired prior to other Executive Cabinet roles, as they are a core member of the hiring team.
 
-> (i) The Appointments Committee shall aid in the process of identifying candidates and conducting interviews, while the Executive Cabinet maintains financial responsibilities.
+(f) It is suggested that remaining Executive Cabinet positions, such as interns and liaisons, be filled by September 15th.  
+> (i) This date shall serve as a recommendation, not a mandate.  
+> (ii) Applications to refill Executive Cabinet roles must be open for at least 3 days.
 
-(d) If the Executive Cabinet is not filled by September 15th, the Appointments Committee shall begin the same process outlined in subsection (c) until the positions are filled.
+(g) In the event of a resignation, the Executives should refill the position within 28 days.  
+> (i) If the Tri-Executives fail to fill the role within 28 days, the Appointments Committee shall begin the process of finding and interviewing candidates.  
+> (ii) The Appointments Committee shall present at least three qualified candidates to the Tri-Executives for the final hiring decision.  
+> (iii) The Appointments Committee shall aid in the process while the Executive Cabinet maintains financial responsibilities.
 
-(e) In the event of a resignation, the Executives shall have 28 days to refill the position. If they fail to do so, the Appointments Committee shall follow the same process described above.
+(h) The Executives must send an email to all CSI-recognized student organizations by June 30th, listing available roles and their deadlines.  
+> (i) The structure of the Executive Cabinet must be approved by the Legislative Council before this email may be sent.
 
-> (i) The Appointments Committee shall aid in finding and interviewing candidates, while the Executive Cabinet retains other responsibilities.
-
-(a) The Executives must send out an email to all CSI-recognized student organizations by June 30th, listing the roles available for application and the application deadline.
-
->(i) The structure of the Executive Cabinet must be approved by the Legislative Council before this email may be sent.
 
 
 ## §1.3.10 – Vacancy Communication Support  
