@@ -102,7 +102,7 @@ provision such as this into their bylaws, whichever comes first," Neither of whi
 (b) CUSG’s Representative Council and Council of Colleges and Schools banners must also be displayed at these sponsored events.
 
 
-## §3.2.3 – Ban on Single-Use Plastic Bottles at Student Events  
+## §3.2.9 – Ban on Single-Use Plastic Bottles at Student Events  
 **Enacted by 89 LCB 06 (2018, “Plastic Bottle Phase Out”)**
 
 (a) The distribution of single-use plastic bottles at student fee funded events shall be prohibited.  
@@ -110,7 +110,7 @@ provision such as this into their bylaws, whichever comes first," Neither of whi
 (c) The definition of recyclable containers, excluding single-use plastic bottles, shall refer to the guidelines set by CU Boulder’s recycling contractors.
 
 
-## §3.2.3 – Sanctions for Bylaw Noncompliance  
+## §3.2.10 – Sanctions for Bylaw Noncompliance  
 **Enacted by** 92 LCB 13 (2020, “A Bill to Establish Legislative Council Oversight of All CUSG Fee-Supported Organization Bylaws”)
 
 (a) Any CUSG fee-supported organization, with the exception of the Executive Branch and local school and college governments, that fails to maintain bylaws, submit them to CSI, adopt amendments approved by the Legislative Council, or comply with the Legislative Council’s oversight shall be ineligible for funding from any CUSG board.
