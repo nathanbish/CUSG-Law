@@ -98,3 +98,16 @@
 (e) The Legislative Council shall be responsible for tracking ratifications to Joint and Advisory Boards and shall monitor for conflicts before confirming additional appointments. Board chairs shall regularly update their rosters and bylaws with the Legislative Council.
 
 (f) Chairs of Joint and Advisory Boards must ask applicants whether they currently serve on another board. If they do, the chair must inform the Legislative Council Vice President at the time of ratification submission. The Legislative Council shall determine, on a case-by-case basis, whether to permit the appointment to a second board.
+
+---
+## §1.1.9 – Institutional Email Accounts for Legislative Officers  
+**Enacted by 93 LCB 05 (2020, “CUSG Joint and Advisory Board Communication and Onboarding Centralization”)**
+
+(a) CUSG Proper professional staff shall establish and maintain institutional emails for the following Legislative Council officers:
+> (i) Representative Council Speaker  
+> (ii) Representative Council Vice-Speaker  
+> (iii) Chair of the Council of Colleges and Schools  
+> (iv) Vice-Chair of the Council of Colleges and Schools  
+> (v) Vice President of the Legislative Council  
+> (vi) Treasurer of the Legislative Council  
+> (vii) Parliamentarian of the Legislative Council
