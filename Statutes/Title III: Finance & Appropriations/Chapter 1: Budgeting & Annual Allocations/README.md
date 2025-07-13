@@ -136,13 +136,13 @@
 
 (a) CU Student Government affirms that the Appellate Court may maintain an independent budget for the purpose of paying hourly or salary wages to students who serve as justices on the Appellate Court.
 
-## §3.1.6 – Compensation Rounding Policy  
+## §3.1.7 – Compensation Rounding Policy  
 **Enacted by 86 LCB 04 (2017, “Compensation Structure”)**
 
 (a) In the event that any payment amount resulting from position pay legislation cannot be evenly rounded to two decimal places, the amount shall be rounded up to the nearest two decimal places.
 
 
-## §6.4.8 – Base Compensation Adjustment Formula  
+## §3.1.8 – Base Compensation Adjustment Formula  
 **Enacted by 57 LCB 12 (2002, “Base Compensation Rate”)**
 
 (a) The Base Compensation Rate shall be used as a reference for determining the New Compensation Rate.  
