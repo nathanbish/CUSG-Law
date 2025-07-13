@@ -176,13 +176,13 @@ The UCSU Finance Board shall not alter the programmatic priorities of budgets ad
 (b) The CUSG Staff, in collaboration with the Executive(s) or their designee and the Executive Committee of the Legislative Council, shall maintain and publicly post a complete list of all CUSG Board Chairs and members, Executive Cabinet employees, Executive(s), Legislative Council members and staff, and cost center professional staff who interact with CUSG Boards.
 
 
-## §6.1.5 – Ex-Officio Finance Board Seat Requirement  
+## §6.1.14 – Ex-Officio Finance Board Seat Requirement  
 **Enacted by 93 LCB 05 (2020, “CUSG Joint and Advisory Board Communication and Onboarding Centralization”)**
 
 (a) All Joint and Advisory Boards shall establish within their bylaws one (1) ex-officio seat designated for a member of the Finance Board.
 
 
-## §6.1.6 – Joint Board Roster Submission Requirements  
+## §6.1.15 – Joint Board Roster Submission Requirements  
 **Enacted by 93 LCB 05 (2020, “CUSG Joint and Advisory Board Communication and Onboarding Centralization”)**
 
 (a) The necessary information for maintaining the public roster list may be transmitted and updated as needed by Boards and CUSG Proper.
