@@ -165,7 +165,7 @@
 
 
 ## §3.1.10 – Care Package Program Funding  
-**Enacted by 101 LCB 03 (2024, “A Bill to Provide CU Students with Care Packages to Increase Early Engagement with CUSG”)**
+**Enacted by 101 LCB 03 (2024, “A Bill to Provide CU Students with Care Packages to Increase Early Engagement with CUSG”); amended by 102 LCB 07 (2025, "A Bill to Release the CUSG Helmet Program from CUSG Proper**
 
 (a) The care package program shall be funded through the CUSG Helmet Program.
 
