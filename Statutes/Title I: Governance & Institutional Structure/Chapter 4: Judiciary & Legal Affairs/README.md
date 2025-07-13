@@ -99,3 +99,29 @@
 (a) A decision made by the CSI Joint Board regarding an RSO’s organizational status may be appealed to the CUSG Judicial Branch.
 
 (b) The CUSG Court may issue a preliminary injunction in cases where a designation of bad standing would negatively impact an upcoming event or activity and where no safety threat has been established.
+
+
+## §1.4.9 – Bar Advocate Program  
+**Enacted by 102 LCB 02 (2024, “Bar Advocate Program”)**
+
+(a) The CUSG Judicial Branch shall maintain a Bar Advocate Program to assist students involved in matters before the CUSG Judicial Court.
+
+(b) The Bar Advocate Program shall consist of student volunteers trained in CUSG governing documents and judicial procedure who serve as peer advisors to parties engaged in judicial hearings.
+
+(c) The Chief Justice shall be responsible for appointing Bar Advocates in consultation with the other Justices of the Court.
+
+(d) Bar Advocates shall receive training annually and may not simultaneously serve as a Justice or as a representative in the Legislative Council.
+
+(e) Bar Advocates may not outnumber Justices in any hearing and shall be assigned on a rotating basis as determined by the Chief Justice.
+
+(f) Any student or party brought before the Judicial Court shall have the right to request a Bar Advocate to assist them during hearings, including preparation and presentation of arguments.
+
+(g) The CUSG Judicial Branch shall advertise the Bar Advocate Program through its official website and other public-facing communication platforms to ensure student awareness of this right.
+
+(h) All judicial notices provided to respondents or complainants must include a written statement of the right to request a Bar Advocate and information on how to contact the program.
+
+(i) Bar Advocates shall be permitted to speak and be recognized by the Judicial Court in the same manner as the party they represent, provided such speech is consistent with judicial rules of procedure.
+
+(j) Any testimony or statement made by a party to their Bar Advocate shall be considered privileged and may not be disclosed without the party’s written consent, except as required by law or university policy.
+
+(k) Bar Advocates shall maintain confidentiality, act professionally, and uphold the integrity of the Judicial process. Violations of confidentiality or professionalism may result in removal from the program at the discretion of the Chief Justice.
