@@ -172,3 +172,16 @@ Attorneys in the employ of UCSU Legal Services shall be issued parking permits n
 (d) Failure to attend the training without a valid and provable excuse shall subject the official or staff member to removal procedures as outlined in applicable governance provisions.
 
 (e) The Legislative Council Vice President shall track participation in the training and report to the Legislative Council President and Executive Committee.
+
+## §6.4.6 – Mandatory Safe Space Training  
+**Enacted by 94 LCB 11 (2021, “A Bill for Safe Space Training”)**  
+**Text:**  
+(a) All CUSG employees, paid and unpaid, and all individuals acting in an official CUSG capacity shall complete the Safe Space training created by the Pride Office, starting in Fall 2021.  
+
+(b) The current Gender and Sexuality Liaison and the Director of Diversity and Inclusion shall be responsible for coordinating with the Pride Office to ensure that the most updated Safe Space training is being utilized and completed by all CUSG members.
+
+(c) The Pride Office shall be consulted annually to confirm that CUSG has access to the most updated Safe Space training.  
+> (i) This training shall be easily accessible and a link shall be displayed on the CU Student Government Required Training Canvas page.
+
+(d) Any CUSG member who fails to complete this training without valid excuse may be subject to removal. This training shall carry equal disciplinary weight with all other required CUSG trainings.
+
