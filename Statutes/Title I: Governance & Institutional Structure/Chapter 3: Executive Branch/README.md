@@ -140,3 +140,11 @@ The statute directed an amendment to the UCSU Bylaws, stating that the State of 
 (b) All updates to the roster of contact information must be posted within two weeks of a written request submitted by email or in hard copy.
 
 (c) There must also be updates every May, August, and January.
+
+
+## §1.3.11 – Accessibility Review Responsibilities of the Disability Services Liaison  
+**Enacted by 96 LCB 07 (2022, “A Campus Accessibility Plan for RSOs”)**  
+**Text:**  
+(a) The Disability Services Liaison shall annually review the accessibility request process between student organizations, the CU ADA Coordinator, and CU Disability Services to ensure the process remains functional and clear.
+
+(b) The Disability Services Liaison shall advocate for inclusion of accessibility guidance in the Center for Student Involvement’s Student Organization Handbook by reviewing the document annually and recommending relevant updates.
