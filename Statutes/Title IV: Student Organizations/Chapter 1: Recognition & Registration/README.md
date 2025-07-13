@@ -14,7 +14,7 @@
 (e) Student group email addresses shall not be used to send communications unrelated to the operations, services, or obligations of CUSG or the University.
 
 
-## §4.1.4 – Bylaw Submission Requirements for Recognition  
+## §4.1.2 – Bylaw Submission Requirements for Recognition  
 **Enacted by** 92 LCB 13 (2020, “A Bill to Establish Legislative Council Oversight of All CUSG Fee-Supported Organization Bylaws”)
 
 (a) All CUSG fee-supported organizations must submit their bylaws to the Center for Student Involvement (CSI) with all other necessary information and requirements established by CSI in order to maintain their status as a Recognized Student Organization and to request funding from CUSG-fee supported funding boards or organizations.
@@ -22,3 +22,11 @@
 > (i) The Center for Student Involvement shall work directly with the Rules Committee Chair and the President of the Legislative Council to ensure access to bylaws and facilitate timely review.
 
 > (ii) All funding requests to funding boards must include a copy of the organization's current bylaws.
+
+
+## §4.1.3 – Mandate to Establish and Maintain Bylaws  
+**Enacted by** 92 LCB 13 (2020, “A Bill to Establish Legislative Council Oversight of All CUSG Fee-Supported Organization Bylaws”)
+
+(a) Any current CUSG fee-supported organization that does not have established bylaws shall be required to do so.
+
+(b) Failure to establish bylaws will result in the organization being unable to request funding from CUSG-fee supported funding boards or organizations, and their accounts shall be frozen until bylaws are submitted to CSI.
