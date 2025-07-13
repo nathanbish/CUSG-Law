@@ -96,3 +96,19 @@
 (e) The Legislative Council may support the Executive Cabinet in creating the timeline and report.
 
 (f) The report must be reviewed annually by the Executives, Chief of Staff, and Director of Diversity and Inclusion.
+
+
+## §2.2.5 – Equity Caucus Programming  
+**Enacted by 96 LCB 15 (2022, “Continue Anti-Racism Caucuses Within CUSG”)**  
+**Text:**  
+(a) Anti-Racism Caucuses may be held on a weekly or biweekly basis and shall be primarily led by the Director of Diversity and Inclusion.  
+> (i) Individuals interested in facilitating a caucus may do so after meeting with the Director of Diversity and Inclusion and reviewing the proposed agenda for the week.
+
+(b) The Director of Diversity and Inclusion shall encourage the facilitation of a White Allies Caucus.  
+> (i) If the Director of Diversity and Inclusion is unable to lead the caucus, the Legislative Council President shall appoint a replacement.  
+> (ii) Individuals within the White Allies Caucus may facilitate if they review the proposed agenda with the Director of Diversity and Inclusion in advance.  
+> (iii) The Director is encouraged to attend all White Allies Caucus meetings and serve as a mentor for the space each week.
+
+(c) The Director of Diversity and Inclusion shall research and respond to questions arising in anti-racism caucuses.  
+> (i) They may consult the Center for Inclusion and Social Change, trusted faculty, or academic sources.  
+> (ii) The Director shall facilitate and approve caucus agendas based on topics including, but not limited to: generational trauma, Eurocentric beauty standards, structural racism, racism in education, issues affecting students of Color, and relevant educational topics.
