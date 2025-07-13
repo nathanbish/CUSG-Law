@@ -80,3 +80,19 @@
 (b) The CUSG Director of Communication and Director of Multimedia shall produce a monthly CUSG newsletter to be posted on the CUSG website.  
 (c) At the beginning of each academic semester, the Executives shall deliver an update to Legislative Council on the health and priorities of CUSG.
 
+## §2.2.8 – Executive Branch Diversity and Inclusion Accountability  
+**Enacted by 93 LCB 13 (2020, “A Bill to Standardize Hiring Practices for CUSG”)**
+
+(a) The Executive Branch must publish a list of goals regarding Diversity and Inclusion efforts, with a timeline and measurable action items, by the date petition packets are due for Fall CUSG elections.
+
+(b) Once the Executive Cabinet is filled, the Social Equity Commission shall collect and release demographic data on the CUSG website.
+
+> (i) If the Social Equity Commission has not been established, an Ad Hoc committee may be created to fulfill this task.
+
+(c) The demographic data, initiatives, and action items must be published annually on the CUSG website.
+
+(d) The goals report must include current diversity and inclusion initiatives, action items for improvement, and new initiative ideas.
+
+(e) The Legislative Council may support the Executive Cabinet in creating the timeline and report.
+
+(f) The report must be reviewed annually by the Executives, Chief of Staff, and Director of Diversity and Inclusion.
