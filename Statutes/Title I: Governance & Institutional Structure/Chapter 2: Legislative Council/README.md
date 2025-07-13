@@ -216,3 +216,11 @@ At the start of the Pro-Tempore Report, the President Pro-Tempore shall make a b
 (a) All revisions to bylaws of CUSG fee-supported organizations, with the exception of the Executive Branch and local school and college governments, that have been approved by the organization’s membership must be submitted to and approved by the Legislative Council Rules Committee.
 
 (b) After receiving the signed and documented approval of the Rules Committee Chair and the President of the Legislative Council, the bylaws shall take effect immediately.
+
+
+## §1.2.7 – Commission Bylaw Review  
+**Enacted by** 92 LCB 05 (2020, “A Bill to Separate Commission Bylaws Out of Legislative Council Bylaws”)
+
+(a) Each set of commission bylaws shall be revised or revisited no less than once per academic year.
+
+(b) Such review shall be conducted through a formal update or bill submitted by the respective commission’s chair to the Legislative Council.
