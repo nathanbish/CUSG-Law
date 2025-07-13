@@ -147,7 +147,7 @@ Attorneys in the employ of UCSU Legal Services shall be issued parking permits n
 (h) Changes to compensation rates shall not exceed a ten percent (10%) increase or a two and one-half percent (2.5%) reduction from the prior year’s stipend.
 
 
-## §6.4.5 – UndocuAlly Training Requirements for CUSG Proper 
+## §6.4.10 – UndocuAlly Training Requirements for CUSG Proper 
 **Enacted by 94 LCB 17 (2021, “A Bill to Require UndocuAlly Training for All CUSG Proper Members”)**
 
 (a) The department of diversity and inclusion shall be responsible for scheduling and notifying all members of CUSG Proper of the dates and times when the UndocuAlly training will take place during the first two months of the school year. It is the responsibility of the student representative to sign up for a training that fits in their schedule.
@@ -157,3 +157,18 @@ Attorneys in the employ of UCSU Legal Services shall be issued parking permits n
 (c) The department of diversity and inclusion, in collaboration with the Center for Inclusion and Social Change, shall administer a quiz based on the UndocuAlly training. The director of diversity and inclusion must have successfully completed FERPA training to oversee the quiz. Each member of CUSG Proper shall complete the quiz via the CU student government Canvas page and score at least 90% within 48 hours of attending the training.
 
 (d) Failure to attend the training and/or to score at least 90% on the associated quiz may be grounds for removal by the Legislative Council or termination of employment.
+
+## §6.4.11 – Mandatory Sexual Assault Awareness Training  
+**Enacted by 94 LCB 12 (2021, “A Bill to Require Sexual Assault Awareness Training”)**  
+**Text:**  
+(a) All three branches of CUSG shall collaborate with the Office of Institutional Equity and Compliance to complete a sexual assault awareness training once a year during an on-campus training session or retreat, preferably during the Fall.
+
+(b) The Vice President of the Legislative Council shall coordinate with OIEC to schedule and accomplish the training for the Legislative Branch.  
+> (i) This shall include collaboration with the Director of Education and identification of a time when the majority of CUSG members can attend.  
+> (ii) The Chief of Staff of the Executive Branch and the Chief Justice of the Judicial Branch shall assist in coordinating participation by their respective branches.
+
+(c) A training day or retreat shall be held on-campus or virtually, during the summer or fall, after the swearing-in of the new Legislative Session and Executive Cabinet, for the purpose of fulfilling all CUSG training requirements.
+
+(d) Failure to attend the training without a valid and provable excuse shall subject the official or staff member to removal procedures as outlined in applicable governance provisions.
+
+(e) The Legislative Council Vice President shall track participation in the training and report to the Legislative Council President and Executive Committee.
