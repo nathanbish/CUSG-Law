@@ -86,3 +86,8 @@
 
 (g) The bi-weekly stipend for the Deputy Chief Justice and Associate Justices shall not be paid during university-established breaks in the academic calendar unless extreme circumstances (to be determined by the Chief Justice) merit meetings of the Appellate Court.
 
+
+## §1.4.7 – Bylaw Appeals Process  
+**Enacted by** 92 LCB 13 (2020, “A Bill to Establish Legislative Council Oversight of All CUSG Fee-Supported Organization Bylaws”)
+
+(a) All decisions regarding bylaws by the Rules Committee and Legislative Council may be appealed to the Appellate Court of CUSG.
