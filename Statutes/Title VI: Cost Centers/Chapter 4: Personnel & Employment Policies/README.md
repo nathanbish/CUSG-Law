@@ -52,3 +52,29 @@ Attorneys in the employ of UCSU Legal Services shall be issued parking permits n
 (c) CUSG Proper job postings shall include a sufficient description of the expectations of the role, expected hours of work required, and the rate of pay.
 
 (e) Applications for roles must be open for at least 28 days. At the end of the 28 days, the hiring team must interview at least three of the students who applied, assuming at least three candidates applied. If fewer than three applied, all applicants must be interviewed.
+
+
+## §6.4.6 – Centralized Board Training and Onboarding  
+**Enacted by** 93 LCB 05 (2020, “CUSG Joint and Advisory Board Communication and Onboarding Centralization”)
+
+(a) All required individual online training, with the exception of any training that is incompatible with online methods, shall be established through a common CUSG community Canvas page or appropriate Learning Management Software (LMS) offered by the University of Colorado Boulder.
+
+(b) All Joint Boards and their chairs shall work with the Vice President of the Legislative Council and the Appointments Committee of the Legislative Council to establish and maintain their LMS-based training materials and documentation.
+
+(c) Outside of the necessary training requirements established through legislation or constitutional law, the Vice President of the Legislative Council shall determine which trainings are necessary and mandatory for all Joint and Advisory Board chairs and members, upon advice from the Executive Committee of the Legislative Council and information provided by Joint Board chairs and professional cost center staff.
+
+(d) All Local School and College Governments may utilize the training tools provided by the CUSG community Canvas page or other appropriate LMS services.
+
+> (i) Local governments may establish and maintain training mechanisms specific to their local governance in addition to those required by the Legislative Council.
+
+> (ii) The Chair of the Council of Colleges and Schools shall manage all local training requirements and coordinate access and maintenance with school and college leadership.
+
+
+## §6.4.7 – Training Compliance and Enforcement  
+**Enacted by** 93 LCB 05 (2020, “CUSG Joint and Advisory Board Communication and Onboarding Centralization”)
+
+(a) The Vice President and Appointments Committee of the Legislative Council shall establish within the Legislative Council Bylaws a method for tracking and reporting training activities of all Boards and CUSG employees subject to required trainings.
+
+(b) All online training requirements must be completed within four (4) weeks of ratification for any new member of a Board or CUSG Proper branch.
+
+> (i) Any member that has not completed the training within the required time shall be called before the Legislative Council for review, at which point they may be removed from office or have articles of impeachment drawn up.
