@@ -141,3 +141,14 @@
 
 (a) In the event that any payment amount resulting from position pay legislation cannot be evenly rounded to two decimal places, the amount shall be rounded up to the nearest two decimal places.
 
+
+## §6.4.8 – Base Compensation Adjustment Formula  
+**Enacted by 57 LCB 12 (2002, “Base Compensation Rate”)**
+
+(a) The Base Compensation Rate shall be used as a reference for determining the New Compensation Rate.  
+(b) The New Compensation Rate shall be calculated using the following formula:
+
+> ( (Current Year CPI – Base Year CPI) / Base Year CPI + 1 ) × Base Compensation Rate
+
+(c) The base year CPI shall be the March 2003 CPI.  
+(d) This formula shall be used for the purposes of initial budgeting; compensation amounts may be amended during budget approval.
