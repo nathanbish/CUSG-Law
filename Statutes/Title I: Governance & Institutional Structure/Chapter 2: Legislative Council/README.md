@@ -255,3 +255,13 @@ At the start of the Pro-Tempore Report, the President Pro-Tempore shall make a b
 > (iii) The Representative Council Speaker shall choose how the information that is introduced for the incoming Representatives is presented but should provide time for discussion.
 
 > (iv) Incoming Representatives who cannot attend the Representative Council meeting set by the Representative Council Speaker may attend another Representative Council meeting ahead of their CUSG initiation if they so choose. Alternatively, they can find time to meet with the Representative Council Speaker to learn what was discussed.
+
+
+## §1.2.16 – Legislative Council Training Requirements  
+**Enacted by 101 LCB 10 (2024, “A Bill Requiring and Encouraging Members of CUSG to Participate in Bystander Intervention and Survivor Support Training”)**
+
+(a) All members of CUSG Legislative Council shall be required to attend one Sexual Assault Prevention training session run by the Office of Institutional Equity and Compliance per session.  
+> (i) An exception may be granted to members of CUSG who have completed the requirements set herein within the current academic year.
+
+(b) All members of CUSG Legislative Council shall be required to attend one Victim Support training session run by the Office of Victim Assistance per session.  
+> (i) An exception may be granted to members of CUSG who have completed the requirements set herein within the current academic year.
