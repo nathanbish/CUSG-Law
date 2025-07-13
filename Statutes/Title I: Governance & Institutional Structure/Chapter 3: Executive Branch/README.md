@@ -116,3 +116,9 @@ The statute directed an amendment to the UCSU Bylaws, stating that the State of 
 (a) The Executives must send out an email to all CSI-recognized student organizations by June 30th, listing the roles available for application and the application deadline.
 
 >(i) The structure of the Executive Cabinet must be approved by the Legislative Council before this email may be sent.
+
+
+## §1.3.10 – Vacancy Communication Support  
+**Enacted by 93 LCB 05 (2020, “CUSG Joint and Advisory Board Communication and Onboarding Centralization”)**
+
+(a) The Strategic Communications Department, Legislative Council Communications Director, or appropriate media relations officer, or the relevant Executive Cabinet department shall work with Board chairs or their designees to maintain Board vacancy listings, create application materials, and manage public updates as needed.
