@@ -188,3 +188,21 @@ The UCSU Finance Board shall not alter the programmatic priorities of budgets ad
 (a) The necessary information for maintaining the public roster list may be transmitted and updated as needed by Boards and CUSG Proper.
 
 (b) Boards and CUSG Proper shall submit updated information in May, August, and January each year in alignment with the University’s academic calendar.
+
+## §6.1.16 – CSI Joint Board RSO Standing Adjudication Procedures  
+**Enacted by 101 LCB 06 (2024, “A Bill to Enhance Student Input on the Organizational Standing of RSOs”)**  
+**Text:**  
+(a) The CSI Joint Board shall establish an adjudication process involving a due process hearing to decide on the organizational standing of a Recognized Student Organization (RSO).  
+
+(b) The input and vote of the CSI Joint Board shall be part of this adjudication process.
+
+(c) The adjudication process shall apply only to violations of CSI-created policies and shall not supersede university-wide policies.
+
+(d) To place an RSO in bad standing, the CSI Board must meet quorum and secure a majority vote (fifty percent plus one).
+
+(e) For administrative infractions, the CSI Board may place an RSO in bad standing via summary motion (e.g., consent agenda) without a formal hearing.
+
+(f) The Rules Committee of the Legislative Council shall work with the CSI Board to update its bylaws to reflect the adjudication process.
+
+(g) If the CSI Joint Board has not been established, the hearing process shall be conducted by the Rules Committee of the CUSG Legislative Council.
+
