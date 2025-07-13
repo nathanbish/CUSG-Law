@@ -108,3 +108,11 @@ provision such as this into their bylaws, whichever comes first," Neither of whi
 (a) The distribution of single-use plastic bottles at student fee funded events shall be prohibited.  
 (b) All student fee funded events shall distribute beverages using reusable, recyclable, or compostable containers, should they choose to distribute beverages.  
 (c) The definition of recyclable containers, excluding single-use plastic bottles, shall refer to the guidelines set by CU Boulder’s recycling contractors.
+
+
+## §3.2.3 – Sanctions for Bylaw Noncompliance  
+**Enacted by** 92 LCB 13 (2020, “A Bill to Establish Legislative Council Oversight of All CUSG Fee-Supported Organization Bylaws”)
+
+(a) Any CUSG fee-supported organization, with the exception of the Executive Branch and local school and college governments, that fails to maintain bylaws, submit them to CSI, adopt amendments approved by the Legislative Council, or comply with the Legislative Council’s oversight shall be ineligible for funding from any CUSG board.
+
+(b) Current funding shall be frozen and new requests denied until compliance is achieved.
