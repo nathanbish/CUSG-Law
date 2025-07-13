@@ -184,3 +184,15 @@
 > (i) It is linked from the CUSG website, publicly accessible, and kept up to date.  
 > (ii) Constitutions and bylaws must still be published individually in PDF format as outlined in subsection (c).  
 > (iii) The online folder must be “owned” by a non-student account to ensure continuity across administrations.
+
+## §1.1.13 – Religious Discrimination Resource Page  
+**Enacted by 96 LCB 01 (2022, “Defining and Creating an Anti-Semitism Resource List”)**  
+**Text:**  
+(a) The CU Student Government website shall include a dedicated webpage for resources related to religious-based discrimination.
+
+(b) This webpage shall include the following items:  
+> (i) Legislation passed or Judicial decisions made in relation to religious-based discrimination.  
+> (ii) CU-sponsored and departmental resources.  
+> (iii) External resources, including those offered through local law enforcement and the Anti-Defamation League.
+
+(c) The webpage shall be updated within seven (7) days of passage of any legislation by the Legislative Council that relates directly to religious-based discrimination.
