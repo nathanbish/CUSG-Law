@@ -112,100 +112,33 @@ Attorneys in the employ of UCSU Legal Services shall be issued parking permits n
 
 (f) This statute must be reviewed every two years by the Chief of Staff and the Director of Diversity and Inclusion or equivalent future designees for accuracy of specialists and trainings available to fulfill requirements.
 
+---
 
-## §6.4.9 – Compensation Adjustment System for CUSG Leadership  
-**Enacted by** 92 LCB 14 (2020, “A Bill for a CUSG Proper Stipend System of Compensation Adjustment for Leadership Engagement (SCALE)”)
-
-(a) All legislators, Joint Board Chairs, Appellate Court Justices, and Executives shall be compensated with a biweekly stipend according to the University of Colorado Boulder’s annual pay period schedule.
-
-(b) The Finance Board shall review the compensation rates of the Legislative Council, Joint Board Chairs, Executives, and Appellate Court Justices on a biannual basis beginning in the spring semester of academic year 2020–21. During this review, the Finance Board shall evaluate the sufficiency of current pay rates for legislators and executives of the Legislative Council, including the President, Vice President, Parliamentarian, Representative Council Speaker, and Chair of the Council of Colleges and Schools, the Executives, Joint Board Chairs, and Appellate Court Justices, including the Chief Justice.
-
-(c) The Finance Board shall make recommendations to the Legislative Council regarding its evaluation findings during the review of CUSG Proper budget planning and approval.
-
-(d) Changes to compensation rates must be submitted to the Legislative Council by the Finance Board prior to CUSG Proper budget hearings. Legislative Council shall review and hold a public vote on the proposed changes to compensation for legislators, Legislative Council executives, Joint Board Chairs, Executives, and Appellate Court Justices. Approval requires a two-thirds (2/3) vote of the Legislative Council.
-
-(e) In reviewing or recommending compensation adjustments, the Finance Board and Legislative Council may consider any or all of the following factors:
-> (i) Wage competitiveness  
-> (ii) Pay rates of other student jobs across CU Boulder  
-> (iii) Ability to recruit and retain a diverse Legislative Council  
-> (iv) Annual increases in the Boulder Housing Cost Index  
-> (v) Annual increases in the Boulder Cost of Living Index  
-> (vi) Average and median reported hours worked by senators and representatives  
-> (vii) Living wage estimates for a single adult with no children in Boulder  
-> (viii) Colorado state minimum wage  
-> (ix) Boulder city minimum wage
-
-> Additional factors may also be considered at the discretion of the Finance Board and Legislative Council.
-
-(f) Finance Board recommendations may include differentiated compensation for:
-> (i) Leadership roles within the Legislative Council, Representative Council, and Council of Colleges and Schools  
-> (ii) Differences in academic status of legislators  
-> (iii) Legislator roles on committees, commissions, and/or joint or advisory boards
-
-(g) Any approved changes to compensation shall take effect at the start of the next CUSG Proper fiscal year.
-
-(h) Changes to compensation rates shall not exceed a ten percent (10%) increase or a two and one-half percent (2.5%) reduction from the prior year’s stipend.
-
-
-## §6.4.10 – UndocuAlly Training Requirements for CUSG Proper 
-**Enacted by 94 LCB 17 (2021, “A Bill to Require UndocuAlly Training for All CUSG Proper Members”)**
-
-(a) The department of diversity and inclusion shall be responsible for scheduling and notifying all members of CUSG Proper of the dates and times when the UndocuAlly training will take place during the first two months of the school year. It is the responsibility of the student representative to sign up for a training that fits in their schedule.
-
-(b) The Center for Inclusion and Social Change and designated faculty allies shall conduct the UndocuAlly training for members of CUSG Proper. Attendance shall be taken and provided to the department of diversity and inclusion for bookkeeping.
-
-(c) The department of diversity and inclusion, in collaboration with the Center for Inclusion and Social Change, shall administer a quiz based on the UndocuAlly training. The director of diversity and inclusion must have successfully completed FERPA training to oversee the quiz. Each member of CUSG Proper shall complete the quiz via the CU student government Canvas page and score at least 90% within 48 hours of attending the training.
-
-(d) Failure to attend the training and/or to score at least 90% on the associated quiz may be grounds for removal by the Legislative Council or termination of employment.
-
-## §6.4.11 – Mandatory Sexual Assault Awareness Training  
-**Enacted by 94 LCB 12 (2021, “A Bill to Require Sexual Assault Awareness Training”)**  
-**Text:**  
-(a) All three branches of CUSG shall collaborate with the Office of Institutional Equity and Compliance to complete a sexual assault awareness training once a year during an on-campus training session or retreat, preferably during the Fall.
-
-(b) The Vice President of the Legislative Council shall coordinate with OIEC to schedule and accomplish the training for the Legislative Branch.  
-> (i) This shall include collaboration with the Director of Education and identification of a time when the majority of CUSG members can attend.  
-> (ii) The Chief of Staff of the Executive Branch and the Chief Justice of the Judicial Branch shall assist in coordinating participation by their respective branches.
-
-(c) A training day or retreat shall be held on-campus or virtually, during the summer or fall, after the swearing-in of the new Legislative Session and Executive Cabinet, for the purpose of fulfilling all CUSG training requirements.
-
-(d) Failure to attend the training without a valid and provable excuse shall subject the official or staff member to removal procedures as outlined in applicable governance provisions.
-
-(e) The Legislative Council Vice President shall track participation in the training and report to the Legislative Council President and Executive Committee.
-
-## §6.4.12 – Mandatory Safe Space Training  
+## §6.4.9 – Mandatory Safe Space Training  
 **Enacted by 94 LCB 11 (2021, “A Bill for Safe Space Training”)**  
 **Text:**  
 (a) All CUSG employees, paid and unpaid, and all individuals acting in an official CUSG capacity shall complete the Safe Space training created by the Pride Office, starting in Fall 2021.  
 
-(b) The current Gender and Sexuality Liaison and the Director of Diversity and Inclusion shall be responsible for coordinating with the Pride Office to ensure that the most updated Safe Space training is being utilized and completed by all CUSG members.
-
-(c) The Pride Office shall be consulted annually to confirm that CUSG has access to the most updated Safe Space training.  
+(b) The Pride Office shall be consulted annually to confirm that CUSG has access to the most updated Safe Space training.  
 > (i) This training shall be easily accessible and a link shall be displayed on the CU Student Government Required Training Canvas page.
 
-(d) Any CUSG member who fails to complete this training without valid excuse may be subject to removal. This training shall carry equal disciplinary weight with all other required CUSG trainings.
+(c) Any employee who fails to complete this training without valid excuse may be subject to removal. This training shall carry equal disciplinary weight with all other required CUSG trainings.
 
+---
 
-## §6.4.13 – Mandatory Sustainability Education  
+## §6.4.10 – Mandatory Sustainability Education  
 **Enacted by 94 LCB 09 (2021, “A Bill to Require Sustainability Education”)**  
 **Text:**  
-(a) The CUSG Sustainability Chair, CUSG Chief of Staff, and a representative of the Environmental Board shall present to each branch of CUSG on the topics outlined in the Global Climate Letter and expand upon them where appropriate.
+(a) Joint Boards and Cost Centers shall receive access to a one (1) hour pre-recorded training on the topics outlined in the Global Climate Letter, with the option to request a live version.
 
-(b) The Executive, Legislative, and Judicial Branches shall attend a one (1) hour live training provided by the individuals in subsection (a).  
-> (i) Joint Boards and Cost Centers shall receive access to a one (1) hour pre-recorded training, with the option to request a live version.
-
-(c) The training shall include, but is not limited to:  
+(b) The training shall include, but is not limited to:  
 > (i) Defining sustainability and its intersection with equity in a university setting.  
 > (ii) Overview of campus sustainability groups, including the Environmental Center, Sustainability Commission, Buff Pantry, and relevant campus administrators.  
 > (iii) Review of CUSG sustainability legislation and CU Boulder’s sustainability goals.  
 > (iv) Opportunities for promoting sustainability, environmental justice, and social equity in CUSG policy.
 
-(d) Additional topics may be included at the discretion of the Sustainability Chair to support foundational sustainability understanding.
+(c) Additional topics may be included at the discretion of the Sustainability Chair to support foundational sustainability understanding.
 
-(e) This education shall be completed once per year, either according to branch bylaws or within one month of ratification into office.
+(d) This education shall be completed once per year, either according to bylaws or within one month of hiring.
 
-(f) Legislative Council shall notify the Sustainability Chair no later than two weeks after a new member is ratified into CUSG to allow training coordination.
-
-(g) This statute shall be reviewed every two years by the CUSG Sustainability Chair, CUSG Chief of Staff, and a Co-Chair of the Environmental Board or equivalent future positions.
-
-(h) The training curriculum shall be revised annually by the Sustainability Chair, Chief of Staff, and a Co-Chair of the Environmental Board or equivalent future positions.
+(e) The training curriculum shall be revised annually by the Sustainability Chair, Chief of Staff, and a Co-Chair of the Environmental Board or equivalent future positions.
