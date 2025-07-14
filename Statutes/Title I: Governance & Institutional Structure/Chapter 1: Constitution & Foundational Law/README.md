@@ -18,34 +18,23 @@
 **Text:**  
 (a) The University of Colorado Student Government (CUSG) shall be recognized as the official student government for the University of Colorado at Boulder.
 
-## §1.1.3 – Archival Preservation of CUSG Records  
-**Enacted by 83 LCB 11 (2015, “CUSG Archives”)**
+## §1.1.2 – Archival Preservation of CUSG Records  
+**Enacted by** 83 LCB 11 (2015, “CUSG Archives”)
 
 (a) The Legislative Council President, Chief Justice of the Appellate Court, and the Tri-Executives shall coordinate with the CUSG Office Manager to ensure that records of CUSG business are regularly submitted to the University Archives at Norlin Library for safekeeping.  
+
 (b) A formal system for the recurring archival of CUSG records shall be maintained and may be reviewed by Legislative Council.  
+
 (c) Archives submitted to Norlin shall remain accessible for historical research purposes; however, CUSG records shall not be removed from their designated place at Norlin.  
+
 (d) Legislative Council shall have authority under Article VI of the Constitution to pursue disciplinary action against any member of CUSG who willfully removes archived materials from Norlin in violation of this statute.  
+
 (e) CUSG may also take appropriate action against non-CUSG individuals who interfere with the safekeeping of its archives.
 
-## §1.1.4 – Mandatory Officer Trainings
-**Enacted by 87 LCB 01 (2017, “A.U.D.I.T. – Internal Transformation”)**
-
-(a) All members of the Executive, Legislative, and Judicial Branches, and the Election Commission, shall be required to complete mandatory trainings on a timeline not to exceed four (4) weeks from the time of ratification or swearing-in.
-
-(b) This training requirement shall supersede any previously established training deadlines within the governing documents of CU Student Government.
 
 ---
 
-## §1.1.5 – Training Requirement for Joint and Advisory Board Members
-**Enacted by 87 LCB 01 (2017, “A.U.D.I.T. – Internal Transformation”)**
-
-(a) All voting members of Joint and Advisory Boards shall be required to complete mandatory trainings on a timeline not to exceed four (4) weeks from the time of ratification.
-
-(b) Failure to complete this requirement shall result in initiation of removal actions as prescribed by the CUSG Constitution or applicable bylaws.
-
----
-
-## §1.1.6 – Annual and Biannual Governance Document Review Requirements
+## §1.1.3 – Annual and Biannual Governance Document Review Requirements
 **Enacted by 87 LCB 01 (2017, “A.U.D.I.T. – Internal Transformation”)**
 
 (a) An annual review of the University of Colorado Student Government Constitution shall be completed by an assembly of the Rules Committee, Legislative Council President and Vice President, the Executive(s), and other relevant stakeholders, no later than the fourth week of the fall semester.
@@ -68,7 +57,7 @@
 
 ---
 
-## §1.1.7 – Service Consolidation Restrictions  
+## §1.1.4 – Service Consolidation Restrictions  
 **Enacted by 84 LCB 08 (2016, “Establishing Service Consolidation Procedures”)**
 
 (a) No consolidation of Human Resources (HR), Information Technology (IT), or Finance and Accounting (F&A) functions under CU Student Government shall occur without either:
@@ -81,7 +70,7 @@
 
 ---
 
-## §1.1.8 – Restrictions on Holding Multiple Board Positions  
+## §1.1.5 – Restrictions on Holding Multiple Board Positions  
 **Enacted by 93 LCB 17 (2020, “A Bill to Establish the Circumstances Under Which Students Can Hold Multiple Positions on Joint and Advisory Boards”)**
 
 (a) An individual may hold positions on more than one Joint or Advisory Board only if all of the following conditions are met:
@@ -100,7 +89,7 @@
 (f) Chairs of Joint and Advisory Boards must ask applicants whether they currently serve on another board. If they do, the chair must inform the Legislative Council Vice President at the time of ratification submission. The Legislative Council shall determine, on a case-by-case basis, whether to permit the appointment to a second board.
 
 ---
-## §1.1.9 – Institutional Email Accounts for Legislative Officers  
+## §1.1.6 – Institutional Email Accounts for Legislative Officers  
 **Enacted by 93 LCB 05 (2020, “CUSG Joint and Advisory Board Communication and Onboarding Centralization”)**
 
 (a) CUSG Proper professional staff shall establish and maintain institutional emails for the following Legislative Council officers:
@@ -114,19 +103,19 @@
 
 ---
 
-## §1.1.10 – Legislative Oversight of Organizational Bylaws  
+## §1.1.7 – Legislative Oversight of Organizational Bylaws  
 **Enacted by** 92 LCB 13 (2020, “A Bill to Establish Legislative Council Oversight of All CUSG Fee-Supported Organization Bylaws”)
 
 (a) The bylaws of all CUSG fee-supported organizations—student clubs and organizations, local school and college governments, joint and advisory boards of CUSG Cost Centers, committees and commissions associated with CUSG, and branches of CUSG Proper including the Appellate Court, the Executive Branch, the Representative Council, and the Council of Colleges and Schools—shall be subject to review by the Legislative Council.
 
 ---
 
-## §1.1.11 – Standing Review Authority of Legislative Council  
+## §1.1.8 – Standing Review Authority of Legislative Council  
 **Enacted by** 92 LCB 13 (2020, “A Bill to Establish Legislative Council Oversight of All CUSG Fee-Supported Organization Bylaws”)
 
 (a) The Legislative Council retains the right to review the bylaws of any CUSG fee-supported organization at any time to ensure alignment with current CUSG regulations and University of Colorado Boulder policy.
 
-## §1.1.12 – Publication of Bylaws, Constitutions, and Governing Documents  
+## §1.1.9 – Publication of Bylaws, Constitutions, and Governing Documents  
 **Enacted by 96 LCB 11 (2022, “A Bill to Require Public Posting of Bylaws, Constitutions, and Governing Documents”)**  
 **Text:**  
 (a) All CUSG branches, joint boards, individual College and School Student Governments, and any other CUSG subsidiaries shall publish their bylaws and constitutions online, prominently accessible on their website or webpage.  
@@ -185,7 +174,7 @@
 > (ii) Constitutions and bylaws must still be published individually in PDF format as outlined in subsection (c).  
 > (iii) The online folder must be “owned” by a non-student account to ensure continuity across administrations.
 
-## §1.1.13 – Religious Discrimination Resource Page  
+## §1.1.10 – Religious Discrimination Resource Page  
 **Enacted by 96 LCB 01 (2022, “Defining and Creating an Anti-Semitism Resource List”)**  
 **Text:**  
 (a) The CU Student Government website shall include a dedicated webpage for resources related to religious-based discrimination.
