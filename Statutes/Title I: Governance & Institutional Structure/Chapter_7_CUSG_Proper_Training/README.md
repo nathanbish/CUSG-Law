@@ -47,7 +47,7 @@
 
 ---
 
-## §1.7.5 – Diversity Training Requirement for Legislative Council Members
+## §1.7.5 – Diversity Training Requirement for CUSG Proper Officials
 
 **Enacted by** 58 LCB 12 (2003)
 
@@ -56,7 +56,12 @@
 (a) All new Legislative Council members shall be required to attend a diversity training session no later than eight weeks after they take office.
 
 (b) Legislative Council members who replace a representative or serve as permanent proxies shall be required to attend the first Legislative Council diversity training available.
+>(i) The Vice President of the Legislative Council shall be responsible for planning the session’s date, time, location, and all other necessary arrangements for the diversity training by the stipulated deadline.
 
-(d) The Vice President of the Legislative Council shall be responsible for planning the session’s date, time, location, and all other necessary arrangements for the diversity training by the stipulated deadline.
+(c) The executives and executive staff shall be required to attend diversity training no later than eight weeks after taking office.
+>(i) The UCSU tri-executives shall be responsible for planning the session’s date, time, location, and all other necessary arrangements for the diversity training by the stipulated deadline.
+
+(d) All justices on the UCSU appellate court shall be required to attend diversity training no later than eight weeks upon taking office.
+>(i) The Chief Justice of the appellate court shall be responsible for arranging the session.
 
 >**Note:** This onboarding requirement is distinct from the recurring Cultural Awareness Workshop mandate in §2.2.1
