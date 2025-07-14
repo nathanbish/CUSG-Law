@@ -22,23 +22,9 @@
 
 (d) Trainees shall review the folder containing copies of all legislation from the current session before their second Executive Council meeting.
 
-## §1.2.3 – Appointee Education Requirement Prior to Ratification
+---
 
-**Enacted by** 18 ECB 23 (1983, “Appointee Education Process Before Ratification”)
-
-**Text:**
-
-(a) After a Joint Board appointment has been made, the individual appointed shall complete an education process.
-
-(b) The education process shall be administered jointly by:  
-> (i) The Chair of the Appointments Committee  
-> (ii) The Chair of the relevant Joint Board
-
-(c) The Chair of the Appointments Committee shall enforce this process by meeting with the appointee prior to ratification.
-
-(d) This education process shall be completed before the appointee is ratified by the Executive Council.
-
-## §1.2.4 – Procedural Announcements by the President Pro-Tempore
+## §1.2.2 – Procedural Announcements by the President Pro-Tempore
 
 **Enacted by** 26ECB22 (1987, “Executive Operations”)
 
@@ -48,7 +34,7 @@ At the start of the Pro-Tempore Report, the President Pro-Tempore shall make a b
 
 ---
 
-## §1.2.5 – Legislative Affairs Commission
+## §1.2.3 – Legislative Affairs Commission
 
 **Enacted by** 32 LCB 6 (1989)
 
@@ -71,7 +57,7 @@ At the start of the Pro-Tempore Report, the President Pro-Tempore shall make a b
 
 (e) The Legislative Affairs Commission shall represent and advance UCSU’s interests to the Colorado State Government and the United States Government.
 
-## §1.2.6 – Committee Operations Guide Requirement
+## §1.2.4 – Committee Operations Guide Requirement
 
 **Enacted by** 38 LCB 6 (1991)
 
@@ -81,38 +67,9 @@ At the start of the Pro-Tempore Report, the President Pro-Tempore shall make a b
 
 (b) A copy of the guide shall be retained by the current Chair of the committee, the President Pro Tempore, and the Vice President Pro Tempore.
 
-## §1.2.7 – Compensation Policy for Representative Council and CCS Speakers
+---
 
-**Enacted by** 49 LCB 09 (1998)
-
-**Text:**
-
-(a) The pay rate for the Representative Council Speaker and Council of Colleges and Schools (CCS) Speaker shall be set by the Legislative Council each spring before the first hearing of the UCSU Proper budget at Finance Board. The pay rate shall be established through a secondary measure of legislation.
-
-(b) The Representative Council Speaker and CCS Speaker shall each be paid an equal amount from the Legislative section of the UCSU Proper budget.
-
-(c) Salaries for the Representative Council Speaker and CCS Speaker shall begin on the first day of classes for the semester in which they serve and end on the last day of final exams for that semester:
-> (i) In odd-numbered sessions, compensation shall be for the Fall semester.  
-> (ii) In even-numbered sessions, compensation shall be for the Spring semester.  
-> (iii) If serving during the Summer, salaries shall begin on the first day of classes for the first term of Summer semester and end on the last day of final exams for the last session of Summer semester.
-
-(d) The Legislative Council President shall send a memorandum to the Student Organizations Finance Office indicating both the beginning and ending dates for the pay period of each Representative Council and CCS Speaker.
-
-## §1.2.8 – Legislative Council Leadership Compensation
-
-**Enacted by** 51 LCB 02 (1999)
-
-**Text:**
-
-(a) The pay rate of the Legislative Council President and Vice President(s) shall be set by Legislative Council each spring before the first hearing of the UCSU Proper budget at Finance Board. The pay rate shall be created by legislation in the form of a secondary measure.
-
-(b) The salary of the Legislative Council President shall continue on a year-round basis due to the constant demand on this office’s authority.
-
-(c) The salary(ies) of the Legislative Council Vice President(s) shall begin the first day of classes for the Fall semester for odd-numbered sessions and end the last day of final exams for the same Fall semester. The salary(ies) shall begin the first day of classes for the Spring semester for even-numbered sessions and end the last day of final exams for the same Spring semester.
-
-(d) The Executive shall issue a memorandum to the Student Organizations Finance Office both beginning and ending the pay of the Legislative Council President and Vice President(s), according to the provisions of this statute.
-
-## §1.2.9 – Legislative Reports and Accountability
+## §1.2.5 – Legislative Reports and Accountability
 
 **Enacted by** 50 LCB 17 (1999)
 
@@ -125,7 +82,7 @@ At the start of the Pro-Tempore Report, the President Pro-Tempore shall make a b
 (c) Failure to submit a report within seven days of the end of the reporting period shall count as the equivalent to a Legislative Council meeting absence. Disciplinary action shall be assessed according to applicable CUSG by-laws.
 
 
-## §1.2.10 – Distribution of Legislative Compilation to Incoming Councilmembers
+## §1.2.6 – Distribution of Legislative Compilation to Incoming Councilmembers
 
 **Enacted by** 55 LCB 02 (2001)
 
@@ -135,22 +92,9 @@ At the start of the Pro-Tempore Report, the President Pro-Tempore shall make a b
 
 (b) This document shall be distributed to all members of the Legislative Council at the start of each new session.
 
+---
 
-## §1.2.11 – Diversity Training Requirement for Legislative Council Members
-
-**Enacted by** 58 LCB 12 (2003)
-
-**Text:**
-
-(a) All new Legislative Council members shall be required to attend a diversity training session no later than eight weeks after they take office.
-
-(b) Legislative Council members who replace a representative or serve as permanent proxies shall be required to attend the first Legislative Council diversity training available.
-
-(d) The Vice President of the Legislative Council shall be responsible for planning the session’s date, time, location, and all other necessary arrangements for the diversity training by the stipulated deadline.
-
->**Note:** This onboarding requirement is distinct from the recurring Cultural Awareness Workshop mandate in §2.2.1
-
-## §1.2.12 – Oath of Office for Legislative Council Representatives
+## §1.2.7 – Oath of Office for Legislative Council Representatives
 
 **Enacted by** 57 LCB 17 (2002)
 
@@ -164,14 +108,16 @@ At the start of the Pro-Tempore Report, the President Pro-Tempore shall make a b
 (c) The Presiding Officer of the Legislative Council shall administer the oath at the beginning of each session or when a new member joins thereafter.
 
 
-## §1.2.13 – Paperless Meeting Procedure  
+## §1.2.8 – Paperless Meeting Procedure  
 **Enacted by 68 LCB 04 (2008, “Digital UCSU”)**
 
 (a) The Legislative Council shall not distribute paper copies of agendas, minutes, bills, resolutions, or budgets at any scheduled official meetings.
 
 (b) The President of Legislative Council may provide a limited number of printed copies at meetings when deemed necessary.
 
-## §1.2.14 – Legislative Liaison to the Residence Hall Association  
+---
+
+## §1.2.9 – Legislative Liaison to the Residence Hall Association  
 **Enacted by 77 LCB 12 (1977, “RHA”)**
 
 (a) A liaison position shall exist for the Residence Hall Association (RHA), consistent with other Joint and Advisory Board positions held by Legislative Council members.  
@@ -181,29 +127,27 @@ At the start of the Pro-Tempore Report, the President Pro-Tempore shall make a b
 (c) One Representative-at-Large shall be appointed and ratified by Legislative Council to serve as the RHA liaison.  
 (d) The RHA liaison shall sit on the RHA Executive Board and shall attend no fewer than half of all RHA meetings.  
 
+---
 
-## §1.2.15 – Parliamentarian Compensation  
-**Enacted by 86 LCB 04 (2017, “Compensation Structure”)**
-
-(a) The Parliamentarian shall be paid a bi-weekly stipend at the same pay level as the Speaker of Representative Council and the Chair of the Council of Colleges and Schools, subject to increases as outlined in §6.4.8.  
-(b) This stipend shall not be paid in weeks during which the Legislative Council does not meet.
-
-## §1.2.16 – Rules Committee Bylaw Approval Procedure  
+## §1.2.10 – Rules Committee Bylaw Approval Procedure  
 **Enacted by** 92 LCB 13 (2020, “A Bill to Establish Legislative Council Oversight of All CUSG Fee-Supported Organization Bylaws”)
 
 (a) All revisions to bylaws of CUSG fee-supported organizations, with the exception of the Executive Branch and local school and college governments, that have been approved by the organization’s membership must be submitted to and approved by the Legislative Council Rules Committee.
 
 (b) After receiving the signed and documented approval of the Rules Committee Chair and the President of the Legislative Council, the bylaws shall take effect immediately.
 
+---
 
-## §1.2.17 – Commission Bylaw Review  
+## §1.2.11 – Commission Bylaw Review  
 **Enacted by** 92 LCB 05 (2020, “A Bill to Separate Commission Bylaws Out of Legislative Council Bylaws”)
 
 (a) Each set of commission bylaws shall be revised or revisited no less than once per academic year.
 
 (b) Such review shall be conducted through a formal update or bill submitted by the respective commission’s chair to the Legislative Council.
 
-## §1.2.18 – Legislative Council Outreach Requirements  
+---
+
+## §1.2.12 – Legislative Council Outreach Requirements  
 **Enacted by 98 LCB 08 (2023, “A Bill to Perform More Frequent and Meaningful Student Outreach By Legislative Council”)**  
 **Text:**  
 (a) The Legislative Council Press Secretary and Legislative Council Staff shall host at least one (1) student outreach event per semester.  
@@ -217,8 +161,9 @@ At the start of the Pro-Tempore Report, the President Pro-Tempore shall make a b
 (c) All members of the Legislative Council are expected to participate in outreach, either through planning or attendance.  
 > (i) Specific expectations shall be determined by the Legislative Council Vice President and Press Secretary.
 
+---
 
-## §1.2.19 – Representative-At-Large Term Transition
+## §1.2.13 – Representative-At-Large Term Transition
 
 **Enacted by 101 LCB 13 (2024, “A Bill for Representative-At-Large Term Transition”)**
 
@@ -234,25 +179,16 @@ At the start of the Pro-Tempore Report, the President Pro-Tempore shall make a b
 
 > (iv) Incoming Representatives who cannot attend the Representative Council meeting set by the Representative Council Speaker may attend another Representative Council meeting ahead of their CUSG initiation if they so choose. Alternatively, they can find time to meet with the Representative Council Speaker to learn what was discussed.
 
+---
 
-## §1.2.20 – Legislative Council Training Requirements  
-**Enacted by 101 LCB 10 (2024, “A Bill Requiring and Encouraging Members of CUSG to Participate in Bystander Intervention and Survivor Support Training”)**
-
-(a) All members of CUSG Legislative Council shall be required to attend one Sexual Assault Prevention training session run by the Office of Institutional Equity and Compliance per session.  
-> (i) An exception may be granted to members of CUSG who have completed the requirements set herein within the current academic year.
-
-(b) All members of CUSG Legislative Council shall be required to attend one Victim Support training session run by the Office of Victim Assistance per session.  
-> (i) An exception may be granted to members of CUSG who have completed the requirements set herein within the current academic year.
-
-
-## §1.2.21 – Legislative Council Outreach Evaluation Procedures  
+## §1.2.14 – Legislative Council Outreach Evaluation Procedures  
 **Enacted by 101 LCB 03 (2024, “A Bill to Provide CU Students with Care Packages to Increase Early Engagement with CUSG”)**
 
 (a) The CUSG Election Commissioner shall analyze voter participation data following each semester's care package distribution and report outcomes to the Legislative Council.
 
 (b) Based on the report, the Legislative Council shall determine necessary adjustments to improve future iterations of the outreach program.
 
-## §1.2.18 – Giveaway Incentives for Legislative Outreach  
+## §1.2.15 – Giveaway Incentives for Legislative Outreach  
 **Enacted by 101 LCB 03 (2024, “A Bill to Provide CU Students with Care Packages to Increase Early Engagement with CUSG”)**
 
 (a) CU Student Government shall host a trivia-based raffle to incentivize engagement during the care package distribution program.  
