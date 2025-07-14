@@ -7,5 +7,4 @@
 - [Chapter 3: Purchasing & Vendor Policies](./Chapter%203%3A%20Purchasing%20%26%20Vendor%20Policies/)
 - [Chapter 4: Student Fees](./Chapter%204%3A%20Student%20Fees/)
 - [Chapter 5: Financial Transparency & Reporting](./Chapter%205%3A%20Financial%20Transparency%20%26%20Reporting/)
-- [Chapter 6: Declaration of th Right of Associated Students](./Chapter_6_Declaration_of_the_Rights_of_Associated_Students/)
-- [Chapter 7: CUSG Proper Pay](./Chapter%207%3A%20CUSG%20Proper%20%26%20Pay/)
+- [Chapter 6: CUSG Proper Pay](./Chapter%206%3A%20CUSG%20Proper%20%26%20Pay/)
