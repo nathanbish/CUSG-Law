@@ -1,4 +1,4 @@
-# Judiciary & Legal Affairs
+# Chapter 4: Judiciary & Legal Affairs
 
 ## §1.4.1 – Precedence of Governing Documents in Impeachment
 
