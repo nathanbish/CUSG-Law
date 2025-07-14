@@ -54,5 +54,55 @@
 (a) The Parliamentarian shall be paid a bi-weekly stipend at the same pay level as the Speaker of Representative Council and the Chair of the Council of Colleges and Schools, subject to increases as outlined in §6.4.8.  
 (b) This stipend shall not be paid in weeks during which the Legislative Council does not meet.
 
+---
 
+## §3.6.5 – Executive Pay Structure
 
+**Enacted by** 51 LCB 3 (1999)
+
+**Text:**
+
+(a) The pay rate of the UCSU Executives shall be set by Legislative Council each spring before the first hearing of the UCSU Proper budget at Finance Board. The pay rate shall be established through legislation in the form of a secondary measure.
+
+(b) Once the newly elected Executives take office in the spring, they shall receive the same rate of pay as the previous Executives until the end of the fiscal year, June 30.
+
+(c) Upon the change in the fiscal year, July 1, the Executives shall receive the pay rate established by Legislative Council during the immediately previous fiscal year.
+
+(d) During the period of overlap (hereafter called "TRANSITION PERIOD") between the election of the new Executives and the UCSU Constitutional end of the current Executives' term, the newly elected Executives shall receive one half of the amount of salary of the current Executives and the current Executives shall be paid their regular salary.
+
+(e) The Legislative Council President shall send a memorandum to the Student Organizations Finance Office stating the beginning and ending dates of the Executive pay period in accordance with the provisions of this section. The Legislative Council President shall also send a copy of the legislation establishing the pay rate.
+
+---
+
+## §3.6.6 – Chief Justice Compensation and Reporting Requirements
+
+**Enacted by** 50 LCB 15 (1999)
+
+**Text:**
+
+(a) The Chief Justice shall be classified as a Student Assistant IV Step 1 and may receive yearly step increases based upon number of years as Chief Justice.
+
+(b) The Chief Justice shall have a maximum of 5 hours per week.
+
+(c) The 5-hour maximum may only be exceeded by joint permission from an Executive and the Legislative Council President.
+
+(d) The Chief Justice shall report using E-Time.
+
+---
+
+## §3.6.7 – Judicial Compensation and Eligibility  
+**Enacted by 86 LCB 04 (2017, “Compensation Structure”)**
+
+(a) Associate Justices shall receive a bi-weekly stipend, as outlined in §3.1.8.  
+
+(b) The Chief Justice and Deputy Chief Justice shall receive a bi-weekly stipend, as outlined in §3.1.8.  
+
+(c) In order to remain eligible for stipend payment, Associate Justices shall attend two (2) weekly office hours, bi-weekly Court meetings, and all other tasks assigned by the Chief Justice or Deputy Chief Justice or outlined in the Appellate Court Bylaws.
+
+(d) The Chief Justice and Deputy Chief Justice shall attend four (4) weekly office hours, attend bi-weekly Court meetings, maintain accurate meeting minutes, set the agenda for the Court and perform all other tasks as outlined in the Appellate Court Bylaws.    
+
+(e) The Chief Justice and Deputy Chief Justice will collectively decide if a Justice has completed their duties. They shall also have the ability to determine the most appropriate manner by which to ensure each duty has been adequately completed. Should they come to an affirmative decision that a Justice has failed to complete their duty, this will result in suspension of the proportion of compensation relevant to that duty. This decision is subject to appeal in the CUSG Legislative Council.      
+
+(f) The Chief Justice shall be entitled to compensation year-round throughout their term in office. The CUSG Executives and Legislative Council President shall send a memorandum to the CUSG office manager to begin and end the pay for each Appellate Court Chief Justice.  
+
+(g) The bi-weekly stipend for the Deputy Chief Justice and Associate Justices shall not be paid during university-established breaks in the academic calendar unless extreme circumstances (to be determined by the Chief Justice) merit meetings of the Appellate Court.
