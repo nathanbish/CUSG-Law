@@ -5,4 +5,4 @@ Easy-to-access codification system to ensure transparency and accountability wit
 
 [Constitution](./Constitution/)
 
-[Budgetary & Financial Codes](./Budgetary%20%26%20Financial%20%Codes/)
+[Budgetary & Financial Codes](./Budgetary%20%26%20Financial%20Codes))
